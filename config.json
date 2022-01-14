@@ -1,0 +1,13 @@
+{
+    "upperCase": 100,
+    "number of Spaces": 0,
+    "number of Digits": 0,
+    "number of minus characters": 1,
+    "number of dash characters": 0,
+    "roman number": false,
+    "min length": 2,
+    "max length": 10,
+    "exception":["NASA-IMPACT-MAAP", 
+        "mRNA",
+        "CESSNA SINGLE-ENGINE AIRCRAFT"]
+}
