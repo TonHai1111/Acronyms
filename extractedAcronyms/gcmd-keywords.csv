@@ -1,0 +1,43 @@
+Term,Description,Context
+GCMD,Change Master Directory,Global Change Master Directory (GCMD) Keywords | Earthdata 
+IDN,International Directory Network,Find Data International Directory Network (IDN) 
+GCMD,Global Change Master Directory,International Directory Network (IDN) Global Change Master Directory (GCMD) Keywords 
+IDN,International Directory Network,More GCMD Resources CEOS International Directory Network (IDN)Common Metadata RepositoryESDIS Standards Office Keyword Governance and Community Guide DocumentGCMD Keywords Community Forum 
+GCMD,Global Change Master Directory,CEOS International Directory Network (IDN)Common Metadata RepositoryESDIS Standards Office Keyword Governance and Community Guide DocumentGCMD Keywords Community Forum Global Change Master Directory (GCMD) Keywords 
+GCMD,Change Master Directory,"Global Change Master Directory (GCMD) Keywords Global Change Master Directory (GCMD) Keywords are a hierarchical set of controlled Earth Science vocabularies that help ensure Earth science data, services, and variables are described in a consistent and comprehensive manner and allow for the precise searching of metadata and subsequent retrieval of data, services, and variables. Initiated over twenty years ago, GCMD Keywords are periodically analyzed for relevancy and will continue to be refined and expanded in response to user needs. "
+EOSDIS,Earth Observing System Data and Information System,"Community Use of GCMD Keywords NASA’s Earth Observing System Data and Information System (EOSDIS) as well as numerous other U.S. and international agencies, research universities, and scientific institutions use GCMD Keywords as an authoritative vocabulary, taxonomy, or thesaurus to describe Earth science data, services, and visualizations. Many of these organizations also use GCMD Keywords to create ontologies for the Semantic Web, and to search and access Earth science data within online metadata catalogues. A representative list of organizations using GCMD Keywords is shown below. "
+AIM,Australian Institute of Management,Atmospheric Radiation Measurement Data Center Australian Institute of Management (AIM) 
+BCO-DMO,Data Commons Biological and Chemical Oceanography Data Office,Australian Research Data Commons Biological and Chemical Oceanography Data Office (BCO-DMO) 
+BLM,Bureau of Land Management,Biological and Chemical Oceanography Data Office (BCO-DMO) Bureau of Land Management (BLM) 
+BODC,British Oceanographic Data Centre,Bureau of Land Management (BLM) British Oceanographic Data Centre (BODC) 
+CEOS,Committee on Earth Observation Satellites,British Oceanographic Data Centre (BODC) Committee on Earth Observation Satellites (CEOS) 
+CINERGI,(CEOS) Community Inventory of EarthCube Resources for Geosciences Interoperability,Committee on Earth Observation Satellites (CEOS) Community Inventory of EarthCube Resources for Geosciences Interoperability (CINERGI) 
+CSIRO,Commonwealth Scientific and Industrial Research Organisation,"Community Inventory of EarthCube Resources for Geosciences Interoperability (CINERGI) Commonwealth Scientific and Industrial Research Organisation (CSIRO) Marine and Atmospheric Research, Australia "
+ESIP,Earth Science Information Partners,European Global Earth Observation System of Systems (EuroGEOSS) Earth Science Information Partners (ESIP) 
+IPEV,Français Paul Emile Victor,Earth Science Information Partners (ESIP) French Polar Institute/Institut Polaire Français Paul-Emile Victor (IPEV) 
+GCIS,Global Change Information System,GFZ German Research Centre for Geosciences Global Change Information System (GCIS) 
+GOSIC,Global Observing Systems Information Center,Global Change Information System (GCIS) Global Observing Systems Information Center (GOSIC) 
+GLOBEC,Center (GOSIC) Global Ocean Ecosystems Dynamics Project,Global Observing Systems Information Center (GOSIC) Global Ocean Ecosystems Dynamics Project (GLOBEC) 
+GOMC,Project (GLOBEC) Gulf of Maine Council,Global Ocean Ecosystems Dynamics Project (GLOBEC) Gulf of Maine Council (GOMC) 
+JAXA,Japan Aerospace Exploration Agency,Gulf of Maine Council (GOMC) Japan Aerospace Exploration Agency (JAXA) 
+MSS,Marine Scotland Science,Marine Explorer Marine Scotland Science (MSS) 
+MMT,Metadata Management Tool,Maryland Department of Natural Resources (MD DNR) Metadata Management Tool (MMT) 
+MBARI,Monterey Bay Aquarium Research Institute,Metadata Management Tool (MMT) Monterey Bay Aquarium Research Institute (MBARI) 
+NERSC,Nansen Environmental and Remote Sensing Center,Monterey Bay Aquarium Research Institute (MBARI) Nansen Environmental and Remote Sensing Center (NERSC) 
+INGV,National Institute of Geophysics and Volcanology,"Nansen Environmental and Remote Sensing Center (NERSC) National Institute of Geophysics and Volcanology (INGV), Italy "
+NOAA,National Oceanic and Atmospheric Administration,"National Institute of Geophysics and Volcanology (INGV), Italy National Oceanic and Atmospheric Administration (NOAA) "
+NSIDC,National Snow and Ice Data Center,National Oceanic and Atmospheric Administration (NOAA) National Snow and Ice Data Center (NSIDC) 
+METOC,Data Center (NSIDC) Navy Meteorology and Oceanography,"National Snow and Ice Data Center (NSIDC) Navy Meteorology and Oceanography (METOC), Australia "
+JPL,Jet Propulsion Laboratory,NASA EOSDIS Data Centers (DAACs) NASA Jet Propulsion Laboratory (JPL) 
+NIPR,National Institute of Polar Research,NASA Jet Propulsion Laboratory (JPL) National Institute of Polar Research (NIPR) 
+ORNL,Oak Ridge National Laboratory,Norwegian Polar Data Centre Oak Ridge National Laboratory (ORNL) 
+RPI,Rensselaer Polytechnic Institute,Oak Ridge National Laboratory (ORNL) Rensselaer Polytechnic Institute (RPI) 
+SCADM,Standing Committee on Antarctic Data Management,Ronin Institute Standing Committee on Antarctic Data Management (SCADM) 
+SMHI,Swedish Meteorological and Hydrological Institute,Standing Committee on Antarctic Data Management (SCADM) Swedish Meteorological and Hydrological Institute (SMHI) 
+TERN,Terrestrial Ecosystem Research Network,"Swedish Meteorological and Hydrological Institute (SMHI) Terrestrial Ecosystem Research Network (TERN), Australia "
+USAP-DC,"Tennessee, Knoxville U.S. Antarctic Program Data Center","University of Tennessee, Knoxville U.S. Antarctic Program Data Center (USAP-DC) "
+USGS,DC) U.S. Geological Survey,U.S. Antarctic Program Data Center (USAP-DC) U.S. Geological Survey (USGS) 
+WHOI,Woods Hole Oceanographic Institute,U.S. Geological Survey (USGS) Woods Hole Oceanographic Institute (WHOI) 
+GCMD,Global Change Master Directory,"The GCMD Keywords should be cited as: Global Change Master Directory (GCMD). 2021. GCMD Keywords, Version 12.2. Greenbelt, MD: Earth Science Data and Information System, Earth Science Projects Division, Goddard Space Flight Center (GSFC) National Aeronautics and Space Administration (NASA). URL (GCMD Keyword Forum Page): https://forum.earthdata.nasa.gov/app.php/tag/GCMD+Keywords "
+GSFC,Goddard Space Flight Center,"The GCMD Keywords should be cited as: Global Change Master Directory (GCMD). 2021. GCMD Keywords, Version 12.2. Greenbelt, MD: Earth Science Data and Information System, Earth Science Projects Division, Goddard Space Flight Center (GSFC) National Aeronautics and Space Administration (NASA). URL (GCMD Keyword Forum Page): https://forum.earthdata.nasa.gov/app.php/tag/GCMD+Keywords "
+NASA,National Aeronautics and Space Administration,"The GCMD Keywords should be cited as: Global Change Master Directory (GCMD). 2021. GCMD Keywords, Version 12.2. Greenbelt, MD: Earth Science Data and Information System, Earth Science Projects Division, Goddard Space Flight Center (GSFC) National Aeronautics and Space Administration (NASA). URL (GCMD Keyword Forum Page): https://forum.earthdata.nasa.gov/app.php/tag/GCMD+Keywords "

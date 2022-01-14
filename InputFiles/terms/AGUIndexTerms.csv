@@ -1,0 +1,1318 @@
+Term
+0205 Archaeological geology
+0210 Coal geology
+0215 Economic geology
+0216 Engineering geology
+0217 Environmental persistence of herbicides and pesticides
+0220 Geomedicine
+0225 Health and radiation
+0230 Impacts of climate change: human health
+0231 Impacts of climate change: agricultural health
+0232 Impacts of climate change: ecosystem health
+0240 Public health
+0245 Vector born diseases
+0299 General or miscellaneous
+"0305 Aerosols and particles (0345, 4801, 4906)"
+0310 Airglow and aurora
+"0312 Air/sea constituent fluxes (3339, 4504)"
+"0315 Biosphere/atmosphere interactions (0426, 1610)"
+0317 Chemical kinetic and photochemical properties
+0319 Cloud optics
+0320 Cloud physics and chemistry
+0321 Cloud/radiation interaction
+0322 Constituent sources and sinks
+"0325 Evolution of the atmosphere (1610, 8125)"
+0328 Exosphere
+0330 Geochemical cycles (1030)
+"0335 Ion chemistry of the atmosphere (2419, 2427)"
+0340 Middle atmosphere: composition and chemistry
+0341 Middle atmosphere: constituent transport and chemistry (3334)
+0342 Middle atmosphere: energy deposition (3334)
+"0343 Planetary atmospheres (5210, 5405, 5704)"
+"0345 Pollution: urban and regional (0305, 0478, 4251, 4325)"
+"0350 Pressure, density, and temperature"
+0355 Thermosphere: composition and chemistry
+0358 Thermosphere: energy deposition (3369)
+0360 Radiation: transmission and scattering
+0365 Troposphere: composition and chemistry
+0368 Troposphere: constituent transport and chemistry
+"0370 Volcanic effects (4301, 8409)"
+0394 Instruments and techniques
+0399 General or miscellaneous
+0402 Agricultural systems
+"0404 Anoxic and hypoxic environments (4802, 4834)"
+0406 Astrobiology and extraterrestrial materials
+0408 Benthic processes (4804)
+0409 Bioavailability: chemical speciation and complexation
+0410 Biodiversity
+"0412 Biogeochemical kinetics and reaction modeling (0414, 0793, 1615, 4805, 4912)"
+"0414 Biogeochemical cycles, processes, and modeling (0412, 0793, 1615, 4805, 4912)"
+0416 Biogeophysics
+0418 Bioremediation
+0419 Biomineralization
+0420 Biomolecular and chemical tracers
+0422 Bio-optics
+0424 Biosignatures and proxies
+0426 Biosphere/atmosphere interactions (0315)
+0428 Carbon cycling (4806)
+0429 Climate dynamics (1620)
+0430 Computational methods and data processing
+0432 Contaminant and organic biogeochemistry (0792)
+0434 Data sets
+"0438 Diel, seasonal, and annual cycles (4227)"
+"0439 Ecosystems, structure and dynamics (4815)"
+0442 Estuarine and nearshore processes (4235)
+0444 Evolutionary geobiology
+0448 Geomicrobiology
+"0450 Hydrothermal systems (1034, 3017, 3616, 4832, 8135, 8424)"
+0452 Instruments and techniques
+"0454 Isotopic composition and chemistry (1041, 4870)"
+0456 Life in extreme environments
+"0458 Limnology (1845, 4239, 4942)"
+"0459 Macro- and micropaleontology (3030, 4944)"
+0460 Marine systems (4800)
+0461 Metals
+0463 Microbe/mineral interactions
+"0465 Microbiology: ecology, physiology and genomics (4840)"
+"0466 Modeling (1952, 4316)"
+0468 Natural hazards (4308)
+0469 Nitrogen cycling
+"0470 Nutrients and nutrient cycling (4845, 4850)"
+0471 Oxidation/reduction reactions (4851)
+"0473 Paleoclimatology and paleoceanography (3344, 4900)"
+"0475 Permafrost, cryosphere, and high-latitude processes (0702, 0716)"
+0476 Plant ecology (1851)
+"0478 Pollution: urban, regional and global (0345, 4251, 4325)"
+0480 Remote sensing
+0481 Restoration
+"0483 Riparian systems (0744, 1856)"
+0485 Science policy (6620)
+0486 Soils/pedology (1865)
+0488 Sulfur cycling
+0489 Trace element cycling (4875)
+0490 Trace gases
+0491 Food webs and trophodynamics (4817)
+0493 Urban systems (4325)
+0495 Water/energy interactions (1878)
+0496 Water quality
+0497 Wetlands (1890)
+0498 General or miscellaneous
+0499 New fields (not classifiable under other headings)
+0510 Agent-based models
+0515 Cellular automata
+0520 Data analysis: algorithms and implementation
+0525 Data management
+0530 Data presentation and visualization (1994)
+0535 Hardware solutions
+0540 Image processing
+"0545 Modeling (1952, 4255, 4316)"
+0550 Model verification and validation
+"0555 Neural networks, fuzzy logic, machine learning (1942)"
+0560 Numerical solutions (4255)
+0594 Instruments and techniques
+0599 General or miscellaneous
+1402 Critical Zone
+"0702 Permafrost (0475, 4308)"
+0704 Seasonally frozen ground
+0706 Active layer
+0708
+Thermokarst
+0710 Periglacial processes
+0712
+Cryosol
+0714 Clathrate
+0716 Cryobiology (0475)
+0718 Tundra (9315)
+0720 Glaciers
+0722 Rock glaciers
+0724 Ice cores (4932)
+0726 Ice sheets
+0728 Ice shelves
+0730 Ice streams
+0732 Icebergs
+0734 Icing (
+aufeis
+","
+naled
+)
+"0736 Snow (1827, 1863)"
+0738 Ice (1863)
+0740 Snowmelt
+0742 Avalanches (4302)
+"0744 Rivers (0483, 1856)"
+0746 Lakes (9345)
+0748 Ponds
+0750 Sea ice (4540)
+0752
+Polynas
+(4540)
+0754 Leads (4540)
+0758 Remote sensing
+0760 Engineering
+"0762 Mass balance (1218, 1223)"
+0764 Energy balance
+"0766 Thermodynamics (1011, 3611, 8411)"
+0768 Thermal regime
+0770 Properties
+0772 Distribution
+0774 Dynamics
+"0776 Glaciology (1621, 1827, 1863)"
+"0790 Weathering (1625, 1886)"
+0792 Contaminants (0432)
+"0793 Biogeochemistry (0412, 0414, 1615, 4805, 4912)"
+0794 Instruments and techniques
+"0798 Modeling (1952, 4316)"
+0799 General or miscellaneous
+0805 Elementary and secondary education
+0810 Post-secondary education
+0815 Informal education
+0820 Curriculum and laboratory design
+0825 Teaching methods
+0830 Teacher training
+0840 Evaluation and assessment
+0845 Instructional tools
+0850 Geoscience education research
+0855 Diversity
+0604 Antenna arrays
+0609 Antennas
+0614 Biological effects
+0619 Electromagnetic theory
+0624 Guided waves
+0629 Inverse scattering
+0634 Measurement and standards
+0639 Nonlinear electromagnetics
+0644 Numerical methods
+0649 Optics (4264)
+0654 Plasmas
+0659 Random media and rough surfaces
+0664 Reflectors and feeds
+0669 Scattering and diffraction
+0674 Signal processing and adaptive antennas (6974)
+0679 Singularity expansion method
+0684 Transient and time domain
+"0689 Wave propagation (2487, 3285, 4275, 4455, 6934)"
+0694 Instruments and techniques
+0699 General or miscellaneous
+0902 Computational methods: seismic
+0903 Computational methods: potential fields (1214)
+"0905 Continental structures (8109, 8110)"
+0910 Data processing
+0915 Downhole methods
+0920 Gravity methods (1219)
+0925 Magnetic and electrical methods (5109)
+0930 Oceanic structures
+0932 Radioactivity methods
+0933 Remote sensing
+"0935 Seismic methods (3025, 7294)"
+0994 Instruments and techniques
+0999 General or miscellaneous
+"1009 Geochemical modeling (3610, 8410)"
+"1011 Thermodynamics (0766, 3611, 8411)"
+"1012 Reactions and phase equilibria (3612, 8412)"
+"1031 Subduction zone processes (3060, 3613, 8170, 8413)"
+"1032 Mid-oceanic ridge processes (3614, 8416)"
+"1033 Intra-plate processes (3615, 8415)"
+"1034 Hydrothermal systems (0450, 3017, 3616, 4832, 8135, 8424)"
+1039 Alteration and weathering processes (3617)
+1036 Magma chamber processes (3618)
+1037 Magma genesis and partial melting (3619)
+1038 Mantle processes (3621)
+1015 Composition of the core
+1020 Composition of the continental crust
+1021 Composition of the oceanic crust
+1022 Composition of the hydrosphere
+1023 Composition of the biosphere
+1025 Composition of the mantle
+1026 Composition of the moon
+1027 Composition of the planets
+"1028 Composition of meteorites (3662, 6240)"
+1029 Composition of aerosols and dust particles
+1030 Geochemical cycles (0330)
+1065 Major and trace element geochemistry
+1040 Radiogenic isotope geochemistry
+"1041 Stable isotope geochemistry (0454, 4870)"
+1042 Mineral and crystal chemistry (3620)
+1043 Fluid and melt inclusion geochemistry
+"1050 Marine geochemistry (4835, 4845, 4850)"
+1051 Sedimentary geochemistry
+1055 Organic and biogenic geochemistry
+"1060 Planetary geochemistry (5405, 5410, 5704, 5709, 6005, 6008)"
+"1090 Field relationships (3690, 8486)"
+1094 Instruments and techniques
+1099 General or miscellaneous
+1105 Quaternary geochronology
+1110 Sidereal geochronology
+1115 Radioisotope geochronology
+1120 Isotopic disequilibrium dating
+1125 Chemical and biological geochronology
+1130 Geomorphological geochronology
+1135 Correlative geochronology
+1140 Thermochronology
+1145 Tephrochronology (8455)
+1150 Cosmogenic-nuclide exposure dating (4918)
+1155 Extinct radionuclide geochronology
+1160 Planetary and lunar geochronology
+1165 Sedimentary geochronology
+1194 Instruments and techniques
+1199 General or miscellaneous
+1244 Standards and absolute measurements
+1294 Instruments and techniques
+1295 Integrations of techniques
+"1240 Satellite geodesy: results (6929, 7215, 7230, 7240)"
+"1241 Satellite geodesy: technical issues (6994, 7969)"
+1243 Space geodetic surveys(4337)
+1204 Control surveys
+"1242 Seismic cycle related deformations (6924, 7209, 7223, 7230)"
+"1207 Transient deformation (6924, 7230, 7240)"
+1209 Tectonic deformation (6924)
+1211 Non-tectonic deformation
+"1212 Earth’s interior: composition and state (7207, 7208, 8105, 8124)"
+"1213 Earth’s interior: dynamics (1507, 7207, 7208, 8115, 8120)"
+"1236 Rheology of the lithosphere and mantle (7218, 8160)"
+"1219 Gravity anomalies and Earth structure (0920, 7205, 7240)"
+1214 Geopotential theory and determination (0903)
+"1217 Time variable gravity (7223, 7230)"
+1229 Reference systems
+1239 Earth rotation variations
+"1223 Ocean/Earth/atmosphere/hydrosphere/cryosphere interactions (0762, 1218, 3319, 4550)"
+"1218 Mass balance (0762, 1223, 1631, 1836, 1843, 3010, 3322, 4532)"
+1220 Atmosphere monitoring with geodetic techniques (6952)
+"1222 Ocean monitoring with geodetic techniques (1225, 1641, 3010, 4532, 4556, 4560, 6959)"
+"1225 Global change from geodesy (1222, 1622, 1630, 1641, 1645, 4556)"
+"1221 Lunar and planetary geodesy and gravity (5417, 5450, 5714, 5744, 6019, 6250)"
+1299 General or miscellaneous (1709)
+1503
+Archeomagnetism
+1505 Biogenic magnetic minerals
+"1507 Core processes (1213, 8115)"
+1510 Dynamo: theories and simulations
+1512 Environmental magnetism
+1513 Geomagnetic excursions
+1515 Geomagnetic induction
+1517 Magnetic anomalies: modeling and interpretation
+1518 Magnetic fabrics and anisotropy
+1519 Magnetic mineralogy and petrology
+1520
+Magnetostratigraphy
+1521
+Paleointensity
+1522 Paleomagnetic secular variation
+"1525 Paleomagnetism applied to tectonics: regional, global"
+1527 Paleomagnetism applied to geologic processes
+1530 Rapid time variations
+"1532 Reference fields: regional, global"
+1533
+Remagnetization
+"1535 Reversals: process, timescale,"
+magnetostratigraphy
+1540 Rock and mineral magnetism
+"1541 Satellite magnetics: main field, crustal field, external field"
+1545 Spatial variations: all harmonics and anomalies
+1550 Spatial variations attributed to seafloor spreading (3005)
+1555 Time variations: diurnal to decadal
+1560 Time variations: secular and longer
+1594 Instruments and techniques
+1595 Planetary magnetism: all frequencies and wavelengths
+1599 General or miscellaneous
+"1605 Abrupt/rapid climate change (4901, 8408)"
+"1610 Atmosphere (0315, 0325)"
+"1615 Biogeochemical cycles, processes, and modeling (0412, 0414, 0793, 4805, 4912)"
+"1616 Climate variability (1635, 3305, 3309, 4215, 4513)"
+"1620 Climate dynamics (0429, 3309)"
+1621
+Cryospheric
+change (0776)
+"1622 Earth system modeling (1225, 4316)"
+"1625 Geomorphology and weathering (0790, 1824, 1825, 1826, 1886)"
+"1626 Global climate models (3337, 4928)"
+1627 Coupled models of the climate system
+"1630 Impacts of global change (1225, 4321)"
+"1631 Land/atmosphere interactions (1218, 1843, 3322)"
+1632 Land cover change
+"1635 Oceans (1616, 3305, 4215, 4513)"
+1637 Regional climate change (4321)
+"1640 Remote sensing (1855, 4337)"
+"1641 Sea level change (1222, 1225, 4304, 4556)"
+1645 Solid Earth (1225)
+1650 Solar variability (7537)
+1655 Water cycles (1836)
+1694 Instruments and techniques
+1699 General or miscellaneous
+1704 Atmospheric sciences
+1705
+Biogeosciences
+1706 Computational geophysics
+1707 Cryosphere
+1708 Geochronology
+1709 Geodesy (1299)
+1714 Geomagnetism and paleomagnetism
+1719 Hydrology
+1721 Nonlinear geophysics
+1724 Ocean sciences
+1729 Planetology
+1734 Seismology
+1739 Solar/planetary relationships
+1744 Tectonophysics
+"1749 Volcanology, geochemistry, and petrology"
+1794 Instruments and techniques
+1799 General or miscellaneous
+"1803 Anthropogenic effects (4802, 4902)"
+1804 Catchment
+1806 Chemistry of fresh water
+1807 Climate impacts (4321)
+1805 Computational hydrology
+1808 Dams
+1810 Debris flow and landslides (4303)
+1809 Desertification
+1812 Drought (4303)
+1813 Eco-hydrology
+1814 Energy budgets
+1815 Erosion
+1816 Estimation and forecasting (4315)
+1818 Evapotranspiration
+1817 Extreme events (4313)
+1821 Floods (4303)
+1820 Floodplain dynamics
+1823 Frozen ground
+1819 Geographic Information Systems (GIS)
+1822 Geomechanics
+1824 Geomorphology: general (1625)
+1825 Geomorphology: fluvial (1625)
+1826 Geomorphology: hillslope (1625)
+"1827 Glaciology (0736, 0776, 1863)"
+1828 Groundwater hydraulics
+1829 Groundwater hydrology
+1831 Groundwater quality
+1830 Groundwater/surface water interaction
+1832 Groundwater transport
+1834 Human impacts (4323)
+1833
+Hydroclimatology
+1835
+Hydrogeophysics
+"1836 Hydrological cycles and budgets (1218, 1655)"
+1840 Hydrometeorology
+1839 Hydrologic scaling
+1838 Infiltration
+1842 Irrigation
+"1843 Land/atmosphere interactions (1218, 1631, 3322)"
+"1845 Limnology (0458, 4239, 4942)"
+1846 Model calibration (3333)
+"1847 Modeling (1952, 4316)"
+1848 Monitoring networks
+1849 Numerical approximations and analysis (3336)
+1850 Overland flow
+1851 Plant ecology (0476)
+1852 Plant uptake
+1854 Precipitation (3354)
+1853 Precipitation-radar
+"1855 Remote sensing (1640, 4337)"
+1857 Reservoirs (surface)
+"1856 River channels (0483, 0744)"
+1858 Rocks: chemical properties
+1859 Rocks: physical properties
+1860 Streamflow
+1861 Sedimentation (4863)
+1862 Sediment transport (4558)
+"1863 Snow and ice (0736, 0738, 0776, 1827)"
+1865 Soils (0486)
+1866 Soil moisture
+1869 Stochastic hydrology
+1871 Surface water quality
+"1872 Time series analysis (1988, 3270, 4277, 4475)"
+"1873 Uncertainty assessment (1990, 3275)"
+1874
+Ungaged
+basins
+1875 Vadose zone
+1876 Water budgets
+1878 Water/energy interactions (0495)
+1879 Watershed
+1880 Water management (6334)
+1884 Water supply
+"1886 Weathering (0790, 1625)"
+1890 Wetlands (0497)
+1894 Instruments and techniques: modeling
+1895 Instruments and techniques: monitoring
+1899 General or miscellaneous
+1902 Community modeling frameworks
+1904 Community standards
+"1906 Computational models, algorithms"
+1908 Cyberinfrastructure
+"1910 Data assimilation, integration and fusion"
+"1912 Data management, preservation, rescue"
+1914 Data mining
+1916 Data and information discovery
+"1918 Decision analysis (4324, 6309)"
+1920 Emerging informatics technologies
+"1922 Forecasting (2722, 4315, 7924)"
+1924 Formal logics and grammars
+1926 Geospatial
+1928 GIS science
+1930 Data and information governance
+1932 High-performance computing
+1934 International collaboration
+1936 Interoperability
+1938 Knowledge representation and knowledge bases
+1940 Machine-to-machine communication
+1942 Machine learning (0555)
+1944 Markup languages
+1946 Metadata
+1948 Metadata: Provenance
+1950 Metadata: Quality
+"1952 Modeling (0466, 0545, 0798, 1847, 4255, 4316)"
+1954 Natural language processing
+1956 Numerical algorithms
+1958 Ontologies
+1960 Portals and user interfaces
+"1962 Query languages for science, markup languages, ontologies"
+1964 Real-time and responsive information delivery (4346)
+1966 Rules and logic
+1968 Scientific reasoning/inference
+1970 Semantic web and semantic integration
+1972 Sensor web
+1974 Social networks
+1976 Software tools and services
+1978 Software re-use
+"1980 Spatial analysis and representation (0500, 3252)"
+1982 Standards
+1984 Statistical methods: Descriptive (4318)
+1986 Statistical methods: Inferential (4318)
+"1988 Temporal analysis and representation (1872, 3270, 4277, 4475)"
+"1990 Uncertainty (1873, 3275)"
+1992 Virtual globes
+1994 Visualization and portrayal (0530)
+1996 Web Services
+1998 Workflow
+1999 General or miscellaneous
+"2101 Coronal mass ejections (4305, 7513)"
+2102 Corotating streams
+2104 Cosmic rays
+2109 Discontinuities (7811)
+"2111 Ejecta, driver gases, and magnetic clouds"
+2114 Energetic particles (7514)
+2124 Heliopause and solar wind termination
+2126 Heliosphere/interstellar medium interactions
+2129 Interplanetary dust
+2134 Interplanetary magnetic fields
+2139 Interplanetary shocks
+2144 Interstellar gas
+"2149 MHD waves and turbulence (2752, 6050, 7836)"
+2151 Neutral particles (7837)
+2152 Pickup ions
+2154 Planetary bow shocks
+2159 Plasma waves and turbulence
+2162 Solar cycle variations (7536)
+2164 Solar wind plasma
+2169 Solar wind sources
+2194 Instruments and techniques
+2199 General or miscellaneous
+2403 Active experiments
+2407 Auroral ionosphere (2704)
+2409 Current systems (2721)
+2411 Electric fields (2712)
+2415 Equatorial ionosphere
+2419 Ion chemistry and composition (0335)
+2423 Ionization processes (7823)
+2427 Ionosphere/atmosphere interactions (0335)
+2431 Ionosphere/magnetosphere interactions (2736)
+2435 Ionospheric disturbances
+2437 Ionospheric dynamics
+2439 Ionospheric irregularities
+2441 Ionospheric storms (7949)
+2442 Meteor-trail physics
+2443 Midlatitude ionosphere
+2447 Modeling and forecasting
+2451 Particle acceleration
+2455 Particle precipitation
+"2459 Planetary ionospheres (5435, 5729, 6026)"
+2461 Plasma interactions with dust and aerosols (7849)
+2463 Plasma convection (2760)
+2467 Plasma temperature and density
+2471 Plasma waves and instabilities (2772)
+2475 Polar cap ionosphere
+2479 Solar radiation and cosmic ray effects
+2481 Topside ionosphere
+2483 Wave/particle interactions (7867)
+"2487 Wave propagation (0689, 3285, 4275, 4455, 6934)"
+2494 Instruments and techniques
+2499 General or miscellaneous
+2704 Auroral phenomena (2407)
+2706 Cusp
+2712 Electric fields (2411)
+2716 Energetic particles: precipitating
+2720 Energetic particles: trapped
+2721 Field-aligned currents and current systems (2409)
+"2722 Forecasting (1922, 4315, 7924, 7964)"
+"2723 Magnetic reconnection (7526, 7835)"
+2724 Magnetopause and boundary layers
+2728
+Magnetosheath
+2730 Magnetosphere: inner
+2731 Magnetosphere: outer
+2732 Magnetosphere interactions with satellites and rings
+2736 Magnetosphere/ionosphere interactions (2431)
+2740 Magnetospheric configuration and dynamics
+2744 Magnetotail
+2748 Magnetotail boundary layers
+"2752 MHD waves and instabilities (2149, 6050, 7836)"
+2753 Numerical modeling
+"2756 Planetary magnetospheres (5443, 5737, 6033)"
+2760 Plasma convection (2463)
+2764 Plasma sheet
+2768 Plasmasphere
+2772 Plasma waves and instabilities (2471)
+2776 Polar cap phenomena
+2774 Radiation belts
+2778 Ring current
+2780 Solar wind interactions with unmagnetized bodies
+2784 Solar wind/magnetosphere interactions
+2788 Magnetic storms and
+substorms
+"(4305, 7954)"
+2790
+Substorms
+2794 Instruments and techniques
+2799 General or miscellaneous
+3001 Back-arc basin processes
+3002 Continental shelf and slope processes (4219)
+3004 Gas and hydrate systems
+3005 Marine magnetics and
+paleomagnetics
+(1550)
+3006 Marine electromagnetics
+"3010 Gravity and isostasy (1218, 1222)"
+3015 Heat flow (benthic)
+"3017 Hydrothermal systems (0450, 1034, 3616, 4832, 8135, 8424)"
+3020 Littoral processes
+3021 Marine hydrogeology
+3022 Marine sediments: processes and transport
+3025 Marine
+seismics
+"(0935, 7294)"
+"3030 Micropaleontology (0459, 4944)"
+3035 Midocean ridge processes
+3036 Ocean drilling
+3037 Oceanic hotspots and intraplate volcanism
+3038 Oceanic plateaus and microcontinents
+3039 Oceanic transform and fracture zone processes
+"3040 Plate tectonics (8150, 8155, 8157, 8158)"
+3042 Ophiolites (8140)
+"3045 Seafloor morphology, geology, and geophysics"
+3050 Ocean observatories and experiments
+"3060 Subduction zone processes (1031, 3613, 8170, 8413)"
+3070 Submarine landslides
+3075 Submarine tectonics and volcanism
+"3080 Submergence instruments: ROV, AUV, submersibles"
+3094 Instruments and techniques
+3099 General or miscellaneous
+3205 Fourier analysis (3255)
+3215 Instability analysis (4312)
+3260 Inverse theory
+3225 Numerical approximations and analysis (4260)
+"3235 Persistence, memory, correlations, clustering (3265, 4313, 7857)"
+"3238 Prediction (3245, 4263, 4315)"
+"3245 Probabilistic forecasting (3238, 4315)"
+"3252 Spatial analysis (0500, 1980, 4319)"
+"3255 Spectral analysis (3205, 3280, 4319)"
+"3265 Stochastic processes (3235, 4468, 4475, 7857)"
+"3270 Time series analysis (1872, 1988, 4277, 4475)"
+"3275 Uncertainty quantification (1873, 1990)"
+"3280 Wavelet transform (3255, 4455)"
+"3285 Wave propagation (0689, 2487, 4275, 4455, 6934)"
+3294 Instruments and techniques
+3299 General or miscellaneous
+3304 Atmospheric electricity
+3303 Balanced dynamical models
+"3305 Climate change and variability (1616, 1635, 3309, 4215, 4513)"
+3307 Boundary layer processes
+"3309 Climatology (1616, 1620, 3305, 4215, 8408)"
+3311 Clouds and aerosols
+3310 Clouds and cloud feedbacks
+3314 Convective processes
+3315 Data assimilation
+3319 General circulation (1223)
+3320 Idealized model
+"3322 Land/atmosphere interactions (1218, 1631, 1843, 4301)"
+3323 Large eddy simulation
+3324 Lightning
+3325 Monte Carlo technique
+3329 Mesoscale meteorology
+3332 Mesospheric dynamics
+3333 Model calibration (1846)
+"3334 Middle atmosphere dynamics (0341, 0342)"
+3335 North American Monsoon
+3336 Numerical approximations and analyses (1849)
+"3337 Global climate models (1626, 4928)"
+"3339 Ocean/atmosphere interactions (0312, 4301, 4504)"
+"3344 Paleoclimatology (0473, 4900)"
+"3346 Planetary meteorology (5445, 5739)"
+3349 Polar meteorology
+3354 Precipitation (1854)
+3359 Radiative processes
+3355 Regional modeling (4316)
+3360 Remote sensing (4337)
+3362 Stratosphere/troposphere interactions
+3363 Stratospheric dynamics
+3364 Synoptic-scale meteorology
+3365
+Subgrid
+-scale (SGS) parameterization
+3367 Theoretical modeling (4316)
+3369
+Thermospheric
+dynamics (0358)
+3371 Tropical convection
+3372 Tropical cyclones
+3373 Tropical dynamics
+3374 Tropical meteorology
+3375 Tropopause dynamics
+3379 Turbulence (4490)
+3384 Acoustic-gravity waves
+3389 Tides and planetary waves
+3390 Wildland fire model
+3394 Instruments and techniques
+3399 General or miscellaneous
+"3610 Geochemical modeling (1009, 8410)"
+"3611 Thermodynamics (0766, 1011, 8411)"
+"3612 Reactions and phase equilibria (1012, 8412)"
+"3613 Subduction zone processes (1031, 3060, 8170, 8413)"
+"3614 Mid-oceanic ridge processes (1032, 8416)"
+"3615 Intra-plate processes (1033, 8415)"
+"3616 Hydrothermal systems (0450, 1034, 3017, 4832, 8135, 8424)"
+3617 Alteration and weathering processes (1039)
+3618 Magma chamber processes (1036)
+3619 Magma genesis and partial melting (1037)
+3621 Mantle processes (1038)
+3620 Mineral and crystal chemistry (1042)
+"3625 Petrography, microstructures, and textures"
+3630 Experimental mineralogy and petrology
+3640 Igneous petrology
+3641 Extrusive structures and rocks
+3642 Intrusive structures and rocks
+3643 Layered magma chambers
+3660 Metamorphic petrology
+3651
+Thermobarometry
+3652 Pressure-temperature-time paths
+3653 Fluid flow
+3654 Ultra-high pressure metamorphism
+3656 Ultra-high temperature metamorphism
+"3662 Meteorite mineralogy and petrology (1028, 6240)"
+3665 Mineral occurrences and deposits
+3672 Planetary mineralogy and petrology (5410)
+3675 Sedimentary petrology
+"3690 Field relationships (1090, 8486)"
+3694 Instruments and techniques
+3699 General or miscellaneous
+3902 Creep and deformation
+3904 Defects
+3909 Elasticity and anelasticity
+3914 Electrical properties
+3919 Equations of state
+3924 High-pressure behavior
+"3929 NMR, Mossbauer spectroscopy, and other magnetic techniques"
+"3934 Optical, infrared, and Raman spectroscopy"
+3939 Physical thermodynamics
+3944 Shock wave experiments
+3947 Surfaces and interfaces
+3949 Thermal expansivity
+"3954 X-ray, neutron, and electron spectroscopy and diffraction"
+3994 Instruments and techniques
+3999 General or miscellaneous
+"4301 Atmospheric (0370   3322, 3339)"
+"4302 Geological (0742, 4564, 7212, 7280, 8419, 8425, 8426, 8428, 8488)"
+"4303 Hydrological (1810, 1812, 1821)"
+"4304 Oceanic (1641, 4564)"
+"4305 Space weather (2101, 2788, 7900)"
+4306
+Multihazards
+"4307 Methods (0500, 3200, 4400)"
+"4308 Other (0468, 0702, 6205, 6210)"
+4311 Analogue modeling
+4312 Catastrophe and catastrophe theory (3215)
+"4313 Extreme events (1817, 3235)"
+"4314 Mathematical and computer modeling (0500, 3200)"
+"4315 Monitoring, forecasting, prediction (1816, 1922, 2722, 3238, 3245, 4263, 7223, 7924)"
+"4316 Physical modeling (0466, 0545, 0798, 1622, 1847, 1952, 3355, 3367)"
+4317 Precursors
+"4318 Statistical analysis (1984, 1986)"
+"4319 Spatial modeling (3252, 3255)"
+"4321 Climate impact (1630, 1637, 1807, 8408)"
+4322 Health impact
+"4323 Human impact (1834, 7938)"
+"4324 Spatial decision support systems (1918, 6309)"
+"4325 Megacities and urban environment (0345, 0478, 0493)"
+4326 Exposure
+4327 Resilience
+4328 Risk (8488)
+4329 Sustainable development
+4330 Vulnerability
+4331 Disaster relief
+4332 Disaster resilience
+"4333 Disaster risk analysis and assessment (6304, 8488)"
+4334 Disaster risk communication
+4335 Disaster management
+4336 Economic impacts of disasters
+"4337 Remote sensing and disasters (1243, 1640, 1855, 3360, 8485)"
+"4338 Disaster policy (6300, 6620)"
+"4339 Disaster mitigation (6309, 7914)"
+4341 Early warning systems
+4342 Emergency management (6344)
+4343 Preparedness and planning (6334)
+4344
+Microzonation
+and
+macrozonation
+4345 Community management
+4346 Emergency response and evacuations (1964)
+4347 Recovery and reconstruction after disaster
+4348 Contingency planning
+4351 International organizations and natural disasters
+4352 Interaction between science and disaster management authorities
+4353 Sociology of disasters (1974)
+4354 Psychology of disasters
+4355 Miscellaneous
+4410 Bifurcations and attractors
+4415 Cascades
+4420 Chaos (7805)
+4425 Critical phenomena
+4430 Complex systems
+4435 Emergent phenomena
+4440 Fractals and multifractals
+4445 Nonlinear differential equations
+4450 Nonlinear maps
+"4455 Nonlinear waves, shock waves, solitons (0689, 2487, 3280, 3285, 4275, 6934, 7851, 7852)"
+4460 Pattern formation
+4465 Phase transitions
+"4468 Probability distributions, heavy and fat-tailed (3265)"
+4470 Renormalization group methods
+"4475 Scaling: spatial and temporal (1872, 1988, 3265, 3270, 4277, 7857)"
+4480 Self-organized criticality
+4485 Self-organization
+"4490 Turbulence (3379, 4568, 7863)"
+4494 Instruments and techniques
+4499 General or miscellaneous
+4203 Analytical modeling and laboratory experiments
+"4207 Arctic and Antarctic oceanography (9310, 9315)"
+4211 Benthic boundary layers
+"4215 Climate and interannual variability (1616, 1635, 3305, 3309, 4513)"
+4217 Coastal processes
+4219 Continental shelf and slope processes (3002)
+4220 Coral reef systems (4916)
+4223 Descriptive and regional oceanography
+"4227 Diurnal, seasonal, and annual cycles (0438)"
+4231 Equatorial oceanography
+4235 Estuarine processes (0442)
+"4239 Limnology (0458, 1845, 4942)"
+4243 Marginal and semi-enclosed seas
+4247 Marine meteorology
+"4251 Marine pollution (0345, 0478)"
+"4255 Numerical modeling (0545, 0560, 1952)"
+4259 Ocean acoustics
+4260 Ocean data assimilation and reanalysis (3225)
+4262 Ocean observing systems
+"4263 Ocean predictability and prediction (3238, 4315)"
+4264 Ocean optics (0649)
+4271 Physical and chemical properties of seawater
+4273 Physical and biogeochemical interactions
+"4275 Remote sensing and electromagnetic processes (0689, 2487, 3285, 4455, 6934)"
+"4277 Time series experiments (1872, 1988, 3270, 4475)"
+4279 Upwelling and convergences (4964)
+4283 Water masses
+4294 Instruments and techniques
+4299 General or miscellaneous
+"4504 Air/sea interactions (0312, 3339)"
+4506 Capillary waves
+4508 Coriolis effects
+4512 Currents
+"4513 Decadal ocean variability (1616, 1635, 3305, 4215)"
+4515 Deep
+recirculations
+4516 Eastern boundary currents
+4520 Eddies and mesoscale processes
+4522 ENSO (4922)
+4524 Fine structure and microstructure
+4528 Fronts and jets
+"4532 General circulation (1218, 1222)"
+4534 Hydrodynamic modeling
+4536 Hydrography and tracers
+"4540 Ice mechanics and air/sea/ice exchange processes (0700, 0750, 0752, 0754)"
+4544 Internal and inertial waves
+4546 Nearshore processes
+4548 Ocean fog
+4550 Ocean influence of Earth rotation (1223)
+4553 Overflows
+4554 Planetary waves
+"4556 Sea level: variations and mean (1222, 1225, 1641)"
+4558 Sediment transport (1862)
+4560 Surface waves and tides (1222)
+4562 Topographic/bathymetric interactions
+"4564 Tsunamis and storm surges (4302, 4304)"
+"4568 Turbulence, diffusion, and mixing processes (4490)"
+4572 Upper ocean and mixed layer processes
+4576 Western boundary currents
+4594 Instruments and techniques
+4599 General or miscellaneous
+"4801 Aerosols (0305, 4906)"
+4803 Analytical chemistry
+"4802 Anoxic environments (0404, 1803, 4834, 4902)"
+"4804 Benthic processes, benthos (0408)"
+"4805 Biogeochemical cycles, processes, and modeling (0412, 0414, 0793, 1615, 4912)"
+4806 Carbon cycling (0428)
+4807 Chemical speciation and complexation
+4808 Chemical tracers
+4811 Chemosynthesis
+4809 Colloids
+4813 Ecological prediction
+"4815 Ecosystems, structure, dynamics, and modeling (0439)"
+"4817 Food webs, structure, and dynamics (0491)"
+4820 Gases
+4825 Geochemistry
+4830 Higher trophic levels
+"4832 Hydrothermal systems (0450, 1034, 3017, 3616, 8135, 8424)"
+"4834 Hypoxic environments (0404, 4802)"
+4835 Marine inorganic chemistry (1050)
+4840 Microbiology and microbial ecology (0465)
+4843 Natural products chemistry
+"4845 Nutrients and nutrient cycling (0470, 1050)"
+"4850 Marine organic chemistry (0470, 1050)"
+4851 Oxidation/reduction reactions (0471)
+4852 Photochemistry
+4853 Photosynthesis
+4854 Physical chemistry
+4855 Phytoplankton
+4858 Population dynamics and ecology
+4860 Radioactivity and radioisotopes
+4863 Sedimentation (1861)
+4866
+Sorptive
+scavenging
+"4870 Stable isotopes (0454, 1041)"
+4872 Symbiosis
+4875 Trace elements (0489)
+4890 Zooplankton
+"4894 Instruments, sensors, and techniques"
+4899 General or miscellaneous
+4901 Abrupt/rapid climate change (1605)
+"4902 Anthropogenic effects (1803, 4802)"
+4904 Atmospheric transport and circulation
+"4906 Aerosols (0305, 4801)"
+4908 Albedo
+4910 Astronomical forcing
+"4912 Biogeochemical cycles, processes, and modeling (0412, 0414, 0793, 1615, 4805)"
+4914 Continental climate records
+4916 Corals (4220)
+4918 Cosmogenic isotopes (1150)
+4920 Dendrochronology
+4922 El Nino (4522)
+4924 Geochemical tracers
+4926 Glacial
+"4928 Global climate models (1626, 3337)"
+4930 Greenhouse gases
+4932 Ice cores (0724)
+4934 Insolation forcing
+4936 Interglacial
+4938 Interhemispheric phasing
+4940 Isotopic stage
+"4942 Limnology (0458, 1845, 4239)"
+"4944 Micropaleontology (0459, 3030)"
+4946 Milankovitch theory
+4948 Paleocene/Eocene thermal maximum
+4950 Paleoecology
+4952 Palynology
+4954 Sea surface temperature
+4958 Speleothems
+4960 Stadial
+4962 Thermohaline
+4964 Upwelling (4279)
+4994 Instruments and techniques
+4999 General or miscellaneous
+5102 Acoustic properties
+5104 Fracture and flow
+5109 Magnetic and electrical properties (0925)
+5112 Microstructure
+5114 Permeability and porosity
+"5120 Plasticity, diffusion, and creep"
+5134 Thermal properties
+5139 Transport properties
+5144 Wave attenuation
+5194 Instruments and techniques
+5199 General or miscellaneous
+5205 Formation of stars and planets
+"5210 Planetary atmospheres, clouds, and hazes (0343)"
+5215 Origin of life
+5220 Hydrothermal systems and weathering on other planets
+5225 Early environment of Earth
+"5405 Atmospheres (0343, 1060)"
+5408 Aurorae and airglow
+"5410 Composition (1060, 3672)"
+5415 Erosion and weathering
+5416 Glaciation
+5417 Gravitational fields (1221)
+5418 Heat flow
+5419 Hydrology and fluvial processes
+5422 Ices
+"5420 Impact phenomena, cratering (6022, 8136)"
+5421 Interactions with particles and fields
+5430 Interiors (8147)
+5435 Ionospheres (2459)
+5440 Magnetic fields and magnetism
+5443 Magnetospheres (2756)
+5445 Meteorology (3346)
+5450 Orbital and rotational dynamics (1221)
+5455 Origin and evolution
+5460 Physical properties of materials
+5462 Polar regions
+5464 Remote sensing
+5465 Rings and dust
+5470 Surface materials and properties
+5475 Tectonics (8149)
+"5480 Volcanism (6063, 8148, 8450)"
+5494 Instruments and techniques
+5499 General or miscellaneous
+"5704 Atmospheres (0343, 1060)"
+5706 Aurorae
+5709 Composition (1060)
+5714 Gravitational fields (1221)
+5719 Interactions with particles and fields
+5724 Interiors (8147)
+5729 Ionospheres (2459)
+5734 Magnetic fields and magnetism
+5737 Magnetospheres (2756)
+5739 Meteorology (3346)
+5744 Orbital and rotational dynamics (1221)
+5749 Origin and evolution
+5754 Polar regions
+5759 Rings and dust
+5770 Tidal forces
+5780 Tori and exospheres
+5794 Instruments and techniques
+5799 General or miscellaneous
+6005 Atmospheres (1060)
+"6009 Aurorae, airglow, and X-ray emission"
+6008 Composition (1060)
+6015 Dust
+6017 Erosion and weathering
+6019 Gravitational fields (1221)
+6020 Ices
+"6022 Impact phenomena (5420, 8136)"
+6025 Interactions with solar wind plasma and fields
+6023 Comets: dust tails and trails (6210)
+6024 Interiors (8147)
+6026 Ionospheres (2459)
+6030 Magnetic fields and magnetism
+6033 Magnetospheres (2756)
+6035 Orbital and rotational dynamics
+6040 Origin and evolution
+6045 Physics and chemistry of materials
+"6050 Plasma and MHD instabilities (2149, 2752, 7836)"
+6055 Surfaces
+6060 Radiation and chemistry
+"6063 Volcanism (5480, 8450)"
+6094 Instruments and techniques
+6099 General or miscellaneous
+6205 Asteroids (4308)
+6206 Asteroids: satellites
+6207 Comparative planetology
+"6210 Comets (4308, 6023)"
+6211 Centaurs
+6213 Dust
+6218 Jovian satellites
+6219 Io
+6221 Europa
+6222 Ganymede
+6223
+Callisto
+6220 Jupiter
+6224 Kuiper belt objects
+6225 Mars
+6230 Martian satellites
+6235 Mercury
+"6240 Meteorites and tektites (1028, 3662)"
+6245 Meteors
+6250 Moon (1221)
+6255 Neptune
+6260 Neptunian satellites
+6261 Triton
+6265 Planetary rings
+6270 Pluto and satellites
+6275 Saturn
+6280 Saturnian satellites
+6281 Titan
+6282 Enceladus
+6285 Trans-Neptunian objects
+6290
+Uranian
+satellites
+6293 Uranus
+6295 Venus
+6296 Extra-solar planets
+6297 Instruments and techniques
+6299 General or miscellaneous
+6304 Benefit-cost analysis (4333)
+"6309 Decision making under uncertainty (1918, 4324, 4339)"
+6314 Demand estimation
+6319 Institutions
+6324 Legislation and regulations (6615)
+6329 Project evaluation
+"6334 Regional planning (1880, 4343)"
+6339 System design
+6344 System operation and management (4342)
+6349 General or miscellaneous
+6610 Funding
+6615 Legislation and regulations (6324)
+"6620 Science policy (0485, 4338)"
+6630 Workforce
+6699 General or miscellaneous
+6914 Electromagnetic noise and interference
+"6924 Interferometry (1207, 1209, 1242)"
+"6929 Ionospheric physics (1240, 2400)"
+"6934 Ionospheric propagation (0689, 2487, 3285, 4275, 4455)"
+6939 Magnetospheric physics (2700)
+"6944 Nonlinear phenomena (4400, 7839)"
+6949 Radar astronomy
+6952 Radar atmospheric physics (1220)
+6954 Radio astronomy
+6959 Radio oceanography (1222)
+6964 Radio wave propagation
+6969 Remote sensing
+6974 Signal processing (0674)
+6979 Space and satellite communication
+"6982 Tomography and imaging (7270, 8180)"
+6984 Waves in plasma (7867)
+6994 Instruments and techniques (1241)
+6999 General or miscellaneous
+7203 Body waves
+7205 Continental crust (1219)
+"7207 Core (1212, 1213, 8124)"
+"7208 Mantle (1212, 1213, 8124)"
+7209 Earthquake dynamics (1242)
+7212 Earthquake ground motions and engineering seismology (4302)
+7215 Earthquake source observations (1240)
+7218 Lithosphere (1236)
+7219 Seismic monitoring and test-ban treaty verification
+7220 Oceanic crust
+7221
+Paleoseismology
+(8036)
+"7223 Earthquake interaction, forecasting, and prediction (1217, 1242, 4315)"
+"7230 Seismicity and tectonics (1207, 1217, 1240, 1242)"
+"7240 Subduction zones (1207, 1219, 1240)"
+7245 Mid-ocean ridges
+7250 Transform faults
+7255 Surface waves and free oscillations
+7260 Theory
+"7270 Tomography (6982, 8180)"
+"7280 Volcano seismology (4302, 8419)"
+7290 Computational seismology
+"7294 Seismic instruments and networks (0935, 3025)"
+7299 General or miscellaneous
+7504 Celestial mechanics
+7507 Chromosphere
+7509 Corona
+7511 Coronal holes
+7513 Coronal mass ejections (2101)
+7514 Energetic particles (2114)
+7519 Flares
+7522 Helioseismology
+7524 Magnetic fields
+"7526 Magnetic reconnection (2723, 7835)"
+7529 Photosphere
+7531 Prominence eruptions
+7534 Radio emissions
+7536 Solar activity cycle (2162)
+7537 Solar and stellar variability (1650)
+7538 Solar irradiance
+7539 Stellar astronomy
+7544 Stellar interiors and dynamo theory
+7546 Transition region
+7549 Ultraviolet emissions
+"7554 X-rays, gamma rays, and neutrinos"
+7594 Instruments and techniques
+7599 General or miscellaneous
+7803 Active perturbation experiments
+7805 Chaos (4420)
+7807 Charged particle motion and acceleration
+7811 Discontinuities (2109)
+7815 Electrostatic structures
+7823 Ionization processes (2423)
+7827 Kinetic and MHD theory
+7829 Kinetic waves and instabilities
+7831 Laboratory studies and experimental techniques
+"7835 Magnetic reconnection (2723, 7526)"
+"7833 Mathematical and numerical techniques (0500, 3200)"
+"7836 MHD waves and instabilities (2149, 2752, 6050)"
+7837 Neutral particles (2151)
+"7839 Nonlinear phenomena (4400, 6944)"
+7844 Parametric processes
+7845 Particle acceleration
+7846 Plasma energization
+7849 Plasma interactions with dust and aerosols (2461)
+7847 Radiation processes
+7851 Shock waves (4455)
+7852 Solitons and solitary waves (4455)
+7853 Spacecraft/atmosphere interactions
+"7855 Spacecraft sheaths, wakes, charging"
+"7857 Stochastic phenomena (3235, 3265, 4475)"
+7859 Transport processes
+7863 Turbulence (4490)
+"7867 Wave/particle interactions (2483, 6984)"
+7868 Wave/wave interactions
+7894 Instruments and techniques
+7899 General or miscellaneous
+7904 Geomagnetically induced currents
+7914 Engineering for hazard mitigation (4339)
+"7924 Forecasting (1922, 2722, 4315)"
+7934 Impacts on technological systems
+7938 Impacts on humans (4323)
+7944 Ionospheric effects on radio waves
+7949 Ionospheric storms (2441)
+7954 Magnetic storms (2788)
+7959 Models
+"7964 Policy (2722, 6300)"
+7969 Satellite drag (1241)
+7974 Solar effects
+7984 Space radiation environment
+7999 General or miscellaneous
+8002 Continental neotectonics (8107)
+8003 Diapir and
+diapirism
+8004 Dynamics and mechanics of faulting (8118)
+8005 Folds and folding
+8010 Fractures and faults
+8011 Kinematics of crustal and mantle deformation
+8012 High strain deformation zones
+8015 Local crustal structure
+"8020 Mechanics, theory, and modeling"
+8021
+Melanges
+8025 Mesoscopic fabrics
+8030 Microstructures
+8031 Rheology: crust and lithosphere (8159)
+8032 Rheology: general (8160)
+8033 Rheology: mantle (8162)
+8034 Rheology and friction of fault zones (8163)
+8035 Pluton emplacement
+8036
+Paleoseismology
+(7221)
+8038 Regional crustal structure
+8040 Remote sensing
+8045 Role of fluids
+8094 Instruments and techniques
+8099 General or miscellaneous
+8102 Continental contractional orogenic belts and inversion tectonics
+8103 Continental cratons
+8104 Continental margins: convergent
+"8105 Continental margins: divergent (1212, 8124)"
+8106 Continental margins: transform
+8107 Continental neotectonics (8002)
+8108 Continental tectonics: compressional
+8109 Continental tectonics: extensional (0905)
+8110 Continental tectonics: general (0905)
+8111 Continental tectonics: strike-slip and transform
+"8115 Core processes (1213, 1507)"
+8118 Dynamics and mechanics of faulting (8004)
+8120 Dynamics of lithosphere and mantle: general (1213)
+"8121 Dynamics: convection currents, and mantle plumes"
+8122 Dynamics: gravity and tectonics
+8123 Dynamics:
+seismotectonics
+"8124 Earth’s interior: composition and state (1212, 7207, 7208, 8105)"
+8125 Evolution of the Earth (0325)
+8130 Heat generation and transport
+"8135 Hydrothermal systems (0450, 1034, 3017, 3616, 4832, 8424)"
+"8136 Impact phenomena (5420, 6022)"
+"8137 Hotspots, large igneous provinces, and flood basalt volcanism"
+8138 Lithospheric flexure
+8139 Obduction tectonics
+8140 Ophiolites (3042)
+8145 Physics of magma and magma bodies
+"8147 Planetary interiors (5430, 5724, 6024)"
+"8148 Planetary volcanism (5480, 8450)"
+8149 Planetary tectonics (5475)
+8150 Plate boundary: general (3040)
+8155 Plate motions: general (3040)
+8157 Plate motions: past (3040)
+8158 Plate motions: present and recent (3040)
+8159 Rheology: crust and lithosphere (8031)
+"8160 Rheology: general (1236, 8032)"
+8162 Rheology: mantle (8033)
+8163 Rheology and friction of fault zones (8034)
+8164 Stresses: crust and lithosphere
+8166 Stresses: deep-seated
+8168 Stresses: general
+8169 Sedimentary basin processes
+"8170 Subduction zone processes (1031, 3060, 3613, 8413)"
+8175 Tectonics and landscape evolution
+8177 Tectonics and climatic interactions
+8178 Tectonics and magmatism
+"8180 Tomography (6982, 7270)"
+8185 Volcanic arcs
+8194 Instruments and techniques
+8199 General or miscellaneous
+"8410 Geochemical modeling (1009, 3610)"
+"8411 Thermodynamics (0766, 1011, 3611)"
+"8412 Reactions and phase equilibria (1012, 3612)"
+"8413 Subduction zone processes (1031, 3060, 3613, 8170)"
+"8416 Mid-oceanic ridge processes (1032, 3614)"
+"8415 Intra-plate processes (1033, 3615)"
+"8424 Hydrothermal systems (0450, 1034, 3017, 3616, 4832, 8135)"
+8425 Effusive volcanism (4302)
+8426 Mud volcanism (4302)
+8427 Subaqueous volcanism
+8428 Explosive volcanism (4302)
+"8450 Planetary volcanism (5480, 6063, 8148)"
+8404 Volcanoclastic deposits
+"8408 Volcano/climate interactions (1605, 3309, 4321)"
+8409 Atmospheric effects (0370)
+8430 Volcanic gases
+8429 Lava rheology and morphology
+8434 Magma migration and fragmentation
+8414 Eruption mechanisms and flow emplacement
+8439 Physics and chemistry of magma bodies
+8440 Calderas
+8445 Experimental volcanism
+8455 Tephrochronology (1145)
+8485 Remote sensing of volcanoes (4337)
+"8486 Field relationships (1090, 3690)"
+"8419 Volcano monitoring (4302, 7280)"
+"8488 Volcanic hazards and risks (4302, 4328, 4333)"
+8494 Instruments and techniques
+8499 General or miscellaneous
+9305 Africa
+9310 Antarctica (4207)
+"9315 Arctic region (0718, 4207)"
+9320 Asia
+9325 Atlantic Ocean
+9330 Australia
+9335 Europe
+9340 Indian Ocean
+"9345 Large bodies of water (e.g., lakes and inland seas) (0746)"
+9350 North America
+9355 Pacific Ocean
+9360 South America
+9399 General or miscellaneous
+9604 Cenozoic
+9605 Neogene
+9606 Paleogene
+9609 Mesozoic
+9610 Cretaceous
+9611 Jurassic
+9612 Triassic
+9614 Paleozoic
+9615 Permian
+9616 Carboniferous
+9617 Devonian
+9618 Silurian
+9620 Ordovician
+9621 Cambrian
+9619 Precambrian
+9622 Proterozoic
+9623 Archean
+9699 General or miscellaneous
+9805 Instruments useful in three or more fields
+9810 New fields (not classifiable under other headings)
+9815 Notices and announcements
+9820 Techniques applicable in three or more fields

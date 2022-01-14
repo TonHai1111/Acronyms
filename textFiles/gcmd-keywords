@@ -1,0 +1,262 @@
+Global Change Master Directory (GCMD) Keywords | Earthdata
+Home
+Skip to main content
+About
+Data
+Collaborate
+Learn
+Earth Observation Data
+Find Data
+International Directory Network (IDN)
+Global Change Master Directory (GCMD) Keywords
+GCMD Keyword Links
+Access the GCMD KeywordsSubmit a Keyword RequestKeyword Release AnnouncementsGCMD Keyword ForumGCMD Keyword Viewer
+More GCMD Resources
+CEOS International Directory Network (IDN)Common Metadata RepositoryESDIS Standards Office Keyword Governance and Community Guide DocumentGCMD Keywords Community Forum
+Global Change Master Directory (GCMD) Keywords
+Global Change Master Directory (GCMD) Keywords are a hierarchical set of controlled Earth Science vocabularies that help ensure Earth science data, services, and variables are described in a consistent and comprehensive manner and allow for the precise searching of metadata and subsequent retrieval of data, services, and variables. Initiated over twenty years ago, GCMD Keywords are periodically analyzed for relevancy and will continue to be refined and expanded in response to user needs.
+The categories of GCMD Keywords are as follows.
+Earth Science
+Earth Science Services
+Data Centers/Service Providers
+Projects
+Instruments/Sensors
+Platforms/Sources
+Locations
+Horizontal Data Resolution
+Vertical Data Resolution
+Temporal Data Resolution
+URL Content Types
+Granule Data Formats
+Measurement Names
+Chronostratigraphic Units
+The information provided on this page defines how GCMD Keywords are structured, used and accessed. It also provides information on how users can participate in the further development of the keywords.
+GCMD Keyword Forum
+The GCMD Keyword Forum, now part of the Earthdata Forum, provides keyword users and metadata providers with an area for discussion of topics related to GCMD Keywords. Participants are invited to use this forum to ask questions, submit keyword requests, discuss trade-offs, and track the status of keyword requests.
+More Information About the Keywords
+GCMD Keyword Structure
+GCMD Keyword Structure
+GCMD Keywords are organized using a multi-level hierarchical structure. This hierarchical structure provides a framework by which concepts can be classified and related. The Earth Science and Science Services keyword sets use the following hierarchical structure:
+Category > Topic > Term > Variable > Detailed Variable
+Categories and Topics represent disciplines and high level concepts. Terms and Variables define subject areas and parameters. Detailed Variables are uncontrolled values that can be added by users to more specifically describe data.
+All other keyword sets use hierarchies designed for a specific concept. For example, "Instruments" uses Short Name > Long Name. Short name and long name define the name of the instrument used to acquire the data.
+Earth Science Keywords Structure
+The Earth Science Keywords
+have a six-level keyword structure with the option for a seventh uncontrolled field. Category and Topic levels define how the keywords are organized and the associated Earth science discipline within the hierarchy. The Term and Variables levels define the subject area, measured variables/parameters, and the hierarchical-type relationship for the subject area.
+Keyword Level
+Example
+Category
+Earth Science
+Topic
+Atmosphere
+Term
+Weather Events
+Variable Level 1
+SubtropicalCyclones
+Variable Level 2
+SubtropicalDepression
+Variable Level 3
+SubtropicalDepression Track
+Detailed Variable
+(Uncontrolled Keyword)
+Earth Science Services Keywords Structure
+The Earth Science Services Keywords have a four-level keyword structure with the option for a fifth uncontrolled field. Category and Topic levels define how the controlled keywords are organized and the associated Earth Science Services discipline associated with the keyword in the hierarchy. The Term and Variable levels define the subject area, the type of software/service being described, and the hierarchical-type relationship for the subject area.
+Keyword Level
+Example
+Service Category
+Earth Science Services
+Service Topic
+Data Analysis and Visualization
+Service Term
+Geographic Information Systems
+Service Variable
+Web-Based Geographic Information Systems
+Detailed Variable
+(Uncontrolled Keyword)
+Data Center/Service Provider Keywords Structure
+The Data Center/Service Provider Keywords have a short name and long name that define the data center, service provider, organization, or institution responsible for distributing the data or developing the service.
+Keyword Level
+Example
+Short Name
+LP DAAC
+Long Name
+Land Processes Distributed Active Archive Center
+Project Keyword Structure
+The Project Keywords have a short name and long name that define the name of the scientific program, field campaign, or project from which the data were collected.
+Keyword Level
+Example
+Short Name
+ESIP
+Long Name
+Earth Science Information Partners
+Instrument/Sensor Keyword Structure
+The Instrument/Sensor Keywords have a short name and long name that define the name of the instrument used to acquire the data.
+Keyword Level
+Example
+Short Name
+MODIS
+Long Name
+Moderate-Resolution Imaging Spectroradiometer
+Platform/Source Keyword Structure
+The Platform/Source Keywords have a short name and long name that define the name of the platform used to acquire the data.
+Keyword Level
+Example
+Short Name
+Aqua
+Long Name
+Earth Observing System, Aqua
+Location Keyword Structure
+The Location Keywords have a five-level keyword structure with the option for a sixth uncontrolled field and define the name of a place on Earth, a location within Earth, a vertical location, or a location outside of the Earth.
+Keyword Level
+Example
+Location Category
+Continent
+Location Type
+North America
+Location Subregion 1
+United States of America
+Location Subregion 2
+Maryland
+Location Subregion 3
+Baltimore
+Detailed Location
+(Uncontrolled Keyword)
+Horizontal Data Resolution Keyword Structure
+The Horizontal Data Resolution Keywords have a range structure and define the horizontal resolution of the data.
+Keyword Level
+Example
+Resolution Range
+1 km - < 10 km
+Vertical Data Resolution Keyword Structure
+The Vertical Data Resolution Keywords have a range structure and define the vertical resolution of the data.
+Keyword Level
+Example
+Resolution Range
+1 km - < 10 km
+Temporal Data Resolution Keyword Structure
+The Temporal Data Resolution Keywords have a range structure and define the vertical resolution of the data.
+Keyword Level
+Example
+Resolution Range
+1 minute - < 1 hour
+URL Content Type Keyword Structure
+The URL Content Type Keywords have a type-subtype structure and define the type of URL being referenced.
+Keyword Level
+Example
+Type
+Get Data
+Sub-Type
+Earthdata Search
+Granule Data Formats Keyword Structure
+The Granule Data Formats Keywords have a one-level keyword structure and represent the format of the data that is distributed by the data center.
+Keyword Level
+Example
+Granule_Data_Format
+GRIB
+Measurement Names Keyword Structure
+The Measurement Names Keywords have a three-level keyword structure and define an observable property, usually geophysical, geo-biophysical, physical, or chemical.
+Keyword Level
+Example
+Context_Medium
+atmosphere
+Object
+air
+Quantity
+pressure_anomaly
+Chronostratigraphic Units Types Keyword Structure
+The Chronostratigraphic Keywords have a five-level keyword structure and define the geologic time of the data.
+Keyword
+Example
+Eon
+Phanerozoic
+Era
+Cenozoic
+Period
+Neogene
+Epoch
+Miocene
+Stage
+Tortonian
+Back To Top
+Community Use of GCMD Keywords
+Community Use of GCMD Keywords
+NASA’s Earth Observing System Data and Information System (EOSDIS) as well as numerous other U.S. and international agencies, research universities, and scientific institutions use GCMD Keywords as an authoritative vocabulary, taxonomy, or thesaurus to describe Earth science data, services, and visualizations. Many of these organizations also use GCMD Keywords to create ontologies for the Semantic Web, and to search and access Earth science data within online metadata catalogues. A representative list of organizations using GCMD Keywords is shown below.
+Atmospheric Radiation Measurement Data Center
+Australian Institute of Management (AIM)
+Australian Research Data Commons
+Biological and Chemical Oceanography Data Office (BCO-DMO)
+Bureau of Land Management (BLM)
+British Oceanographic Data Centre (BODC)
+Committee on Earth Observation Satellites (CEOS)
+Community Inventory of EarthCube Resources for Geosciences Interoperability (CINERGI)
+Commonwealth Scientific and Industrial Research Organisation (CSIRO) Marine and Atmospheric Research, Australia
+EnviDat
+European Global Earth Observation System of Systems (EuroGEOSS)
+Earth Science Information Partners (ESIP)
+French Polar Institute/Institut Polaire Français Paul-Emile Victor (IPEV)
+GeoConnections Discovery Portal Canada
+GFZ German Research Centre for Geosciences
+Global Change Information System (GCIS)
+Global Observing Systems Information Center (GOSIC)
+Global Ocean Ecosystems Dynamics Project (GLOBEC)
+Gulf of Maine Council (GOMC)
+Japan Aerospace Exploration Agency (JAXA)
+Marine Explorer
+Marine Scotland Science (MSS)
+Maryland Department of Natural Resources (MD DNR)
+Metadata Management Tool (MMT)
+Monterey Bay Aquarium Research Institute (MBARI)
+Nansen Environmental and Remote Sensing Center (NERSC)
+National Institute of Geophysics and Volcanology (INGV), Italy
+National Oceanic and Atmospheric Administration (NOAA)
+National Snow and Ice Data Center (NSIDC)
+Navy Meteorology and Oceanography (METOC), Australia
+NASA EOSDIS Data Centers (DAACs)
+NASA Jet Propulsion Laboratory (JPL)
+National Institute of Polar Research (NIPR)
+NCAR UCAR Research Data Archive
+Netherlands Polar Data Center
+Norwegian Polar Institute (Norsk Polarinstitutt)
+Norwegian Polar Data Centre
+Oak Ridge National Laboratory (ORNL)
+Rensselaer Polytechnic Institute (RPI)
+Ronin Institute
+Standing Committee on Antarctic Data Management (SCADM)
+Swedish Meteorological and Hydrological Institute (SMHI)
+Terrestrial Ecosystem Research Network (TERN), Australia
+University of Manitoba
+University of Tasmania, Australia
+University of Tennessee, Knoxville
+U.S. Antarctic Program Data Center (USAP-DC)
+U.S. Geological Survey (USGS)
+Woods Hole Oceanographic Institute (WHOI)
+World Data Center for Soils (WDC-Soils)
+Back To Top
+GCMD Keyword Governance and Community Guide Document
+GCMD Keyword Governance and Community Guide Document
+The GCMD Keyword Governance and Community Guide Document, Version 1.0, is intended to provide the community with a comprehensive resource that describes the governance structures and process for reviewing proposed changes to GCMD Keywords. The document includes an overview of the structure of the keywords, requirements and recommendations to consider when requesting keyword changes, and instructions for submitting change requests. The process described in this document will be the basis of all future GCMD Keyword reviews. The community is invited to provide feedback.
+The Change Process Overview diagram conveys the end to end process of a keyword including initial request, triage, approval, notification, and implementation.
+Back To Top
+Additional Information
+Contact GCMD User Support for questions, comments, or technical issues regarding GCMD Keywords.
+Subscribe to the GCMD/IDN Interoperability Email List
+to receive keyword release announcements.
+To subscribe: e-mail ceos-idn-interop-join@lists.nasa.gov (no subject or text is required).
+To unsubscribe: e-mail ceos-idn-interop-leave@lists.nasa.gov (no subject or text is required).
+The GCMD Keywords should be cited as:
+Global Change Master Directory (GCMD). 2021. GCMD Keywords, Version 12.2. Greenbelt, MD: Earth Science Data and Information System, Earth Science Projects Division, Goddard Space Flight Center (GSFC) National Aeronautics and Space Administration (NASA). URL (GCMD Keyword Forum Page): https://forum.earthdata.nasa.gov/app.php/tag/GCMD+Keywords
+Page Last Updated: Nov 14, 2021 at 9:39 PM EST
+ABOUT
+DATA
+COLLABORATE
+LEARN
+USER RESOURCES
+SUPPORT
+NASA Links
+NASA Official: Stephen Berrick
+Web Privacy Policy
+Data and Information Policy
+Communications Policy
+Freedom of Information Act
+USA.gov
+Sitemap

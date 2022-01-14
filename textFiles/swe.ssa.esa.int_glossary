@@ -1,0 +1,98 @@
+Glossary - Space Weather
+Skip to Content
+Sign In
+Welcome to the ESA Space Weather Service Network Please note that all ESA-SWE Services are under review/construction
+Space Weather
+Welcome to the ESA Space Weather Service Network Please note that all ESA-SWE Services are under review/construction
+Current Space Weather
+Space Weather at ESA
+Technical Library
+SOSMAG
+Service Domains
+Spacecraft Design
+Environment Specification: Data Archive
+Environment Specification: In-Orbit Verification
+Post-Event Analysis
+Space Weather in the Solar System
+Spacecraft Operation
+In-orbit Environment and Effects Monitoring
+Post-Event Analysis
+In-orbit Environment and Effects Forecast
+Mission Risk Analysis
+Space Weather in the Solar System
+Human Spaceflight
+In-Flight Crew Radiation Exposure
+Cumulative Crew Radiation Exposure
+Increased Crew Radiation Exposure Risk
+Launch Operation
+Transionospheric Radio Link
+Near Real-Time TEC Maps
+Forecast TEC Maps
+Quality Assessment of Ionospheric Correction
+Near Real-Time Ionospheric Scintillation Maps
+Monitoring and Forecast of Ionospheric Disturbances
+Space Surveillance and Tracking
+Atmospheric Estimates for Drag Calculations
+Archive of Geomagnetic and Solar Indices for Drag Calculation
+Forecast of Geomagnetic and Solar Indices for Drag Calculation
+Power Systems Operation
+Service to Power Systems Operation
+Aviation
+Service to Aviation
+Resource Exploitation System Operation
+Service to Resource Exploitation System Operators
+Pipeline Operation
+Service to Pipeline Operators
+Auroral Tourism
+Service to Auroral Tourism
+General Data Service
+Space Weather Data Archive
+Latest Data Service
+Space Weather Nowcast and Forecast Products (Daily, Weekly)
+Alert Service
+Expert Service Centres
+ESC Solar Weather
+ESC Heliospheric Weather
+ESC Space Radiation
+ESC Ionospheric Weather
+ESC Geomagnetic Conditions
+Other Resources
+What is Space Weather ?
+SWWT
+SWEN Newsletter
+Upcoming Events
+Contact
+Request For Registration
+Space Weather at ESA/Technical Library/Glossary/
+Glossary We try to maintain a consistent terminology throughout the SWE network. Here you'll find the precise meaning of the words used on this website.
+Product specific terminology Space Weather service definitions Roles within the Space Weather Service Network Space Weather domain definitions
+Product specific terminology
+Accuracy of data An estimate of the closeness of agreement between measured data and the observable being measured. In practice this is reflected by an uncertainty value taking into account all known and quantifiable sources of error in the data. Alarm Near real-time notification issued when a dangerous condition occurs. Alert Timely notification to the user that conditions of interest are taking place or are expected to take place. Data Model output, raw or processed measurements, of any Space Weather parameter. Forecast Description of the space environment at a future date based on actual data, proxies and models. Index A set of derived variables frequently used to parameterise Space Weather conditions and as input to models. The default sets of indices are:
+Solar activity and geomagnetism: PC, AE, Ap, Kp, Dst, IG12, IMF, R, R12, F10.7, S10, E10, M10, Y10; Ionospheric scintillation: S4, sigma_phi, fading depth, fade duration, time between fades.
+Model A representation of a physical phenomenon built on data (measured and/or theoretical). There are three types of model:
+Empirical: A model that is based on observations. Physics-based: A model that is based on first principles. It relies on mathematical descriptions of specific physical phenomena. Semi-empirical: A model that is partially based on observations and partially on first principles.
+Near real-time Statement that an action is occurring as close as possible to the same rate at which an observable is measured/observed. Nowcast Reconstruction in near real-time of a description of the present space environment based on actual data, proxies and models. Product interface The means by which a particular product is accessed, examples of which are a user interface (GUI, web form, menu driven) or an API. Usually the product interface will conform to some well-defined standard in order to aid interoperability and re-use. Real-time Statement that an action is occurring at the same rate at which an observable is measured/observed. Report This class of product consists of summary reporting tailored towards user needs describing ongoing, past or expected conditions and provided as part of a service. Reports build on products and expertise available within the SWE Service Network. Reports may focus on a given domain, for example post event reports produced within the R-ESC describing Ground Level Events, or they may be Network wide products such as tailored bulletins compiled for a given user campaign. Reports are considered to be products where these are produced as part of the SWE Services. The reporting outputs generated from Coordinated Communication campaigns are also considered in this category of products. Space Weather Guaranteed Dataset A set of different variables delivered by an entity that verifies and guarantees, to the extent possible, not only the health and reliability of each individual datum but also the consistency of the set. Warning Near real-time notification of a potentially hazardous situation.
+(Sources: Space Weather Customer Requirements Document)
+Space Weather service definitions
+Accuracy of service An estimate of the closeness of agreement between service output and the associated observable conditions. In practice this is reflected by an uncertainty value based on known performance statistics. Operational A product, tool or service that has been validated and certified suitable for use in the intended operational context. Pre-operational A product tool or service that has been validated against the criteria for use in the intended operational context but is not yet being demonstrated to meet operational use. Product Derived data generated using one or more Space Weather tool or model. A Product is a digital file(s) delivered to members of a user community from an operational element of the system that has a defined format and is archived or is reproducible. The generation of a product or a family of products is part of a service of the SWE Service Network or to the SWE Service Network. Software tools made available to users or a technical report are not considered as products. Reliability The ability of an element of the SWE service network to perform its required functions under its given operational conditions. The reliability of an element of the system is considered "undetermined" until it has been evaluated. When the element fulfils all predetermined criteria, it can be considered "reliable". Service A service is a collection of derived data products, software tools, technical reports and associated user support addressing the high-level requirements of a specific group of users as defined by the Customer Requirements Document. The ESA Space Safety Programme (S2P) The goal of ESAâ€™s Space Safety Programme is to contribute to the protection of our planet, humanity and assets in space and on Earth from threats originating in Space and to contribute to Europeâ€™s ability to safeguard its affected infrastructure from such threats as a service to its society. Space Situational Awareness (SSA) ESA programme starting in 2009. The objective of the Space Situational Awareness (SSA) system is to support the European independent utilisation of and access to space for research or services, through providing timely and quality data, information, services and knowledge regarding the environment, the threats, and the sustainable exploitation of the outer space. Tool(Kit) A software application which provides the end user with the facility to retrieve and/or process and further modify a given set of products according to their needs as part of a SWE Service. User requirement The specification of what the user expects of the product, service or system to provide in order to fulfil their needs. Validation Validation is a process which demonstrates that the product is able to accomplish its intended use in the intended operational environment. The status of the product following validation is "validated". Verification is a pre-requisite for validation. Verification Verification is a process which demonstrates through the provision of objective evidence that the product is designed and produced according to its specifications and the agreed deviations, and is free of defects. Verification can be accomplished by one or more of the following methods:
+analysis (including similarity), test, inspection, review of design. The status of the product following verification is "verified".
+(Sources: Space Weather Customer Requirements Document, (European Cooperation for Space Standardization Glossary of terms)
+Roles within the Space Weather Service Network
+Coordinating Expert Group (CEG) A Coordinating Expert Group provides Space Weather expertise and products as part of an Expert Service Centre. The group is responsible for managing and directing the development of the ESC, it handles the coordination and the main interface with the SSCC. Expert Group (EG) An Expert Group is any entity providing Space Weather expertise and products as part of an Expert Service Centre.   Expert Service Centre (ESC) ESCs are internationally distributed centers of expertise focused on a specific domain. They consist of a Coordinating Expert Group and a number of participating Expert Groups. The current ESCs are the following:
+Heliospheric Weather ESC (H-ESC) Solar Weather ESC (S-ESC) Space Radiation Environment ESC (R-ESC) Geomagnetic Conditions ESC (G-ESC) Ionospheric Weather ESC (I-ESC)
+SSA Coordination Centre (SSCC) The SSA Space Weather Coordination Centre (SSCC) handles the day-to-day operation of the service network and provides the first level user support. It relies on the Expert Service Centres forming the federated element of the SWE Service Network SWE Data Centre The SWE Data Centre was established at the ESA Redu station. The Data Centre contains the SWE Operational Environment (OPE), hosts a number of applications including the SWE Portal and provides facilities for data storage. Third Party Service Provider Entity (research institute or commercial) developing and establishing a service based on data provided by the foreseen Space Weather system through an individual customer-service agreement that goes beyond the scope of the other SWE tailored services. (End) User A SWE service (end) user is anyone, a person/institution or an electronic system, that accesses or receives SWE products or services. User Representatives Group The S2P Programme's advisory group of user representatives.
+(Sources: Space Weather Customer Requirements Document)
+Space Weather domain definitions
+Coronal Mass Ejection An outflow of plasma from or through the solar corona. CMEs are often, but not always, associated with erupting prominences, disappearing solar filaments, and/or flares. CMEs vary widely in structure, density, and velocity. Large and fast CMEs can approach masses of 1.6 × 10^12 kg and approach velocities over 2000 km/s. Earth impacting CMEs can result in significant geomagnetic storms. Types of coronal mass ejections launched toward Earth are called "halo CMEs" because as they approach Earth, they appear larger than the Sun, making a halo of bright coronal emission completely around it. Cosmic Rays General term comprising galactic cosmic rays, anomalous cosmic rays and solar cosmic rays (e.g. solar energetic particles).
+Galactic cosmic rays: High-energy charged particles (up to 10^21 eV) originating from outside the solar system. Anomalous cosmic rays: Charged particles (approx. 10-100 MeV) originating from neutral interstellar atoms that have been ionised by solar UV radiation after entering the heliosphere. Solar energetic particles: Charged particles (from a few keV up to GeV) originating in at least two distinct locations, namely the solar flare and the coronal mass ejection-driven interplanetary (IP) shock. Commonly referred to as solar energetic particles when they are observed in IP space and near Earth.
+Micro-particle Space object with size below one millimetre and above 0.1 micrometer. Single Event Effects With reference to the effects of energetic particles on spacecraft microcircuits - an unexpected change in the logic state of a single digital bit. SEUs can be either soft (the microcircuit is not damaged and can be rewritten to either state), or a latch up, which cannot easily be reset. Solar activity The collective term for all active phenomena on the Sun, including sunspots, faculae, active regions, plages, active prominences, and flares. Solar Energetic Particle (SEP) event A solar energetic particle event is a sudden release of particles (protons, electrons and heavy ions) with energy ranging from a few tens of keV to GeV and associated with solar eruptive phenomena or interplanetary coronal mass ejections. Solar Flare A solar flare is an intense burst of radiative energy across the entire EM spectrum, with the largest enhancements in the X-ray, EUV and radio portions. Powerful flares are often, but not always, accompanied by a CME. Flares are labelled with a letter and number. The letter is the flare class and indicates the peak intensity in W/m2 of X-rays in the 1-8 Ångstrom wavelength range as measured at Earth by the GOES spacecraft. The weakest one is A class followed by the classes B, C, M and X, each letter represents a 10-fold increase in energy output. Within each letter class there is a finer scale from 1-9 although X-class flares could be higher. Spacecraft anomaly Anomalous or unexpected behaviour of a spacecraft or any of its subsystems. Spacecraft effects Effects observed as a result of the interaction of a spacecraft or device with the local space environment. Examples include radiation dose, single event effects, sensor background accumulated charge, spacecraft anomalies and damage caused by microparticle impacts. Space Weather Space Weather is the physical and phenomenological state of natural space environments. The associated discipline aims, through observation, monitoring, analysis and modelling, at understanding and predicting the state of the Sun, the interplanetary and planetary environments, and the solar and non-solar driven perturbations that affect them, and also at forecasting and nowcasting the potential impacts on biological and technological systems. Space Weather event A time-limited condition of the space environment (e.g. Solar Flare, Solar energetic particle event, Substorm). Often this involves a propagating disturbance (e.g. CME or interplanetary shock). Susceptibility The response of a material or substance to a change in conditions. In the spacecraft case, this may be characterised by e.g.
+SEP susceptibility: Rate of destructive and non-destructive SEEs in specified components under specified shielding levels due to an SEP event Surface charging susceptibility: Surface potentials of defined materials due to ambient plasma Internal charging susceptibility: Internal charging levels of specified dielectric components under specified shielding Degradation due to radiation susceptibility: Dose and NIEL degradation of specified components under specified shielding (including solar cell degradation) Satellite attitude change susceptibility: Deviations in magnetic torque Satellite orbit change susceptibility: Orbit alteration due to drag enhancement in LEO EM interference susceptibility: Telecommunications interference (TBC)
+Interplanetary Shock Interplanetary shocks are a type of collision-less shock - ones where particles transfer energy through electromagnetic fields instead of directly bouncing into one another.
+(Sources: Space Weather Customer Requirements Document, Space Weather Terminology Glossary, COST 724 final report )
+#438EB9 #222A2D #C6487E #D0D0D0
+Choose Skin
+Fixed Navbar
+Fixed Sidebar
+Fixed Breadcrumbs
+Right To Left (rtl)
+SWE Portal [3.3], Copyright 2000 - 2021 © European Space Agency. All rights reserved.

@@ -1,0 +1,658 @@
+Space Weather Glossary and Terms Standardization - Space Weather
+opener
+Login
+VISION
+MISSION
+Space Weather Mitigation
+Satellite Protection
+Radiation Decision Aids
+Navigation Accuracy
+Communication Solutions
+NEWS
+Space Weather Glossary and Terms Standardization
+Space weather, which is the transfer of energy from the Sun to Earth by photons, particles, and fields, represents a dynamic phenomena affecting our advancing technology and is of interest to agency, academic, and industry users. This glossary is provided as an updating community service to help define many terms in space weather. It is a joint collaborative effort between the University of Colorado-Boulder Space Weather Technology Research and Education Center (SWx TREC) and Space Environment Technologies (SET) in an academic-industry partnership benefitting the space weather enterprise.
+Our team is helping to standardize this material through the International Standards Organization (ISO) Technical Committee (TC) 20 SubCommittee (SC) 14 Working Group (WG) 4 Space Environment (natural and artificial) activity to develop the ISO Standard 23689 for space weather information for use in space systems operations.
+Our collaborative team is actively seeking suggested revisions and additions to this glossary. If you have a suggestion, please send
+your comments addressed to our glossary coordinator at science@spacewx.com and our science coordinator at delores.knipp@colorado.edu by email.
+Draft ISO 23689 Space weather information for use in space systems operations
+This standard identifies the phenomena of space weather as a dynamic component of the space environment that affects the technology of space systems. Space system operations includes ground-based, on-orbit, and deep space automated satellite operations. In addition, developers of software systems for space systems, designers of space systems, and launchers of space systems will find this document useful.
+Draft ISO 23689
+[Note: This is NOT an official ISO document and is For Review Only]
+Review of the Draft Standard – COSPAR presentation
+A
+AA Index
+Measures the amplitude of global geomagnetic activity during 3-hour intervals normalized to a geomagnetic latitude ±50°. The index was introduced to monitor geomagnetic activity over the longest possible time period. Current observatories are at Hartland, England, and Canberra, Australia. The aa values are in units of 1 nT. The index is available back to 1868.
+Domain: Geomagnetic Field
+More Information
+Absorption line(s)
+For a light spectrum, a characteristic wavelength of emitted radiation that is partially absorbed by the medium between the source and the observer. The wavelength reveals information about chemicals in a stellar (solar) atmosphere. The depths of the absorption lines provide information about temperature, and the wavelength shifts of the lines tell us the motion of gas.
+Domain: Solar
+More Information
+Active Region
+A localized volume of the solar atmosphere with transient features including sunspots, plages, faculae, coronal loops, etc. Active regions are threaded with enhanced magnetic fields; Complex ARs may contain two or more bi polar groups .
+Domain: Solar
+Image
+More Information
+Alerts
+Notices issued by forecasting agencies when observed conditions meeting or exceeding storm thresholds appear.
+Domain: Solar,Ionosphere & Thermosphere; Geomagnetic Field
+More Information
+Angstrom
+A unit of length =1E-10m or 0.1 nm. Often used to describe the wavelengths of solar or auroral emissions.
+Domain: Solar
+Auroral
+More Information
+More Information
+Astronomimcal Unit (AU)a unit of length often used in expressing distances in the heliosphere. The International Astronomical Union defines 1 AU as 149,597,870,700 m. The value corresponds roughly to the average Sun-Earth distance.
+Domain: Thermosphere
+Graphic
+Atmospheric Drag
+Friction produced when a spacecraft in low Earth orbit collides with atmospheric atoms and molecules. The result is a loss of mechanical energy and altitude.
+Domain: Ionosphere & Thermosphere; Geomagnetic Field
+Graphic
+Aurora
+Diffuse, glowing light emitted from atoms and molecules in the Earth’s upper atmosphere when incoming high energy particles from the Sun or the Earth’s magnetosphere collide with them.
+Domain: Ionosphere & Thermosphere; Geomagnetic Field
+More Information
+Aurora Australis
+Aurorae that appear in the Earth’s southern hemisphere.
+Domain: Ionosphere & Thermosphere; Geomagnetic Field
+Image
+Aurora Borealis
+Aurorae that appear in the Earth’s northern hemisphere.
+Domain: Ionosphere & Thermosphere; Geomagnetic Field
+Image
+Auroral Electrojet (AE) Index
+A high-latitude geomagnetic index measuring the influence of auroral currents that create surface magnetic field deviations measured in nanoTesla. AE characterizes the maximum excursion (+ and -) from quiet levels. Typically, data from ~ a dozen northern hemisphere stations are used: AE = AU – AL. AU (upper) refers to the most positive deviation and AL (lower) to the most negative. AO refers to the mean: = 1/2 (AU + AL). AE and companion indexes are at http://wdc.kugi.kyoto-u.ac.jp/wdc/Sec3.html
+Domain: Geomagnetic field
+More Information
+More Information
+Auroral ovals
+An oval-shaped band around each geomagnetic pole, ranging from 67°~75°magnetic latitude, in which most aurorae occur.
+The oval expands to higher and lower latitudes during the expansion phase of an auroral substorm.
+Domain: Ionosphere & Thermosphere; Geomagnetic Field
+Image
+Auroral Substorms
+Particle-induced disturbances in the ionosphere-magnetosphere which are linked to the brightest and most dynamic aurorae.
+Domain: Ionosphere & Magnetosphere; Geomagnetic Field
+Animation
+B
+Bartels’ Rotation Number
+The serial number assigned to sequential 27-day solar rotation periods. Rotation # 1 was assigned arbitrarily by Bartels to begin in January 1833, with the count continuing by 27-day intervals to the present. The Sun has an average rotation period (as seen from the Earth) of 27.27 days. Therefore, solar longitude slowly drifts with respect to the Bartels rate. Compare to Carrington longitude
+Domain: Solar
+More Information
+Bipolar Group
+A sunspot group that has distinct positive and negative poles (hence, bi polar) with a simple division between the polarities. Often one polarity will dominate. The volume connecting the poles is called a magnetic flux tube.
+Domain: Solar
+Figures 3 & 4
+More Information
+Bow Shock
+A shock wave formed in a plasma stream when it comes upon a barrier such as the Earth’s magnetosphere. The bow shock deflects, slows and heats the incoming plasma. So-named because of its similarity to the curved “bow wave” which forms in the water ahead of the bow of a moving ship
+Domain: Solar Wind, Magnetosphere
+Graphic
+Graphic
+Burst
+A transient enhancement of the solar radio emission, usually associated with an active region or flare. Solar radio bursts can exceed the background solar radio emission by several orders of magnitude. Solar radio emissions can interfere with radio and radar technologies.
+Domain: Solar
+More Information
+More Information
+Bulk Motion/Speed
+The average speed of individual particles within a streaming cloud of plasma, such as a solar wind stream
+Domain: Solar Wind
+Graphic
+C
+Carrington Longitude
+A system of fixed solar longitudes rotating at a uniform synodic period of 27.2753 days . Carrington selected the meridian that passed through the ascending node of the Sun’s equator at 1200 UTC on 1 January 1854 as the original prime meridian. The daily Carrington longitude of the central point of the apparent solar disk is listed (with other solar coordinates) in The Astronomical Almanac published annually by the U.S. Naval Observatory. Compare Bartels’ rotation number
+Domain: Solar
+Chromosphere
+The region of the Sun’s atmosphere above the photosphere and below the transition region, which exhibits temperatures between 4,000 K to 8,000 K. The chromosphere has visible (red) emission from excited hydrogen at ~656.3 nm (Balmer-alpha transition). Solar filaments, plage and spicules are evident in the chromosphere.
+Domain: Solar
+Image
+More Information
+Closed Field Line
+A magnetic line of force that connects regions of opposite magnetic polarity, as for example, in magnetically-active areas on the Sun, or between the two magnetic poles of the Earth
+Domain: Geomagnetic field, Solar
+Graphic
+Graphic
+Corona
+The region of the Sun’s atmosphere above the transition region with a temperature between 500,000 K and 2M K. Magnetic arches and coronal holes are often imaged in the corona. Disturbances such as solar flares and coronal mass ejections are also evident in the corona.
+Domain: Solar
+Image
+More Information
+A non-self-sustaining discharge (sometimes visible) due to ionization of the gas surrounding a conductor around which exists a voltage gradient exceeding a certain critical value for a gaseous medium. Often used in describing spacecraft charging effects
+Domain: Engineering Systems
+Coronal Holes
+A dark region in the inner corona where open magnetic field lines allow coronal particles to escape the Sun as fast solar wind, resulting in a region of partially-depleted density and hence reduced brightness
+Domain: Solar
+Image
+Coronal Mass Ejections (CMEs)
+Segments of the corona expelled from the Sun into interplanetary space in the form of expanding clouds of solar plasma. The transient ejecta also carry matter flux into the heliosphere and are the primary sources of strong geomagnetic storms.
+Domain: Solar, Solar Wind
+More Information
+Coronal Streamers
+a coronal structure consisting of a magnetically-formed arch that narrows outward as a tapered shape or stalk. Streamers are a known source of coronal mass ejections. The bulb-arch structures are seen in eclipse photographs and in space-based white-light images.
+Domain: Solar, Solar Wind
+Image
+Cosmic Rays
+Highly energetic atomic nuclei stripped of most or all of their electrons, that continuously pass from all directions through intergalactic, interstellar and interplanetary space. The most energetic of these (called galactic cosmic rays) may originate in supernova explosions
+Domain: Interplanetary
+More Information
+Cosmic Ray Shower / Cascade
+The expanding sequence of secondary cosmic rays initiated by the collision of an incoming cosmic ray with an atom or molecule of air. This initial impact produces daughter particles that then collide, farther down in the atmosphere, to create a continuing series (or cascade) of similar events
+Domain: Thermosphere & Ionosphere, Lower Atmosphere
+More Information
+D
+Daytime Aurorae
+Displays of the aurora borealis or australis which occur in the atmosphere above the daylit hemisphere of the Earth, and because of this go largely unseen
+Domain: Ionosphere & Thermosphere, Geomagnetic Field
+Image
+More Information
+Dcx Index
+An extension and reconstruction of the Dst geomagnetic index, which primarily measuring the influence of the equatorial ring current on the low-latitude geomagnetic field, to 1932 . The hourly Dcx is computed from measurements at several near-equatorial stations and is the average of the variation over all longitudes. The reference level is statistically zero on internationally-designated quiet days. The Dcx index is at http://dcx.oulu.fi/?link=query
+Domain: Geomagnetic Field
+More Information
+Declining Phase
+The phase of the solar cycle between solar maximum to solar minimum
+Domain: Solar
+Disk of the Sun
+The apparent circular shape of the Sun when seen in the sky, resulting from a two-dimensional projection of a spherical object
+Domain: Solar
+Image
+Disturbance Storm Time (Dst) Index
+A geomagnetic index primarily measuring the influence of the equatorial ring current on the low-latitude geomagnetic field . Other current systems may contribute. The hourly Dst is computed from measurements at four near-equatorial stations and is the average of the variation over all longitudes. The reference level is statistically zero on internationally-designated quiet days. An index < -50 nT (nanoTelsa) indicates a storm-level disturbance, and an index < -100 nT is an intense geomagnetic storm. The Dst index is at http://wdc.kugi.kyoto-u.ac.jp/wdc/Sec3.html
+Domain: Geomagnetic Field
+More Information
+More Information
+Dynamo
+a device or system that converts mechanical energy to electric energy, via movement of a conductor through a magnetic field. The solar dynamo harnesses the mechanical energy of differential rotation to twist magnetic polar fields into toroidal fields ultimately giving rise to sunspots. The ionospheric dynamo converts solar-driven ion motion into currents
+Domain: Solar
+More Information
+E
+Electric Fields
+The electric force per unit charge in a region of space. The electric field points radially outward from a positive charge and radially in toward a negative point charge. Electric fields influence charged particles and plasma in all space weather domains.
+Domain: Solar Wind, Plasma, Magnetosphere, Geospace, Ionosphere
+More Information
+Electromagnetic Radiation
+Radiation consisting of oscillating electric and magnetic fields, including gamma rays, visible light, ultraviolet and infrared radiation, radio waves and microwaves
+Domain:
+Exosphere
+The region of relatively constant high temperature in the Earth’s atmosphere above 500-600 km. The few atoms and molecules in this region can escape Earth’s gravity due to their high thermal velocities and the very low density of the region
+Domain: Exosphere, Geospace
+More Information
+Image
+F
+Faculae
+Irregular patches in either the photosphere or chromosphere that appear brighter than their less disturbed surroundings as a result of the weak, vertical magnetic flux tubes that are concentrated there
+Domain: Solar
+Image
+Filament (Static)
+A mass of gas suspended over the chromosphere by magnetic fields. Filaments are seen as dark ribbons threaded over the solar disk. A filament on the limb of the Sun seen as emission against the dark sky is called a prominence.
+Domain: Solar
+Image
+Forbush Decrease(FD)
+A sudden decrease in the intensity of galactic cosmic rays (GCRs) recorded at several ground neutron monitors. Such decreases occur when the strong interplanetary magnetic field in a CME prevents a portion of GCRs from reaching Earth. After CME passage the cosmic ray intensity gradually recovers.
+Domain: Interplanetary
+More Information
+Forecasts
+Forecasts are the predictions of future events, based on analysis and modeling of the past and present conditions of the environment. Space weather forecasts are typically for conditions 1-3 days in advance
+Domain:
+More Information
+G
+G-Scale
+NOAA Space Weather Scale ranging from 1 to 5 for geomagnetic storm disturbances (G). It is based on the Kp index and is associated with disturbances in the geomagnetic field, aurora and sometimes power grid upsets
+Domain: Geomagnetic Field
+More Information
+Graphic
+Gamma Rays
+High-energy radiation (energies in excess of 100 keV) observed during large, extremely energetic solar flares. Gamma ray flashes are also associated with some lightning discharges at Earth
+Domain: Solar
+More Information
+Geocorona
+The envelope of escaped hydrogen that surrounds the Earth. Originally thought to extend only a few Earth radii beyond Earth’s surface, recent images show a faint glow extending beyond the Moon’s orbit. The geocorona produces a faint ultraviolet glow in hydrogen Lyman-alpha (Ly-𝞪) at ~121.6 nm
+Domain: Thermosphere, Magnetosphere
+Image
+More Information
+Geomagnetic Activity
+Natural variations in the geomagnetic field classified qualitatively into quiet, unsettled, and active/storm. Geomagnetic activity may be described quantitatively by one of several geomagnetic indices including the Kp, auroral electrojet (AE) and/or Disturbance Storm Time (Dst) indices, or by the location of visible aurora
+Domain: Geomagnetic Field
+More Information
+More Information
+Geomagnetic Field
+The magnetic field in and around the Earth. The intensity of the magnetic field at the Earth’s surface is approximately 32,000 nT at the equator and 62,000 nT at the north pole (the place where a compass needle points vertically downward). The geomagnetic field is dynamic and undergoes continual slow secular changes as well as short-term disturbances
+Domain: Geomagnetic Field
+More Information
+Graphic
+Geomagnetic Storm (GMS)
+A severe but transitory fluctuation in the Earth’s magnetic field, evident initially as a sharp decrease in the strength of the horizontal component of the Earth’s magnetic field, felt around the world and lasting a few hours, followed by a recovery phase lasting a day to several days. Geomagnetic storms are most often initiated when regions of enhanced solar wind flow compress the steady-state form of the magnetosphere on its Sun-facing side
+Domain: Geomagnetic Field
+More Information
+Geostationary Earth Orbit
+A circular, equatorial Earth orbit, whose orbital period is equal to the Earth’s sidereal rotation period. A satellite in geostationary orbit appears stationary to an observer on Earth. A geostationary orbit is at type of geosynchronous orbit
+Domain: Geospace, Radiation Belts
+More Information
+Geosynchronous Earth Orbit
+Earth Orbit with an orbital period equal to the Earth’s sidereal rotation period. The orbit is an inclined ellipse and the orbital height varies. A satellite in geosynchronous orbit is above the same spots of the Earth’s surface once per sidereal day
+Domain: Geospace, Radiation Belts
+More Information
+Ground Level Enhancement (GLE)
+A category of extreme solar energetic particle (SEP) events. During such events there are a sufficient number of energetic ions with energy above ~500 MeV, which interact with the Earth’s atmosphere to create quantities of secondary neutrons and/or muons measurable by ground‐based instrumentation.
+GLEs generally associate with particles energized by fast CMEs. GLE onset is within a few minutes after the eruption begins.
+Domain: Interplanetary
+More Information
+H
+Heliopause
+The outer boundary of the heliosphere, at which place the solar wind becomes indistinguishable from the local interstellar medium
+Domain: Heliosphere, Solar Wind
+Graphic
+Heliosheath
+The region of subsonic flow that stands between the termination shock in the extended solar wind and the outer boundary of the heliosphere
+Domain: Heliosphere, Solar Wind
+Graphic
+Heliosphere
+The vast region surrounding the Sun dominated by atomic particles and magnetic fields that are carried away from the Sun by the solar wind
+Domain: Heliosphere, Solar Wind
+More Information
+High-Speed Streams
+A feature of the solar wind having velocities exceeding approximately 600 km/s (about double average solar wind values). High-speed streams that originate in coronal holes are less dense than those originating in the average solar wind.
+Domain: Solar, Solar Wind
+I
+Inner Radiation Belt
+The innermost of the two concentric Van Allen belts of trapped atomic particles that surround the Earth in the equatorial region. The inner belt contains more energetic electrons, protons and heavier ions and extends upward from the top of the atmosphere to a height of about 12,000 miles
+Domain: Radiation Belts, Geospace, Magnetosphere
+Image
+Interplanetary Magnetic Field
+The extension of the magnetic field of the Sun throughout the heliosphere
+Domain: Heliosphere
+Graphic
+Ionosphere
+The electrically-conducting region in the upper atmosphere made up of three horizontal layers extending from about 35 to more than 1000 miles above the surface, which are produced by the ionization of neutral atoms of air by shortwave solar radiation (see also D, E, and F regions)
+Domain: Ionosphere, Geospace
+Graphic
+Ionospheric Storm
+A disturbance in the F region of the ionosphere, which occurs in connection with geomagnetic activity. In general, there are two phases of an ionospheric storm, an initial increase in electron density (the positive phase) lasting a few hours, followed by a decrease lasting a few days. At low latitudes only the positive phase is usually seen. Individual storms can vary, and their behavior depends on geomagnetic latitude, season, and local time.
+Domain: Ionosphere, Geospace
+More Information
+J
+Joule heating
+Passage of current through an electrical conductor produces thermal energy. The associated temperature increase is called Joule heating. Joule heating is an energy dissipation process in the Sun’s atmosphere and in planetary ionospheres. During magnetic storms, when enhanced currents and electric fields link Earth’s magnetosphere and ionosphere, the Joule heating can cause atmospheric expansion.
+Domain: Solar, Ionosphere, Thermosphere
+K
+Kinetic Temperature
+A temperature directly related to the average speed of atoms or molecules in a substance such as air
+Domain: Solar Wind, Plasma, Ionosphere & Thermosphere
+Kp Index
+The Planetary K-index quantifies the disturbance in the horizontal component of Earth’s main magnetic field. A network of geomagnetic observatories record the maximum fluctuations of horizontal components observed by magnetometers during three-hour intervals. The Kp from 0 (quiet) to 9 (extremely disturbed) in 28 steps
+Domain: Geomagnetic Field
+More Information
+L
+Lagrange Points
+Positions in space where objects sent there tend to ‘settle’. At Lagrange points, the gravitational pull of two large masses precisely equals the centripetal force required for a small object to move with them. These locations can be used by spacecraft to reduce fuel consumption needed to remain in position.
+Solar wind monitors are often placed at Lagrange point 1 (L1). The L1 point of the Earth-Sun system affords an uninterrupted view of the Sun
+Domain: Heliosphere
+More Information
+Limb Darkening
+A gradual reduction in brightness of the Sun’s disk (or star) from center to limb. At disk-center, an observer sees into the Sun’s warmer layers that emit the most light. At the limb, the emissions are from the upper, cooler layers that produce less light. Limb darkening allows solar observers to investigate the solar atmospheric temperature structure. Limb darkening also occurs in some radio wavelengths
+Domain: Solar
+Image
+Limb of the Sun
+The apparent, circular edge of the Sun as seen in the sky. In visible light the edge is very sharp. In other wavelengths of solar light, it is much thicker.
+Domain: Solar
+Image
+Long Duration event(LDE)
+An X-ray solar flare with an energy-flux emission timeline that requires more than 30 min to decay to one-half of its peak energy flux. Most long duration events are associated with M and X class flares. The longer a solar flare lasts the more likely it is to have an associated coronal mass ejection
+Domain: Solar
+More Information
+Low Earth Orbit
+Earth Orbit with an apogee altitude that does not exceed 2,000 km
+Domain: Thermosphere & Exosphere, Geospace
+More Information
+Lowest Usable Frequency (LUF)
+The highest frequency that allows reliable high frequency (HF; 3-30 MHz) radio communication over a ground distance by ionospheric refraction.
+The LUF varies by location, transmission elevation angle, time of day, season and phase of solar cycle. Frequencies lower than the LUF are absorbed by the ionosphere D-region Domain: Ionosphere
+More Information
+More Information
+M
+Magnetic Field
+The portion of space near a magnetic body (such as the Sun) or a current carrying body (such as an electric power line) in which there is a detectable magnetic force at every point in the region
+Domain: Geomagnetic Field, Interplanetary Magnetic Field
+Magnetic Field Lines/ Magnetic Lines of Force
+Imaginary lines (like the arrows used to show wind flow direction on a meteorological chart) that indicate the direction of the magnetic force at any point in a magnetic field. A compass needle aligns itself along these local lines of force of the Earth’s field
+Domain: Geomagnetic Field, Interplanetary Magnetic Field
+More Information
+Graphic
+Magnetic Poles
+Either of two non-fixed points on the Earth, close to but not coincident with the north and south rotational poles, where the Earth’s magnetic field is most intense and where magnetic field lines are most nearly perpendicular to the Earth’s surface
+Domain: Geomagnetic Field
+Graphic
+Magnetopause
+The outer boundary of the Earth’s magnetosphere, where the strength of the solar wind magnetic field surpasses that of the Earth. Though highly variable, it is typically 40,000 to 60,000 miles away from the Earth on the Sun-facing side, and much farther away on the down-wind side
+Domain: Magnetosphere, Solar Wind
+Graphic
+Magnetopause Compression
+A reshaping of magnetosphere caused by solar wind flow pressure increase. Typically, the compression begins at the dayside magnetopause and then continues down the magnetotail. Most compressions are sudden and related to fast solar winds structures passing Earth. During strong compressions the magnetopause can move close to, or inside of, geosynchronous orbit (6.6 Re)
+Domain: Magnetosphere, Solar Wind
+More Information
+Magnetosheath
+The region between the bow shock and the magnetopause, characterized by very turbulent plasma. For the Earth, along the Sun-Earth axis, the magnetosheath is about 2 Earth radii thick.
+Domain: Solar Wind, Magnetosphere
+Magnetosphere
+The region around the Earth occupied by its magnetic field
+Domain: Magnetosphere, Geomagnetic Field
+More Information
+Image
+Magnetotail
+The extension of the magnetosphere in the anti-sunward direction as a result of interaction with the solar wind. In the inner magnetotail, the field lines maintain a roughly dipolar configuration. At greater distances, the field lines are stretched into northern and southern lobes, separated by a plasmasheet. There is observational evidence for traces of the Earth’s magnetotail as far as 1000 Earth radii downstream.
+Domain: Magnetosphere, Geomagnetic Field
+Graphic
+Maximum Useable frequency (MUF)
+The highest frequency that allows reliable, high frequency (HF; 3-30 MHz) radio communication over a long distance by ionospheric refraction.
+The MUF varies by location, transmission elevation angle, time of day, season and phase of solar cycle. Frequencies higher than the MUF penetrate the ionosphere and may be useful for extraterrestrial communications.
+Domain: Ionosphere
+More Information
+More Information
+Medium Earth Orbit
+Earth orbit with apogee altitude that is greater than 2,000 km but does not exceed 36,000 km
+Domain: Geospace
+More Information
+Mesopause
+The upper boundary of the mesosphere and lower boundary of the thermosphere, which lies just above it
+Domain: Mesosphere, Lower Atmosphere
+Graphic
+Mesosphere
+The upper part of the middle atmosphere of the Earth, extending from about 30 to 53 miles above the surface, in which air temperature falls monotonically from about plus 200 to minus 135° F
+Domain: Mesosphere, Lower Atmosphere
+More Information
+Microwaves
+Generically, any radio frequency of 500 MHz or more
+Domain:
+More Information
+N
+Network (Chromospheric)
+Describes the patchy organization of magnetic fields in the chromosphere at the edges of granulation cells. Emissions from the concentrated magnetic field are imaged in hydrogen-alpha (H-𝞪) light and many ultraviolet wavebands. Typical field strength is ~0.1 T. A typical network scale size is ~ 107 m. Individual bright points have a lifetime of a few hours.
+Domain: Solar
+More Information
+Image
+Neutral Lines
+One of two regions in the magnetotail where stretched-out open magnetic field lines of opposite polarity, attached at the Earth’s north and south magnetic poles, are brought in contact, allowing a return path for captive particles in the magnetotail to be channeled back toward the planet
+Domain: Geomagnetic Field, Magnetosphere
+Neutral Mass Density
+The mass of material per unit volume, typically provided in units of kg/m3 or g/cm3. Often used in reference to Earth’s atmosphere, but relevant to other solar system bodies
+Domain: Thermosphere
+Graphic
+Plot
+O
+Open Field Lines
+A magnetic line of force in the magnetic field of either the Sun or the Earth, one end of which is rooted in the photosphere or at the surface of the Earth, and the other drawn away and detached by dynamic forces
+Domain: Geomagnetic Field, Interplanetary Magnetic Field
+Outer Radiation Belt
+The outer of the two concentric Van Allen belts of trapped atomic particles that surround the Earth in the equatorial region. The outer belt is separated from the inner belt by a 4000 mile gap, and extends above the surface of the planet from about 16,000 to 24,000 (and at times as far as 36,000) miles. Within it are the lighter and less energetic trapped particles: primarily weaker electrons with energies in the range of 10,000 to about one million electron volts
+Domain: Radiation Belts, Magnetosphere, Geospace
+Graphic
+Ozone Layer/ Stratospheric Ozone Layer
+The region in the Earth’s middle atmosphere, between altitudes of about 25 and 65 miles above the surface, where almost all atmospheric ozone is found. The remainder is created in the form of air pollution at ground level in the photosphere
+Domain: Lower Atmosphere, Stratosphere
+More Information
+P
+Plasma
+A gas that is ionized sufficiently to be a good electrical conductor and be affected by magnetic fields
+Domain:
+Plasmapause
+The outer boundary of the Earth’s plasmasphere and inner boundary of the magnetosphere
+Domain: Plasmasphere, Magnetosphere
+Graphic
+Plasma sheet
+The central and densest part of the Earth’s magnetotail, consisting of a compressed sheet that extends downwind of the Sun for at least 950,000 miles from the Earth, separating the northern and southern lobes of the tail, which have opposite magnetic polarity. The plasma sheet is a major storage region for ionized particles in the geomagnetic tail
+Domain: Magnetosphere
+Graphic
+Plasmasphere
+The upward extension of the Earth’s ionosphere into the exosphere, within and co-existing with the magnetosphere, which reaches on its Sun-facing side from about 1000 miles to as much as a million miles above the surface. It consists of a relatively low-energy plasma and takes its form as charged particles from the ionosphere flow upward to fill the relative vacuum of space surrounding the Earth
+Domain: Magnetosphere, Plasmasphere, Exosphere
+More Information
+Annimation
+Photosphere
+The region of the solar atmosphere from which all visible light and heat are radiated into space. The intangible surface we see when we look at the Sun in visible light
+Domain: Solar
+More Information
+Graphic
+Polar Caps
+In auroral nomenclature, the area around either the north or south magnetic pole of the Earth bounded by the inner boundary of the auroral oval. Here, poleward of the auroral oval, auroras are more frequent but weaker, more diffuse and less variable than in the auroral oval itself
+Domain: Ionosphere & Thermosphere, Geomagnetic Field
+Polar Cap Absorption (PCA) Event
+An unusual condition of the polar ionosphere where HF and VHF (3-300 MHz) radio waves are absorbed, and LF and VLF (3-300 kHz) radio waves are reflected at lower altitudes than normal. These effects make transpolar radio transmissions at HF and VHF frequencies difficult or impossible. The final result may be a radio blackout. PCAs generally originate with particles (protons) energized by fast coronal mass ejections. These solar energetic particles (SEPs) arrive within a few minutes to hours after the start of the eruption and maximize within a day or two of onset. In practice, the absorption is inferred from the proton flux at energies greater than 10 MeV, so that PCAs and proton events are simultaneous.
+Domain: Interplanetary, Ionosphere
+Polar Cusps
+The singular regions over the Earth’s magnetic poles where magnetic field lines are nearly perpendicular to the Earth’s surface, creating an “opening” in the magnetosphere that allows charged particles paths of easier entry into the upper atmosphere
+Domain: Geomagnetic Field, Magnetosphere
+Graphic
+Polar Orbits
+A spacecraft orbit that passes over the polar (as opposed to restricted to middle and equatorial) latitudes of the Earth. For spaceborne instruments that observe the Sun, a polar orbit offers the opportunity for continuous 24-hour monitoring.
+Domain: Geospace, Heliosphere
+Primary Cosmic Rays
+A high-energy atomic particle that arrives at the Earth from beyond the planet, as opposed to the secondary cosmic rays that are formed as a result of a collision of a primary with an atom or molecule of air in the Earth’s atmosphere
+Domain: Interplanetary
+Prominence
+Relatively cool, quiescent plasma anchored in the photosphere but extending into the solar corona. Prominences mark regions in the upper solar atmosphere where magnetic fields exert forces on partially ionized plasma to counteract gravity and suspend the plasma above the solar surface.
+Erupting prominences comprise most of the mass in Coronal Mass Ejections. When seen on the solar disk, prominences are called “filaments” in reference to their long, thread-like structure
+Domain: Solar
+Graphic
+More Information
+Q
+R
+R-Scale/ Radio Blackouts
+A measure of the severity of solar x-ray bursts that cause radio blackouts at Earth
+Domain:
+More Information
+More Information
+Radiation Belts
+Two concentric areas of trapped electrons, protons and ions held within the closed part of the Earth’s magnetic field, from about 600 miles to 25,000 miles above the surface. Same as Van Allen Radiation Belts.
+Domain: Radiation Belt, Magnetosphere
+More Information
+Graphic
+Reconnection
+A process through which oppositely-directed. closed magnetic field lines come into contact, sever, and join to form new magnetic field structures. In the process part of the magnetic energy contained in the magnetic field is converted into thermal or kinetic energy
+Domain: Magnetosphere, Solar Wind, Geomagnetic Field
+Image
+Recurrence
+A tendency of some solar and geophysical parameters to repeat a trend and sometimes the actual value of the parameter itself every 27 days (the approximate rotation period of the Sun).
+Domain:
+Ring Currents
+An electrical current produced in the equatorial plane within the closed part of the Earth’s magnetic field where properties of the magnetic field cause ions and electrons to drift in opposite directions
+Domain: Geomagnetic Field, Magnetosphere
+Rising Phase
+The phase between a solar minimum and a solar maximum
+Domain: Solar
+S
+S-Scale
+A measure of the severity of solar proton events as depicted in the NOAA Space Weather Scales.
+Domain:
+More Information
+Scattering
+The dispersal of a beam of light into a spread of directions as a result of physical interactions: in the daytime sky, the redirection of incoming sunlight across the dome of the sky by its interaction with molecules of air; in the white-light corona, the redirection of photospheric radiation by free electrons
+Domain: Solar, Geospace, Plasma
+Scintillations
+A flickering of electromagnetic radiation caused by its passage through turbulent media
+Domain: Ionosphere
+Secondary Cosmic Rays
+A secondary or “daughter” particle produced by collisions between primary cosmic rays from space and the atomic nuclei of atoms and molecules in the Earth’s atmosphere
+Domain: Interplanetary, Geospace
+Sectors
+Discrete, wedge-shaped segments, centered on the Sun, in the expanding solar wind in which the magnetic polarity of the source region on the Sun is carried outward in the plasma and preserved. They are sensed at the Earth (as they sweep by with solar rotation) as distinct changes in the prevailing polarity of the solar wind
+Domain: Solar Wind
+Shock Wave
+An abrupt change in temperature, speed, density and pressure in a moving plasma, produced by the movement of an object traveling through the medium at a speed greater than the local speed of sound, that can accelerate energetic particles and trigger geomagnetic phenomena.
+Domain: Solar Wind
+Solar Activity
+Phenomena on the Sun such as sunspots, plages, flares, and CMEs whose frequency of occurrence is related to the 11-year sunspot cycle
+Domain: Solar
+More Information
+Solar Atmosphere
+The photosphere, chromosphere, and corona of the Sun
+Domain: Solar
+More Information
+Solar Constant
+The total amount of radiant energy received from the Sun per unit time per unit area at the top of the Earth’s atmosphere, at mean Sun-Earth distance. Once thought, erroneously, to be constant, the term has now been supplanted by the more precise term, total solar irradiance
+Domain: Solar Wind, Geospace
+More Information
+Solar Energetic Protons (SEP’s)
+The Sun with an energy in the 1 to 500 meV range, which is potentially damaging due to its heavy mass and high speed
+Domain: Solar Wind
+Solar Flares
+A sudden and highly-localized increase in the brightness and the energy released from a restricted area on the solar surface which is most often located within a complex solar active region; thought to be provoked by instabilities in magnetic structures that cause opposite field lines to reconnect in a very small volume of material.
+Domain: Solar
+Image
+Image
+Solar Flare Effect (SFE)
+A sudden deviation in the dayside, surface geomagnetic field horizontal component caused by enhanced electric currents in the upper atmosphere. Extra-ordinary shortwave emissions during extreme solar flares increase ionization and conductivity in the lower regions of the ionosphere, allowing currents to flow that produce a magnetic effect at the ground. The effect can be as much as 100 nT and may last up to 30 minutes. The event is also known as a magnetic crochet
+Domain: Solar, Ionosphere, Geomagnetic field
+More Information
+Solar Maximum
+The month(s) during a sunspot cycle when the smoothed sunspot number reaches a maximum.
+Domain: Solar
+More Information
+Solar Minimum
+The month(s) during a sunspot cycle when the smoothed sunspot number reaches a minimum.
+Domain: Solar
+Solar Rotation
+The turning of the Sun( in about 27 days) about an axis that passes through it
+Domain: Solar
+Graphic
+Solar System
+The Sun together with the planets and all other objects that revolve about it
+Domain: Heliosphere
+More Information
+Solar Wind
+The continual release of atomic particles and imbedded magnetic fields (plasma) from the Sun resulting from the thermal expansion of the corona
+Domain: Solar Wind, Heliosphere
+More Information
+Graphic
+Space Weather
+The variable state of the magnetosphere, ionosphere and near-Earth space as perturbed by solar activity and the solar wind: the counterpart of meteorological weather
+Domain: Solar, Solar Wind, Magnetosphere, Geospace
+More Information
+Specifications
+Current conditions
+Domain:
+Stratopause
+The upper limit of the Earth’s stratosphere and lower limit of the mesosphere
+Domain: Lower Atmosphere, Stratosphere
+More Information
+Stratosphere
+The atmosphere extending above the troposphere to an altitude of about 30 miles that exhibits warming with height, the result of the absorption of solar radiant energy by stratospheric ozone
+Domain: Lower Atmosphere, Stratosphere
+More Information
+Suborbital
+Flight at an altitude and velocity that would result in a trajectory incapable of circling the Earth at least once
+Domain: Thermosphere & Ionosphere, Geospace
+Substorm
+A geomagnetic perturbation lasting 1 to 2 hours, which tends to occur during local post-midnight nighttime. The magnitude of the substorm is largest in the auroral zone, potentially reaching several thousand nanotesla. A substorm corresponds to an injection of charged particles from the magnetotail into the auroral oval.
+Domain:
+Sudden Storm Commencement (SSC)
+A very short-lived oscillation and a positive step in the geomagnetic field caused by passage of a solar wind shock front propagating past the magnetosphere. If the interplanetary magnetic field behind the shock is southward a geomagnetic storm commences.
+Domain: Interplanetary, Geomagnetic Field
+Sunspot
+A distinctive, activity-related region in the photosphere, the embodiment of a very strong magnetic field that is cooler and hence darker than the surrounding photosphere
+Domain: Solar
+Image
+More Information
+Sunspot Cycle
+The roughly 11-year cyclic variation in the state of activity on the Sun, most apparent in annual averages of the number of sunspots seen on its white-light surface
+Domain: Solar
+More Information
+Sunspot Number
+An historical index of solar activity defined in the 1860s as the number of spots that are visible on the Sun at any time plus ten times the number of groups of sunspots, multiplied by a factor intended to correct for differences in telescopes, observing sites, and observers
+Domain: Solar
+T
+Termination Shock
+A shock wave that forms at the place in the outer heliosphere where the solar wind first begins to feel the competing force of stellar winds. In passing through it, the solar wind slows from supersonic (about a million miles per hour) to subsonic speeds
+Domain: Heliosphere
+Graphic
+Thermosphere
+The uppermost layer of the Earth’s atmosphere, extending from an altitude of about 50 to more than 1000 miles, where absorption of short-wave solar radiation heats the gas to very high temperatures
+Domain: Thermosphere, Geospace
+More Information
+Total Solar Irradiance
+Electromagnetic energy in all wavelengths received from the Sun at the top of the Earth’s atmosphere
+Domain: Solar Wind, Geospace
+Transition Region
+The region of the Sun’s atmosphere above the chromosphere and below the corona, which exhibits temperatures between 8,000 K to 500,000 K
+Domain:Solar
+More Information
+Tropopause
+the upper limit of the troposphere and lower limit of the stratosphere, at an altitude of about seven miles above sea-level, though somewhat higher in the tropics
+Domain: Lower Atmosphere, Troposphere
+Troposphere
+The lowest region of the Earth’s atmosphere, extending from the surface to the tropopause (about 7 miles high) and characterized by decreasing temperature with increasing altitude; the locus of all weather and climate
+Domain: Lower Atmosphere, Troposphere
+More Information
+U
+Ultraviolet (UV)
+That part of the electromagnetic spectrum between 5 – 400nm.
+Domain:
+More Information
+Unipolar Magnetic Region
+A large-scale photospheric region where the magnetic elements are predominantly of one polarity (for example, the solar polar regions)
+Domain:
+V
+Van Allen Radiation Belts
+Two concentric areas of trapped electrons, protons and ions held within the closed part of the Earth’s magnetic field, from about 600 miles to 25,000 miles above the surface. Same as Radiation Belts
+Domain: Radiation Belts, Magnetosphere
+More Information
+Graphic
+W
+Warnings
+Storm is imminent with high probability
+Domain:
+Watches
+Conditions are favorable for storm
+Domain:
+White-Light
+The combination of light of all colors in the visible spectrum of electromagnetic radiation. The disk of the Sun, which appears white to us, is an example, as is the white color of clouds or the solar corona, both of which represent scattered light from the white photosphere
+Domain: Solar
+White- Light Flare
+A major flare in which small parts become visible in white light. This rare continuum emission is caused by energetic particle beams bombarding the lower solar atmosphere. Such flares are usually strong x-ray, radio, and particle emitters.
+Domain:
+X
+X-Ray
+Radiation of extremely short wavelength (generally less than 1 nm).
+Domain:
+X-Ray Background
+On a daily basis: the daily average background x-ray flux in the 0.1 to 0.8 nm range. On an event basis: the value of solar X-ray flux prior to the start of a solar flare.
+Domain: Solar
+Graphic
+X-Ray Burst
+A temporary enhancement of the x-ray emission of the Sun. The time-intensity profile of soft x-ray bursts is similar to that of the H-alpha profile of an associated flare.
+Domain:
+Y
+Z
+Zeeman Effect
+The splitting of atomic and molecular spectral lines under the influence of an external magnetic field discovered by Pieter Zeeman. The effect observed in hydrogen emissions was used by George Ellery Hale to discover that sunspots were magnetic in 1908 and is still the basis for the majority of measurements of the solar magnetic field today.
+Domain: Solar
+More Information
+Zenith
+The point of the celestial sphere directly overhead at a given place on Earth. Zenith angle can be used along with azimuth to indicate the position of a star or other celestial body.
+Domain: Measurement
+Graphic
+Zenith Angle (Solar)
+SZA
+The angle formed at the center of the Earth between a line to the Sun’s center and a line to the observer’s zenith
+Domain: Measurement
+More Information
+info@spacewx.com
++1-310-573-4185
+Quick Links
+About SET
+Vision
+Mission
+Privacy
+Contact Us
+Resources
+News
+Standards
+Publications
+Service
+Partners
+About
+Space Environment Technologies (SET) is a global leader providing space weather mitigation instrumentation and cloud-based data applications to the U.S. government, academia, and the international commercial aerospace industry
+2001 - 2022 © Space Environment Technologies All Right Reserved
+FLT
+PHP Code Snippets Powered By : XYZScripts.com

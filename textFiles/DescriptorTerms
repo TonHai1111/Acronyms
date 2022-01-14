@@ -1,0 +1,263 @@
+Planetary Names: Feature Types
+Javascript is disabled.
+This website heavily relies on javascript to function,
+either upgrade your browser if it doesn't support javascript or re-enable it.
+Gazetteer of Planetary Nomenclature
+International Astronomical Union (IAU)
+Working Group for Planetary System Nomenclature (WGPSN)
+Planetary Names: Feature Types
+Home
+About
+Nomenclature
+Documentation
+Images and GIS Data
+Advanced Search
+Name Request Form
+Home
+Previous
+About
+Introduction
+History & References
+How Names are Approved
+IAU Working Group and Task Group Members
+FAQ
+Acknowledgements
+Related Resources
+Contact Us
+Home
+Previous
+Nomenclature
+Mercury
+Venus
+The Moon
+Mars
+Asteroids
+Jupiter
+Saturn
+Uranus
+Neptune
+Dwarf Planets
+Ring and Ring Gap Nomenclature
+Planet and Satellite Names, Discoverers, and Themes
+Home
+Previous
+Documentation
+IAU Rules
+Specifics of the Gazetteer
+Abbreviations
+Sources of Planetary Names
+Surface Feature Categories
+Descriptor Terms
+Target Coordinate Systems
+Help using the Website
+GIS API
+Home
+Previous
+Images & GIS Data
+Images showing named features
+GIS Downloads
+Mercury 1:5 million
+Venus 1:5 million
+Venus 1:10 million
+Moon 1:1 million
+Moon 1:10 million
+Mars 1:5 million
+Home
+Previous
+Mars
+Martian System
+Mars
+Phobos
+Deimos
+Home
+Previous
+Asteroids
+Bennu
+Ceres
+Dactyl
+Eros
+Gaspra
+Ida
+Itokawa
+Lutetia
+Mathilde
+Ryugu
+Steins
+Vesta
+More..
+Home
+Previous
+Jupiter
+Jovian System
+Jupiter Rings
+Amalthea
+Thebe
+Io
+Europa
+Ganymede
+Callisto
+Home
+Previous
+Saturn
+Saturnian System
+Saturn Rings
+Epimetheus
+Janus
+Mimas
+Enceladus
+Tethys
+Dione
+Rhea
+Titan
+Hyperion
+Iapetus
+Phoebe
+Home
+Previous
+Uranus
+Uranian System
+Uranus Rings
+Puck
+Miranda
+Ariel
+Umbriel
+Titania
+Oberon
+Home
+Previous
+Neptune
+Neptunian System
+Neptune Rings
+Proteus
+Triton
+Home
+Previous
+Dwarf Planets
+Plutonian System
+Pluto
+Charon
+Ceres
+Descriptor Terms (Feature Types)
+Descriptor terms are intended to represent morphological characteristics, not
+geological origin. The WGPSN does not endorse any specific scientific
+hypotheses when assigning descriptors.
+Chart of landform types created in 1979 by Anne Gifford, who was then at the Air and Space Museum, Smithsonian Institution, Washington, D.C.
+Feature (Designation)
+Description
+Albedo Feature (AL)
+Geographic area distinguished by amount of reflected light
+Arcus, arcūs (AR)
+Arc-shaped feature
+Astrum, astra (AS)
+Radial-patterned features on Venus
+Catena, catenae (CA)
+Chain of craters
+Cavus, cavi (CB)
+Hollows, irregular steep-sided depressions usually in arrays or clusters
+Chaos, chaoses (CH)
+Distinctive area of broken terrain
+Chasma, chasmata (CM)
+A deep, elongated, steep-sided depression
+Collis, colles (CO)
+Small hills or knobs
+Corona, coronae (CR)
+Ovoid-shaped feature
+Crater, craters (AA)
+A circular depression
+Dorsum, dorsa (DO)
+Ridge
+Eruptive center (ER)
+Active volcanic centers on Io
+Facula, faculae (FA)
+Bright spot
+Farrum, farra (FR)
+Pancake-like structure, or a row of such structures
+Flexus, flexūs (FE)
+A very low curvilinear ridge with a scalloped pattern
+Fluctus, fluctūs (FL)
+Flow terrain
+Flumen, flumina (FM)
+Channel on Titan that might carry liquid
+Fossa, fossae (FO)
+Long, narrow depression
+Fretum, freta (FT)
+Strait, a narrow passage of liquid connecting two larger areas of liquid
+Insula, insulae (IN)
+Island (islands), an isolated land area (or group of such areas) surrounded by, or nearly surrounded by, a liquid area (sea or lake)
+Labes, labēs (LA)
+Landslide
+Labyrinthus, labyrinthi (LB)
+Complex of intersecting valleys or ridges.
+Lacuna, lacunae (LU)
+Irregularly shaped depression on Titan having the appearance of a dry lake bed
+Lacus, lacūs (LC)
+"Lake" or small plain; on Titan, a "lake" or small, dark plain with discrete, sharp boundaries
+Landing site name (LF)
+Lunar features at or near Apollo landing sites
+Large ringed feature (LG)
+Cryptic ringed features
+Linea, lineae (LI)
+A dark or bright elongate marking, may be curved or straight
+Lingula, lingulae (LN)
+Extension of plateau having rounded lobate or tongue-like boundaries
+Macula, maculae (MA)
+Dark spot, may be irregular
+Mare, maria (ME)
+“Sea”; on the Moon, low albedo, relatively smooth plain, generally of large extent; on
+Mars, dark albedo areas of no known geological significance; on Titan, large expanses of dark materials thought to be liquid hydrocarbons
+Mensa, mensae (MN)
+A flat-topped prominence with cliff-like edges
+Mons, montes (MO)
+Mountain
+Oceanus, oceani (OC)
+A very large dark area on the moon
+Palus, paludes (PA)
+"Swamp"; small plain
+Patera, paterae (PE)
+An irregular crater, or a complex one with scalloped edges
+Planitia, planitiae (PL)
+Low plain
+Planum, plana (PM)
+Plateau or high plain
+Plume, plumes (PU)
+Cryo-volcanic features on Triton
+Promontorium, promontoria (PR)
+"Cape"; headland promontoria
+Regio, regiones (RE)
+A large area marked by reflectivity or color distinctions from adjacent areas, or a broad geographic region
+Reticulum, reticula (RT)
+reticular (netlike) pattern on Venus
+Rima, rimae (RI)
+Fissure
+Rupes, rupēs (RU)
+Scarp
+Satellite Feature (SF)
+A feature that shares the name of an associated feature. For example, on the Moon the craters referred to as "Lettered Craters" are classified in the gazetteer as "Satellite Features."
+Saxum, saxa (SA)
+Boulder or rock
+Scopulus, scopuli (SC)
+Lobate or irregular scarp
+Serpens, serpentes (SE)
+Sinuous feature with segments of positive and negative relief along its length
+Sinus, sinūs (SI)
+"Bay"; small plain; on Titan, bays within seas or lakes of liquid hydrocarbons
+Sulcus, sulci (SU)
+Subparallel furrows and ridges
+Terra, terrae (TA)
+Extensive land mass
+Tessera, tesserae (TE)
+Tile-like, polygonal terrain
+Tholus, tholi (TH)
+Small domical mountain or hill
+Unda, undae (UN)
+Dunes
+Vallis, valles (VA)
+Valley
+Vastitas, vastitates (VS)
+Extensive plain
+Virga, virgae (VI)
+A streak or stripe of color
+Contact Us |
+IAU |
+USGS Astrogeology Science Center |
+NASA

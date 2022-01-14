@@ -1,0 +1,40 @@
+Glossary of Space Weather related terms
+  ambient solar wind
+ the undisturbed outflow of the Sun's ionized atmosphere into interplanetary 
+space
+  ACE
+ the
+ Advanced Composition Explorer (ACE) spacecraft is positioned on the 
+Earth
+-Sun line and provides measurements of the solar wind plasma and 
+radiation conditions that will impact Earth.
+  active regions
+ A disturbed volume of the Sun's atmosphere that often co
+nsists of (from 
+bottom to top) sunspots, plage, prominences, and hot magnetized loops. 
+Active regions may release significant amounts of energy during magnetic 
+eruptions that produce coronal mass ejections and/or flares.
+  ambient solar wind
+ the outflow of 
+the Sun's ionized atmosphere into interplanetary space
+  AU 1 Astronomical Unit (AU) is equal to the average distance from the Earth to 
+the Sun. This is a convenient measure of distances in the solar system.
+  aurora
+ transient displays of light, often displa
+ying as moving curtains and rays, at 
+high latitudes associated with geomagnetic disturbances
+  auroral region
+ oval
+-shaped, high
+-latitude zone centered on the geomagnetic pole, in 
+which aurora are most visible. 
+  auroral activity
+ usually refers to visible au
+rora and the particles that create them, but may 
+also refer to electrical currents that flow in the auroral region. One measure 
+of auroral activity is hemispheric power
+  auroral boundary
+ The high and low latitude edges of the auroral
+ zone, typically 72 deg 
+(poleward) and 62 deg (equatorward)
+ 
