@@ -247,5 +247,5 @@ def checkAcronym_addDescription_v2(dict_in = dict_input_extracted):
     return
 
 if __name__ == "__main__":
-    #findAcronymsFromInputLinks(dict_input)
+    findAcronymsFromInputLinks(dict_input)
     checkAcronym_addDescription(dict_input_extracted)
