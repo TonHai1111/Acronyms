@@ -1,10 +1,10 @@
 Input Term,isAcronym,Extracted Term,isDescription,Description,Context
 ,False,,False,,
 ambient solar wind,False,,False,,
-ACE,True,ACE,False,Advanced Composition Explorer, the  Advanced Composition Explorer (ACE) spacecraft is positioned on the  
+ACE,True,ACE,True,Advanced Composition Explorer, the  Advanced Composition Explorer (ACE) spacecraft is positioned on the  
 active regions,False,,False,,
 ambient solar wind,False,,False,,
-AU,True,AU,False,Astronomical Unit,the Sun's ionized atmosphere into interplanetary space   AU 1 Astronomical Unit (AU) is equal to the average distance from the Earth to  
+AU,True,AU,True,Astronomical Unit,the Sun's ionized atmosphere into interplanetary space   AU 1 Astronomical Unit (AU) is equal to the average distance from the Earth to  
 aurora,False,,False,,
 auroral region,False,,False,,
 auroral activity,False,,False,,

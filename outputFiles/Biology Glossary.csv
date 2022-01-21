@@ -8,7 +8,7 @@ Activation Energy,False,,False,,
 Active Transport,False,,False,,
 Adaptation,False,,False,,
 Adaptive Radiation,False,,False,,
-Adenosine  Triphosphate  (ATP),True,ATP,False,environmental niches Adenosine Triphosphate,"available, creates new challenges and opens environmental niches  Adenosine Triphosphate (ATP)  "
+Adenosine  Triphosphate  (ATP),True,ATP,True,environmental niches Adenosine Triphosphate,"available, creates new challenges and opens environmental niches  Adenosine Triphosphate (ATP)  "
 Adhesion,False,,False,,
 Aerobic Respiration,False,,False,,
 Agriculture,False,,False,,
@@ -31,8 +31,8 @@ Aquatic,False,,False,,
 Artificial  Selection,False,,False,,
 Asexual Reproduction,False,,False,,
 Atom,False,,False,,
-ATP (adenosine triphosphate),True,ATP,False,environmental niches Adenosine Triphosphate,"available, creates new challenges and opens environmental niches  Adenosine Triphosphate (ATP)  "
-ATP synthase,True,ATP,False,environmental niches Adenosine Triphosphate,"available, creates new challenges and opens environmental niches  Adenosine Triphosphate (ATP)  "
+ATP (adenosine triphosphate),True,ATP,True,environmental niches Adenosine Triphosphate,"available, creates new challenges and opens environmental niches  Adenosine Triphosphate (ATP)  "
+ATP synthase,True,ATP,True,environmental niches Adenosine Triphosphate,"available, creates new challenges and opens environmental niches  Adenosine Triphosphate (ATP)  "
 Autosome,False,,False,,
 Autotroph (producer),False,,False,,
 Base,False,,False,,

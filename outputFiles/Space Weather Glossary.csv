@@ -8,29 +8,29 @@ absorption line,"In spectroscopy, and in particular the solar Fraunhofer spectru
                 radiation that is partially absorbed by the medium between the source and the observer.",False,,False,,
 active,"A descriptive word specifically meaning (1) a probability of ~50% for an M- class x-ray flare (see x-ray
                 flare class); (2) disturbed geomagnetic levels such that 16 < Ak index < 30.",False,,False,,
-active dark filament (ADF),"A filament displaying motion or changes in shape, location, or absorption characteristics.",True,ADF,False,< 30. active dark filament,A descriptive word specifically meaning (1) a probability of ~50% for an M- class x-ray flare (see x-ray flare class); (2) disturbed geomagnetic levels such that 16 < Ak index < 30. active dark filament (ADF) 
+active dark filament (ADF),"A filament displaying motion or changes in shape, location, or absorption characteristics.",True,ADF,True,< 30. active dark filament,A descriptive word specifically meaning (1) a probability of ~50% for an M- class x-ray flare (see x-ray flare class); (2) disturbed geomagnetic levels such that 16 < Ak index < 30. active dark filament (ADF) 
 active longitude,"A range of heliographic longitudes in either the northern or southern solar hemisphere (seldom both at
                 the same time) containing one or more large and complex active regions formed by the frequent, localized
                 emergence of new magnetic flux. Individual sunspot groups within the complex can have relatively short
                 lifetimes (a week or two); the complex may persist for several solar rotations because additional spot
                 groups form as earlier ones decay.",False,,False,,
 active prominence,A prominence above the solar limb moving and changing in appearance over a few minutes of time.,False,,False,,
-active prominence region (APR),A portion of the solar limb displaying active prominences; typically associated with an active region.,True,APR,False,of time. active prominence region,A prominence above the solar limb moving and changing in appearance over a few minutes of time. active prominence region (APR) 
+active prominence region (APR),A portion of the solar limb displaying active prominences; typically associated with an active region.,True,APR,True,of time. active prominence region,A prominence above the solar limb moving and changing in appearance over a few minutes of time. active prominence region (APR) 
 active region (AR),"A localized, transient volume of the solar atmosphere in which plages, sunspots, faculae, flares, etc.,
                 may be observed. Active regions are the result of enhanced magnetic fields; they are bipolar and may be
-                complex if the region contains two or more bipolar groups.",True,AR,False,active region. active region,A portion of the solar limb displaying active prominences; typically associated with an active region. active region (AR) 
+                complex if the region contains two or more bipolar groups.",True,AR,True,active region. active region,A portion of the solar limb displaying active prominences; typically associated with an active region. active region (AR) 
 active surge region (ASR),"An active region that exhibits a group or series of spike- like surges that rise no higher than 0.15
-                solar radii above the limb. (See bright surge on the limb.)",True,ASR,False,bipolar groups. active surge region,"A localized, transient volume of the solar atmosphere in which plages, sunspots, faculae, flares, etc., may be observed. Active regions are the result of enhanced magnetic fields; they are bipolar and may be complex if the region contains two or more bipolar groups. active surge region (ASR) "
-ADF,See active dark filament.,True,ADF,False,< 30. active dark filament,A descriptive word specifically meaning (1) a probability of ~50% for an M- class x-ray flare (see x-ray flare class); (2) disturbed geomagnetic levels such that 16 < Ak index < 30. active dark filament (ADF) 
+                solar radii above the limb. (See bright surge on the limb.)",True,ASR,True,bipolar groups. active surge region,"A localized, transient volume of the solar atmosphere in which plages, sunspots, faculae, flares, etc., may be observed. Active regions are the result of enhanced magnetic fields; they are bipolar and may be complex if the region contains two or more bipolar groups. active surge region (ASR) "
+ADF,See active dark filament.,True,ADF,True,< 30. active dark filament,A descriptive word specifically meaning (1) a probability of ~50% for an M- class x-ray flare (see x-ray flare class); (2) disturbed geomagnetic levels such that 16 < Ak index < 30. active dark filament (ADF) 
 AE index,"A geomagnetic index of the auroral electrojet, which characterizes the maximum range of excursion (both
                 positive and negative) from quiet levels; measured at a given universal time by using the combined data
                 from a worldwide ring of high-latitude magnetic observatories. AU (A upper) refers to the greatest
                 positive deviation from the quiet time reference and AL (A lower) to the most negative. By definition AE
                 = AU - AL. AO refers to the mean of AU and AL: AO = 1/2 (AU + AL). The AE and companion indexes are
                 provided by the Data Analysis Center for Geomagnetism and Space Magnetism of Kyoto University, Kyoto,
-                Japan.",True,AE,False,Auroral Electrojet,Image Auroral Electrojet (AE) Index 
+                Japan.",True,AE,True,Auroral Electrojet,Image Auroral Electrojet (AE) Index 
 AFR,"The Ak index observed at Fredericksburg, Virginia.",True,AFR,False,,
-AFS,See arch filament system.,True,AFS,False,mass ejection. arch filament system,"A series of magnetic loops, overlying a solar inversion line.  Can become visible or enhanced following a nearby coronal mass ejection. arch filament system (AFS) "
+AFS,See arch filament system.,True,AFS,True,mass ejection. arch filament system,"A series of magnetic loops, overlying a solar inversion line.  Can become visible or enhanced following a nearby coronal mass ejection. arch filament system (AFS) "
 ak index,"A 3-hourly ”equivalent amplitude” index of geomagnetic activity for a specific station or network of
                     stations (represented generically here by k) expressing the range of disturbance in the horizontal
                     magnetic field. ”ak” is scaled from the 3-hourly K index according to the following table:
@@ -93,18 +93,18 @@ aphelion,"That point on the path of a Sun-orbiting object most distant from the 
                 perihelion.",False,,False,,
 apogee,"That point on the path of an Earth-orbiting satellite most distant from the center of the Earth. Compare
                 perigee.",False,,False,,
-APR,See active prominence region.,True,APR,False,of time. active prominence region,A prominence above the solar limb moving and changing in appearance over a few minutes of time. active prominence region (APR) 
-AR,See active region.,True,AR,False,active region. active region,A portion of the solar limb displaying active prominences; typically associated with an active region. active region (AR) 
+APR,See active prominence region.,True,APR,True,of time. active prominence region,A prominence above the solar limb moving and changing in appearance over a few minutes of time. active prominence region (APR) 
+AR,See active region.,True,AR,True,active region. active region,A portion of the solar limb displaying active prominences; typically associated with an active region. active region (AR) 
 arcade,"A series of magnetic loops, overlying a solar inversion line.  Can become visible or enhanced
                 following a nearby coronal mass ejection.",False,,False,,
 arch filament system (AFS),"A system of small, arched linear-absorption H-alpha features connecting bright, compact plage of
                 opposite polarity. An AFS is a sign of emerging bipolar magnetic flux and possibly rapid or continued
-                growth in an active region.",True,AFS,False,mass ejection. arch filament system,"A series of magnetic loops, overlying a solar inversion line.  Can become visible or enhanced following a nearby coronal mass ejection. arch filament system (AFS) "
+                growth in an active region.",True,AFS,True,mass ejection. arch filament system,"A series of magnetic loops, overlying a solar inversion line.  Can become visible or enhanced following a nearby coronal mass ejection. arch filament system (AFS) "
 As index,The daily Ak index determined from only the Southern Hemisphere stations of the am index network.,False,,False,,
-ASR,See active surge region.,True,ASR,False,bipolar groups. active surge region,"A localized, transient volume of the solar atmosphere in which plages, sunspots, faculae, flares, etc., may be observed. Active regions are the result of enhanced magnetic fields; they are bipolar and may be complex if the region contains two or more bipolar groups. active surge region (ASR) "
+ASR,See active surge region.,True,ASR,True,bipolar groups. active surge region,"A localized, transient volume of the solar atmosphere in which plages, sunspots, faculae, flares, etc., may be observed. Active regions are the result of enhanced magnetic fields; they are bipolar and may be complex if the region contains two or more bipolar groups. active surge region (ASR) "
 atmospherics,"Also known as ”sferics,” transient radio waves produced by naturally occurring electric discharges
                 (e.g., lightning) in the Earth’s atmosphere.",False,,False,,
-AU,"The mean distance between the Earth and Sun equal to 1.496 x10""m",True,AU,False,Astronomimcal Unit,"More Information Astronomimcal Unit (AU)a unit of length often used in expressing distances in the heliosphere. The International Astronomical Union defines 1 AU as 149,597,870,700 m. The value corresponds roughly to the average Sun-Earth distance. "
+AU,"The mean distance between the Earth and Sun equal to 1.496 x10""m",True,AU,True,Astronomimcal Unit,"More Information Astronomimcal Unit (AU)a unit of length often used in expressing distances in the heliosphere. The International Astronomical Union defines 1 AU as 149,597,870,700 m. The value corresponds roughly to the average Sun-Earth distance. "
 aurora,"A faint visual phenomenon associated with geomagnetic activity that is visible mainly in the
                 high-latitude night sky. Aurorae occur within a band of latitudes known as the auroral oval, the
                 location of which is dependent on geomagnetic activity. Aurorae are a result of collisions between
@@ -142,14 +142,14 @@ bow shock,"A standing shock wave in front of the magnetosphere, arising from the
 bright point,"A short-lived brightening of flare or near flare intensity, less than ten millionths of the solar
                 hemisphere in area.",False,,False,,
 bright surge on the disk (BSD),"A bright stream of gas seen against the solar disk. BSDs are often flare related and commonly fan out
-                from the flare site. See also bright surge on the limb.",True,BSD,False,bright surge on the disk,"A short-lived brightening of flare or near flare intensity, less than ten millionths of the solar hemisphere in area. bright surge on the disk (BSD) "
+                from the flare site. See also bright surge on the limb.",True,BSD,True,bright surge on the disk,"A short-lived brightening of flare or near flare intensity, less than ten millionths of the solar hemisphere in area. bright surge on the disk (BSD) "
 bright surge on the limb (BSL),"A bright stream of gas emanating from the chromosphere that moves outward more than 0.15 solar radius
                 above the limb. It may decelerate and return to the Sun. Most BSLs assume a linear radial shape but can
-                be inclined and/or fan shaped.",True,BSL,False,bright surge on the limb,A bright stream of gas seen against the solar disk. BSDs are often flare related and commonly fan out from the flare site. See also bright surge on the limb. bright surge on the limb (BSL) 
+                be inclined and/or fan shaped.",True,BSL,True,bright surge on the limb,A bright stream of gas seen against the solar disk. BSDs are often flare related and commonly fan out from the flare site. See also bright surge on the limb. bright surge on the limb (BSL) 
 brightness temperature,"The equivalent blackbody temperature at a specified wavelength of a uniform source filling the
                 resolution element of the telescope.",False,,False,,
-BSD,See bright surge on the disk.,True,BSD,False,bright surge on the disk,"A short-lived brightening of flare or near flare intensity, less than ten millionths of the solar hemisphere in area. bright surge on the disk (BSD) "
-BSL,See bright surge on the limb.,True,BSL,False,bright surge on the limb,A bright stream of gas seen against the solar disk. BSDs are often flare related and commonly fan out from the flare site. See also bright surge on the limb. bright surge on the limb (BSL) 
+BSD,See bright surge on the disk.,True,BSD,True,bright surge on the disk,"A short-lived brightening of flare or near flare intensity, less than ten millionths of the solar hemisphere in area. bright surge on the disk (BSD) "
+BSL,See bright surge on the limb.,True,BSL,True,bright surge on the limb,A bright stream of gas seen against the solar disk. BSDs are often flare related and commonly fan out from the flare site. See also bright surge on the limb. bright surge on the limb (BSL) 
 burst,"A transient enhancement of the solar radio emission, usually associated with an active region or flare.",False,,False,,
 butterfly diagram,"A plot of observed solar active region latitudes vs. time. This diagram, which resembles a butterfly,
                     shows that the average latitude of active region formation drifts from high to low latitudes during
@@ -165,26 +165,26 @@ celestial equator,The projection of Earth’s geographic equator onto the celest
 celestial sphere,An imaginary rotating spherical shell around the Earth and concentric with it.,False,,False,,
 centimeter burst,A solar radio burst in the centimeter wavelength range of 1 to 10 cm.,False,,False,,
 central meridian passage (CMP),"The rotation of an active region or other feature across the longitude meridian that passes through the
-                apparent center of the solar disk.",True,CMP,False,10 cm. central meridian passage,A solar radio burst in the centimeter wavelength range of 1 to 10 cm. central meridian passage (CMP) 
+                apparent center of the solar disk.",True,CMP,True,10 cm. central meridian passage,A solar radio burst in the centimeter wavelength range of 1 to 10 cm. central meridian passage (CMP) 
 chromosphere,"The layer of the solar atmosphere above the photosphere and beneath the transition region and the
                 corona. The chromosphere is the source of the strongest lines in the solar spectrum, including the
                 Balmer alpha line of hydrogen and the H and K lines of calcium, and is the source of the red color often
                 seen around the rim of the moon at total solar eclipses.",False,,False,,
 cleft,See cusp.,False,,False,,
-CMD,Central Meridian Distance. (See solar coordinates).,True,CMD,False,the meridian. Central meridian distance,"Latitude.  The angular distance from the solar equator, measured north or south along the meridian. Central meridian distance (CMD).  The angular distance in solar longitude measured from the central meridian. This position is relative to the view from Earth and will change as the Sun rotates. Therefore, this coordinate should not be confused with heliographic positions that are fixed with respect to the solar surface. "
-CME,See coronal mass ejection.,True,CME,False,magnetic topology. coronal mass ejection,A typical structure of enhanced corona observed in EUV lines and soft x-rays.  Coronal loops represent ”closed” magnetic topology. coronal mass ejection (CME) 
-CMP,See central meridian passage.,True,CMP,False,10 cm. central meridian passage,A solar radio burst in the centimeter wavelength range of 1 to 10 cm. central meridian passage (CMP) 
+CMD,Central Meridian Distance. (See solar coordinates).,True,CMD,True,the meridian. Central meridian distance,"Latitude.  The angular distance from the solar equator, measured north or south along the meridian. Central meridian distance (CMD).  The angular distance in solar longitude measured from the central meridian. This position is relative to the view from Earth and will change as the Sun rotates. Therefore, this coordinate should not be confused with heliographic positions that are fixed with respect to the solar surface. "
+CME,See coronal mass ejection.,True,CME,True,magnetic topology. coronal mass ejection,A typical structure of enhanced corona observed in EUV lines and soft x-rays.  Coronal loops represent ”closed” magnetic topology. coronal mass ejection (CME) 
+CMP,See central meridian passage.,True,CMP,True,10 cm. central meridian passage,A solar radio burst in the centimeter wavelength range of 1 to 10 cm. central meridian passage (CMP) 
 conjugate points,Two points on the Earth’s surface at opposite ends of a geomagnetic field line.,False,,False,,
 continuum,Optical radiation arising from broadband emission from the photosphere.,False,,False,,
 continuum storm (CTM),"General term for solar radio noise lasting for hours and sometimes days, in which the intensity varies
-                smoothly with frequency over a wide range in the meter and decimeter wavelengths.",True,CTM,False,from the photosphere. continuum storm,Optical radiation arising from broadband emission from the photosphere. continuum storm (CTM) 
+                smoothly with frequency over a wide range in the meter and decimeter wavelengths.",True,CTM,True,from the photosphere. continuum storm,Optical radiation arising from broadband emission from the photosphere. continuum storm (CTM) 
 convection,"The bulk transport of plasma (or gas) from one place to another, in response to mechanical forces (for
                 example, viscous interaction with the solar wind) or electromagnetic forces.",False,,False,,
 Coordinated Universal Time (UTC),"By international agreement, the local time at the prime meridian, which passes through Greenwich,
                 England. It was formerly known as Greenwich Mean Time, or sometimes simply Universal Time.  There
                 are 24 time zones around the world, labeled alphabetically. The time zone centered at Greenwich has the
                 double designation of A and Z. Especially in the military community, Coordinated Universal Time is often
-                referred to as Z or Zulu Time.",True,UTC,False,Coordinated Universal Time,"The bulk transport of plasma (or gas) from one place to another, in response to mechanical forces (for example, viscous interaction with the solar wind) or electromagnetic forces. Coordinated Universal Time (UTC) "
+                referred to as Z or Zulu Time.",True,UTC,True,Coordinated Universal Time,"The bulk transport of plasma (or gas) from one place to another, in response to mechanical forces (for example, viscous interaction with the solar wind) or electromagnetic forces. Coordinated Universal Time (UTC) "
 corona,"The outermost layer of the solar atmosphere, characterized by low densities ( < 109
                 cm-3) and high temperatures (> 106 K).",False,,False,,
 coronagraph,"An optical device that makes it possible to observe the corona at times other than during an eclipse. A
@@ -201,10 +201,10 @@ coronal loops,"A typical structure of enhanced corona observed in EUV lines and 
 coronal mass ejection (CME),"An outflow of plasma from or through the solar corona. CMEs are often, but not always, associated with
                 erupting prominences, disappearing solar filaments, and/or flares.  CMEs vary widely in structure,
                 density, and velocity.  Large and fast CMEs can approach densities of 1016 g and
-                velocities of 2000 km/s.  Earth impacting CMEs can result in significant geomagnetic storms.",True,CME,False,magnetic topology. coronal mass ejection,A typical structure of enhanced corona observed in EUV lines and soft x-rays.  Coronal loops represent ”closed” magnetic topology. coronal mass ejection (CME) 
+                velocities of 2000 km/s.  Earth impacting CMEs can result in significant geomagnetic storms.",True,CME,True,magnetic topology. coronal mass ejection,A typical structure of enhanced corona observed in EUV lines and soft x-rays.  Coronal loops represent ”closed” magnetic topology. coronal mass ejection (CME) 
 coronal rain (CRN),"Material condensing in the corona and appearing to rain down into the chromosphere as observed in
                 H-alpha at the solar limb.  Rarely observed and usually seen following the impulsive phase of a
-                large limb flare.",True,CRN,False,significant geomagnetic storms. coronal rain,"An outflow of plasma from or through the solar corona. CMEs are often, but not always, associated with erupting prominences, disappearing solar filaments, and/or flares.  CMEs vary widely in structure, density, and velocity.  Large and fast CMEs can approach densities of 1016 g and velocities of 2000 km/s.  Earth impacting CMEs can result in significant geomagnetic storms. coronal rain (CRN) "
+                large limb flare.",True,CRN,True,significant geomagnetic storms. coronal rain,"An outflow of plasma from or through the solar corona. CMEs are often, but not always, associated with erupting prominences, disappearing solar filaments, and/or flares.  CMEs vary widely in structure, density, and velocity.  Large and fast CMEs can approach densities of 1016 g and velocities of 2000 km/s.  Earth impacting CMEs can result in significant geomagnetic storms. coronal rain (CRN) "
 coronal streamer,"A large-scale structure in the white-light corona often overlying a principal inversion line in solar
                 photospheric magnetic fields.",False,,False,,
 coronal transients,A general term for short-time-scale changes in the corona.  Includes CMEs.,False,,False,,
@@ -217,12 +217,12 @@ cosmic ray,"An extremely energetic and relativistic charged particle.  Galactic
 critical frequency,"In ionospheric radio propagation, that frequency capable of penetration just to the layer of maximum
                 ionization under vertical propagation. Radio waves of lower frequencies are refracted back to the
                 ground; higher frequencies pass through.",False,,False,,
-CRN,See coronal rain.,True,CRN,False,significant geomagnetic storms. coronal rain,"An outflow of plasma from or through the solar corona. CMEs are often, but not always, associated with erupting prominences, disappearing solar filaments, and/or flares.  CMEs vary widely in structure, density, and velocity.  Large and fast CMEs can approach densities of 1016 g and velocities of 2000 km/s.  Earth impacting CMEs can result in significant geomagnetic storms. coronal rain (CRN) "
+CRN,See coronal rain.,True,CRN,True,significant geomagnetic storms. coronal rain,"An outflow of plasma from or through the solar corona. CMEs are often, but not always, associated with erupting prominences, disappearing solar filaments, and/or flares.  CMEs vary widely in structure, density, and velocity.  Large and fast CMEs can approach densities of 1016 g and velocities of 2000 km/s.  Earth impacting CMEs can result in significant geomagnetic storms. coronal rain (CRN) "
 crochet,"A sudden deviation in the sunlit geomagnetic field H component (see geomagnetic elements) associated
                 with extra-ordinary solar flare x-ray emission. The effect can be as much as 100 nT and
                 characteristically lasts up to approximately 30 minutes. The event is also known as a SFE (solar flare
                 effect).",False,,False,,
-CTM,See continuum storm.,True,CTM,False,from the photosphere. continuum storm,Optical radiation arising from broadband emission from the photosphere. continuum storm (CTM) 
+CTM,See continuum storm.,True,CTM,True,from the photosphere. continuum storm,Optical radiation arising from broadband emission from the photosphere. continuum storm (CTM) 
 cusp(s},"In the magnetosphere, two regions near magnetic local noon and approximately 15 degrees of latitude
                 equatorward of the north and the south magnetic poles. The cusps mark the division between geomagnetic
                 field lines on the sunward side (which are approximately dipolar but somewhat compressed by the solar
@@ -233,7 +233,7 @@ D region,"A daytime region of the Earth’s ionosphere beginning from approximat
                 ionization associated with solar x-ray flares.",False,,False,,
 dark surge on the disk (DSD),"Dark gaseous ejections on the Sun visible in Ha. They usually originate from small subflare-like
                 brightenings. Material is usually seen to be ejected, then decelerate at a gravitational rate, and to
-                flow back to the point of origin. DSDs can occur intermittently for days from an active region.",True,DSD,False,dark surge on the disk,A daytime region of the Earth’s ionosphere beginning from approximately 40 km to 90 km altitude. Radiowave absorption in layers in this region can be significantly increased in response to increased ionization associated with solar x-ray flares. dark surge on the disk (DSD) 
+                flow back to the point of origin. DSDs can occur intermittently for days from an active region.",True,DSD,True,dark surge on the disk,A daytime region of the Earth’s ionosphere beginning from approximately 40 km to 90 km altitude. Radiowave absorption in layers in this region can be significantly increased in response to increased ionization associated with solar x-ray flares. dark surge on the disk (DSD) 
 DB. disparition brusque,See disappearing solar filament.,False,,False,,
 declination,"(1) The angular distance of an astronomical body north (+) or south (-) of the celestial equator. (2) In
                 geomagnetic applications, the angle between true north and the horizontal component of the local
@@ -255,15 +255,15 @@ dip equator,"An irregular, imaginary line around the Earth where the geomagnetic
                 zero. It lies near the geographic equator.",False,,False,,
 disappearing solar filament (DSF),"A solar filament that disappears suddenly on a timescale of minutes to hours. The prominence material is
                 often seen to ascend but can fall into the Sun or just fade.  DSFs are probable indicators of
-                coronal mass ejections.",True,DSF,False,geographic equator. disappearing solar filament,"An irregular, imaginary line around the Earth where the geomagnetic inclination angle is measured to be zero. It lies near the geographic equator. disappearing solar filament (DSF) "
+                coronal mass ejections.",True,DSF,True,geographic equator. disappearing solar filament,"An irregular, imaginary line around the Earth where the geomagnetic inclination angle is measured to be zero. It lies near the geographic equator. disappearing solar filament (DSF) "
 disk,The visible surface of the Sun or other heavenly body projected against the sky.,False,,False,,
-disparition brusque (DB),See disappearing solar filament.,True,DB,False,the sky. disparition brusque,The visible surface of the Sun or other heavenly body projected against the sky. disparition brusque (DB) 
+disparition brusque (DB),See disappearing solar filament.,True,DB,True,the sky. disparition brusque,The visible surface of the Sun or other heavenly body projected against the sky. disparition brusque (DB) 
 Doppler shift,"A change in the perceived frequency of a radiated signal caused by motion of the source relative to the
                 observer.",False,,False,,
 dose rate,"The rate at which radiation energy is absorbed in living tissue, expressed in centisieverts per unit
                 time.",False,,False,,
-DSD,See dark surge on the disk.,True,DSD,False,dark surge on the disk,A daytime region of the Earth’s ionosphere beginning from approximately 40 km to 90 km altitude. Radiowave absorption in layers in this region can be significantly increased in response to increased ionization associated with solar x-ray flares. dark surge on the disk (DSD) 
-DSF,See disappearing solar filament.,True,DSF,False,geographic equator. disappearing solar filament,"An irregular, imaginary line around the Earth where the geomagnetic inclination angle is measured to be zero. It lies near the geographic equator. disappearing solar filament (DSF) "
+DSD,See dark surge on the disk.,True,DSD,True,dark surge on the disk,A daytime region of the Earth’s ionosphere beginning from approximately 40 km to 90 km altitude. Radiowave absorption in layers in this region can be significantly increased in response to increased ionization associated with solar x-ray flares. dark surge on the disk (DSD) 
+DSF,See disappearing solar filament.,True,DSF,True,geographic equator. disappearing solar filament,"An irregular, imaginary line around the Earth where the geomagnetic inclination angle is measured to be zero. It lies near the geographic equator. disappearing solar filament (DSF) "
 Dst index,"A measure of variation in the geomagnetic field due to the equatorial ring current. It is computed from
                 the H-components at approximately four near-equatorial stations at hourly intervals. At a given time,
                 the Dst index is the average of variation over all longitudes.  The reference level is set so that
@@ -283,8 +283,8 @@ eclipse,"The obscuring of one celestial body by another. (1) A Solar Eclipse occ
                 by the Earth:  (3) Spacecraft in the Earth’s shadow are said to be in eclipse.",False,,False,,
 ecliptic,"The great circle made by the intersection of the plane of the Earth’s orbit with the celestial sphere.
                 (Less properly, the apparent path of the Sun around the sky during the year.)",False,,False,,
-EFR,See emerging flux region.,True,EFR,False,low frequency. emerging flux region,See extremely low frequency. emerging flux region (EFR) 
-EHF,See extremely high frequency.,True,EHF,False,100 nm. extremely high frequency,A portion of the electromagnetic spectrum from approximately 10 to 100 nm. extremely high frequency (EHF) 
+EFR,See emerging flux region.,True,EFR,True,low frequency. emerging flux region,See extremely low frequency. emerging flux region (EFR) 
+EHF,See extremely high frequency.,True,EHF,True,100 nm. extremely high frequency,A portion of the electromagnetic spectrum from approximately 10 to 100 nm. extremely high frequency (EHF) 
 EIT,"Extreme ultraviolet Imaging Telescope.  Instrument on the SOlar Heliospheric Observer.  EIT
                 continuously observes the full disk Sun at 17.1 nm, 19.5 nm, 28.4 nm, and 30.4 nm.",True,EIT,False,,
 electrojet,"(1) Auroral: A current that flows in the ionosphere in the auroral zone. (2) Equatorial: A thin electric
@@ -292,26 +292,26 @@ electrojet,"(1) Auroral: A current that flows in the ionosphere in the auroral z
 electrostatic discharge (ESD),"An abrupt equalization of electric potentials. In space, ESD can occur between objects or portions of a
                 single object (see differential charging); ESD may occur locally within a dielectric or cable. The
                 consequences may include material damage, a spacecraft anomaly, phantom commands, disrupted telemetry,
-                and contaminated data.",True,ESD,False,115 km altitude. electrostatic discharge,(1) Auroral: A current that flows in the ionosphere in the auroral zone. (2) Equatorial: A thin electric current layer in the ionosphere over the dip equator at about 100 to 115 km altitude. electrostatic discharge (ESD) 
-ELF,See extremely low frequency.,True,ELF,False,300 GHz. extremely low frequency,That portion of the radio frequency spectrum from 30-300 GHz. extremely low frequency (ELF) 
+                and contaminated data.",True,ESD,True,115 km altitude. electrostatic discharge,(1) Auroral: A current that flows in the ionosphere in the auroral zone. (2) Equatorial: A thin electric current layer in the ionosphere over the dip equator at about 100 to 115 km altitude. electrostatic discharge (ESD) 
+ELF,See extremely low frequency.,True,ELF,True,300 GHz. extremely low frequency,That portion of the radio frequency spectrum from 30-300 GHz. extremely low frequency (ELF) 
 emerging flux region (EFR),"An area on the Sun where new magnetic flux erupts. An EFR is a bipolar magnetic region that first
                 produces a small bipolar plage visible in the chromosphere, which may develop an arch filament system
                 and the initial spots of a sunspot group. An EFR may be isolated from other solar activity or may occur
-                within an active region.",True,EFR,False,low frequency. emerging flux region,See extremely low frequency. emerging flux region (EFR) 
+                within an active region.",True,EFR,True,low frequency. emerging flux region,See extremely low frequency. emerging flux region (EFR) 
 emission line,"In spectroscopy, a particular wavelength of emitted radiation, more intense than the background
                 continuum.",False,,False,,
 emission measure,The integral of the square of the electron density over volume; the units are inverse volume (m-3).,False,,False,,
 ephemeris,"An astronomical almanac listing solar coordinates and the positions of the Sun and other heavenly bodies
                 at regular intervals in time.",False,,False,,
-EPL,See eruptive prominence on limb.,True,EPL,False,class.) eruptive prominence on limb,"With regard to solar flare predictions, a probability of >50% that an active region will produce C class x-ray flares. (See x-ray flare class.) eruptive prominence on limb (EPL) "
+EPL,See eruptive prominence on limb.,True,EPL,True,class.) eruptive prominence on limb,"With regard to solar flare predictions, a probability of >50% that an active region will produce C class x-ray flares. (See x-ray flare class.) eruptive prominence on limb (EPL) "
 equatorial electrojet,See electrojet.,False,,False,,
 equinox,"One of the two points of intersection of the celestial equator and the ecliptic. The Sun passes through
                 the vernal equinox on about 21 March and through the autumnal equinox on about 22 September.",False,,False,,
 eruptive,"With regard to solar flare predictions, a probability of >50% that an active region will produce C
                 class x-ray flares. (See x-ray flare class.)",False,,False,,
 eruptive prominence on limb (EPL),"A solar prominence that becomes activated and is seen to ascend away from the Sun; sometimes associated
-                with a coronal mass ejection. (See also disappearing solar filament.)",True,EPL,False,class.) eruptive prominence on limb,"With regard to solar flare predictions, a probability of >50% that an active region will produce C class x-ray flares. (See x-ray flare class.) eruptive prominence on limb (EPL) "
-ESD,See electrostatic discharge.,True,ESD,False,115 km altitude. electrostatic discharge,(1) Auroral: A current that flows in the ionosphere in the auroral zone. (2) Equatorial: A thin electric current layer in the ionosphere over the dip equator at about 100 to 115 km altitude. electrostatic discharge (ESD) 
+                with a coronal mass ejection. (See also disappearing solar filament.)",True,EPL,True,class.) eruptive prominence on limb,"With regard to solar flare predictions, a probability of >50% that an active region will produce C class x-ray flares. (See x-ray flare class.) eruptive prominence on limb (EPL) "
+ESD,See electrostatic discharge.,True,ESD,True,115 km altitude. electrostatic discharge,(1) Auroral: A current that flows in the ionosphere in the auroral zone. (2) Equatorial: A thin electric current layer in the ionosphere over the dip equator at about 100 to 115 km altitude. electrostatic discharge (ESD) 
 estimated hemispherical power input,"For the Earth, an estimate made from NOAA particle measurements of the instantaneous power dissipated
                 daily in a single auroral zone by auroral particle precipitation. The power ranges from approximately 5
                 gigawatts during quiet intervals up to more than 100 in very active times. The magnitude of this power
@@ -319,14 +319,14 @@ estimated hemispherical power input,"For the Earth, an estimate made from NOAA p
 Estimated Kp,"Estimated 3-hourly Kp indices are derived in real time from a network of western hemisphere ground-based
                 magnetometers. These indices may differ from the final Kp values derived montly by the
                 GeoForschungsZentrum, Potsdam, Germany, using a global network of magnetometers.",False,,False,,
-EUV,See extreme ultraviolet.,True,EUV,False,500 600 km. extreme ultraviolet,The Earth’s atmosphere above 500-600 km. extreme ultraviolet (EUV) 
+EUV,See extreme ultraviolet.,True,EUV,True,500 600 km. extreme ultraviolet,The Earth’s atmosphere above 500-600 km. extreme ultraviolet (EUV) 
 Evershed effect,"Horizontal motion of the solar atmosphere near a sunspot, having velocities of a few kilometers per
                 second. In the photosphere, matter streams away from the umbra. In the chromosphere, the direction of
                 flow is toward the umbra.",False,,False,,
 exosphere,The Earth’s atmosphere above 500-600 km.,False,,False,,
-extreme ultraviolet (EUV),A portion of the electromagnetic spectrum from approximately 10 to 100 nm.,True,EUV,False,500 600 km. extreme ultraviolet,The Earth’s atmosphere above 500-600 km. extreme ultraviolet (EUV) 
-extremely high frequency (EHF),That portion of the radio frequency spectrum from 30-300 GHz.,True,EHF,False,100 nm. extremely high frequency,A portion of the electromagnetic spectrum from approximately 10 to 100 nm. extremely high frequency (EHF) 
-extremely low frequency (ELF),That portion of the radio frequency spectrum from 30 to 3000 Hz.,True,ELF,False,300 GHz. extremely low frequency,That portion of the radio frequency spectrum from 30-300 GHz. extremely low frequency (ELF) 
+extreme ultraviolet (EUV),A portion of the electromagnetic spectrum from approximately 10 to 100 nm.,True,EUV,True,500 600 km. extreme ultraviolet,The Earth’s atmosphere above 500-600 km. extreme ultraviolet (EUV) 
+extremely high frequency (EHF),That portion of the radio frequency spectrum from 30-300 GHz.,True,EHF,True,100 nm. extremely high frequency,A portion of the electromagnetic spectrum from approximately 10 to 100 nm. extremely high frequency (EHF) 
+extremely low frequency (ELF),That portion of the radio frequency spectrum from 30 to 3000 Hz.,True,ELF,True,300 GHz. extremely low frequency,That portion of the radio frequency spectrum from 30-300 GHz. extremely low frequency (ELF) 
 F corona,"Of the white-light corona (the corona seen by the eye at a total solar eclipse), that portion which is
                 caused by sunlight scattered or reflected by solid particles (dust) in interplanetary space. The same
                 phenomenon produces zodiacal light.",False,,False,,
@@ -465,7 +465,7 @@ geomagnetic field,"The magnetic field in and around the Earth. The intensity of 
                 model) and the geographic south pole. (See also corrected geomagnetic coordinates.)",False,,False,,
 geomagnetically induced current (GIC),"A quasi-DC current induced into long conductors such as electrical transmission lines or pipe
                 lines.  This occurs during geomagnetic storms at the Earth due to the movement of the field lines
-                in the vicinity of the conductors.",True,GIC,False,geomagnetic coordinates.) geomagnetically induced current,"The magnetic field in and around the Earth. The intensity of the magnetic field at the Earth’s surface is approximately 32,000 nT at the equator and 62,000 nT at the north pole (the place where a compass needle points vertically downward). The geomagnetic field is dynamic and undergoes continual slow secular changes as well as short-term disturbances (see geomagnetic activity). The geomagnetic field can be approximated by a centered dipole field, with the axis of the dipole inclined to the Earth’s rotational axis by about 11.5 degrees. Geomagnetic dipole north is near geographic coordinate 79 degrees N and 71 degrees W (near Thule, Greenland), and dipole south is near 79 degrees S and 110 degrees E (near Vostok, Antarctica). The observed or dip poles, where the magnetic field is vertical to the Earth’s surface, are near 77 degrees N and 102 degrees W, and 65 degrees S and 139 degrees E. The adopted origin of geomagnetic longitude is the meridian passing through the geomagnetic poles (dipole model) and the geographic south pole. (See also corrected geomagnetic coordinates.) geomagnetically induced current (GIC) "
+                in the vicinity of the conductors.",True,GIC,True,geomagnetic coordinates.) geomagnetically induced current,"The magnetic field in and around the Earth. The intensity of the magnetic field at the Earth’s surface is approximately 32,000 nT at the equator and 62,000 nT at the north pole (the place where a compass needle points vertically downward). The geomagnetic field is dynamic and undergoes continual slow secular changes as well as short-term disturbances (see geomagnetic activity). The geomagnetic field can be approximated by a centered dipole field, with the axis of the dipole inclined to the Earth’s rotational axis by about 11.5 degrees. Geomagnetic dipole north is near geographic coordinate 79 degrees N and 71 degrees W (near Thule, Greenland), and dipole south is near 79 degrees S and 110 degrees E (near Vostok, Antarctica). The observed or dip poles, where the magnetic field is vertical to the Earth’s surface, are near 77 degrees N and 102 degrees W, and 65 degrees S and 139 degrees E. The adopted origin of geomagnetic longitude is the meridian passing through the geomagnetic poles (dipole model) and the geographic south pole. (See also corrected geomagnetic coordinates.) geomagnetically induced current (GIC) "
 geomagnetic storm,"(1) A worldwide disturbance of the Earth’s magnetic field, distinct from regular diurnal variations. A
                 storm is precisely defined as occurring when the daily Ap index exceeds 29, or (2)  NOAA Space
                 Weather Scale (G) for geomagnetic storm disturbances (see Appendix A).",False,,False,,
@@ -475,15 +475,15 @@ geosynchronous,"Term applied to any equatorial satellite with an orbital velocit
                 Earth’s surface). To be geostationary as well, the satellite must satisfy the additional restriction
                 that its orbital inclination be exactly zero degrees. The net effect is that a geostationary satellite
                 is virtually motionless with respect to an observer on the ground.",False,,False,,
-GLE,See ground-level event.,True,GLE,False,coronal holes. ground level event,"A coronal emission line at 530.3 nm from Fe XIV. The green line is one of the strongest visible coronal lines. It identifies moderate temperature regions of the corona; it is enhanced in coronal streamers above inversion lines, and diminished in coronal holes. ground-level event (GLE) "
-GMT,Greenwich Mean Time. (See Coordinated Universal Time.),True,GMT,False,Greenwich Mean Time,"Cellular structure of the photosphere visible at high spatial resolution. Individual granules, which represent the tops of small convection cells, are 200 to 2000 km in diameter and have lifetimes of 8 to 10 minutes. Greenwich Mean Time (GMT) "
+GLE,See ground-level event.,True,GLE,True,coronal holes. ground level event,"A coronal emission line at 530.3 nm from Fe XIV. The green line is one of the strongest visible coronal lines. It identifies moderate temperature regions of the corona; it is enhanced in coronal streamers above inversion lines, and diminished in coronal holes. ground-level event (GLE) "
+GMT,Greenwich Mean Time. (See Coordinated Universal Time.),True,GMT,True,Greenwich Mean Time,"Cellular structure of the photosphere visible at high spatial resolution. Individual granules, which represent the tops of small convection cells, are 200 to 2000 km in diameter and have lifetimes of 8 to 10 minutes. Greenwich Mean Time (GMT) "
 GPS,"Global Positioning System: a network of Earth-orbiting satellites used for precise position-finding in
                 surveying and navigation.",True,GPS,False,,
 gradual commencement,The commencement of a geomagnetic storm that has no well-defined onset.,False,,False,,
 granulation,"Cellular structure of the photosphere visible at high spatial resolution. Individual granules, which
                 represent the tops of small convection cells, are 200 to 2000 km in diameter and have lifetimes of 8 to
                 10 minutes.",False,,False,,
-Greenwich Mean Time (GMT),See Coordinated Universal Time.,True,GMT,False,Greenwich Mean Time,"Cellular structure of the photosphere visible at high spatial resolution. Individual granules, which represent the tops of small convection cells, are 200 to 2000 km in diameter and have lifetimes of 8 to 10 minutes. Greenwich Mean Time (GMT) "
+Greenwich Mean Time (GMT),See Coordinated Universal Time.,True,GMT,True,Greenwich Mean Time,"Cellular structure of the photosphere visible at high spatial resolution. Individual granules, which represent the tops of small convection cells, are 200 to 2000 km in diameter and have lifetimes of 8 to 10 minutes. Greenwich Mean Time (GMT) "
 green line,"A coronal emission line at 530.3 nm from Fe XIV. The green line is one of the strongest visible coronal
                 lines. It identifies moderate temperature regions of the corona; it is enhanced in coronal streamers
                 above inversion lines, and diminished in coronal holes.",False,,False,,
@@ -492,12 +492,12 @@ ground-level event (GLE),"A sharp increase in ground-level cosmic ray count to a
                 each solar cycle. When they occur, GLEs begin a few minutes after flare maximum and last for a few tens
                 of minutes to hours. Intense particle fluxes at lower energies can be expected to follow this initial
                 burst of relativistic particles. GLEs are detected by neutron monitors, e.g., the monitor at Thule,
-                Greenland.",True,GLE,False,coronal holes. ground level event,"A coronal emission line at 530.3 nm from Fe XIV. The green line is one of the strongest visible coronal lines. It identifies moderate temperature regions of the corona; it is enhanced in coronal streamers above inversion lines, and diminished in coronal holes. ground-level event (GLE) "
+                Greenland.",True,GLE,True,coronal holes. ground level event,"A coronal emission line at 530.3 nm from Fe XIV. The green line is one of the strongest visible coronal lines. It identifies moderate temperature regions of the corona; it is enhanced in coronal streamers above inversion lines, and diminished in coronal holes. ground-level event (GLE) "
 Halo CME,"A faint ring of enhanced emission seen around most or all of the edge of the occulting disk of a
                 coronagraph.  Indicative of a spatially large CME on the front side (Earthward) or back side of the
                 Sun.  The source region is usually nearer to solar central meridian than the limbs. Full halo CMEs
                 from the front side of the Sun almost always result in geomagnetic storms at Earth, especially when
-                accompanied by a solar proton event.",True,CME,False,magnetic topology. coronal mass ejection,A typical structure of enhanced corona observed in EUV lines and soft x-rays.  Coronal loops represent ”closed” magnetic topology. coronal mass ejection (CME) 
+                accompanied by a solar proton event.",True,CME,True,magnetic topology. coronal mass ejection,A typical structure of enhanced corona observed in EUV lines and soft x-rays.  Coronal loops represent ”closed” magnetic topology. coronal mass ejection (CME) 
 H component,See geomagnetic elements.,False,,False,,
 Ha or H-alpha,"The first atomic transition in the hydrogen Balmer series; wavelength = 656.3 nm. This absorption line
                 of neutral hydrogen falls in the red part of the visible spectrum and is convenient for solar
@@ -510,9 +510,9 @@ heliosphere,"The magnetic cavity surrounding the Sun, carved out of the galaxy b
 helmet streamer,"A feature of the white light corona (seen in eclipse or with a coronagraph) that looks like a ray
                 extending away from the Sun out to about 1 solar radius, having an arch-like base containing a cavity
                 usually occupied by a prominence.",False,,False,,
-hemispherical power input (HPI),See estimated hemispherical power input.,True,HPI,False,a prominence. hemispherical power input,"A feature of the white light corona (seen in eclipse or with a coronagraph) that looks like a ray extending away from the Sun out to about 1 solar radius, having an arch-like base containing a cavity usually occupied by a prominence. hemispherical power input (HPI) "
-HF,See high frequency.,True,HF,False,high frequency. high frequency,See high frequency. high frequency (HF) 
-high frequency (HF),That portion of the radio frequency spectrum between 3 and 30 MHz.,True,HF,False,high frequency. high frequency,See high frequency. high frequency (HF) 
+hemispherical power input (HPI),See estimated hemispherical power input.,True,HPI,True,a prominence. hemispherical power input,"A feature of the white light corona (seen in eclipse or with a coronagraph) that looks like a ray extending away from the Sun out to about 1 solar radius, having an arch-like base containing a cavity usually occupied by a prominence. hemispherical power input (HPI) "
+HF,See high frequency.,True,HF,True,high frequency. high frequency,See high frequency. high frequency (HF) 
+high frequency (HF),That portion of the radio frequency spectrum between 3 and 30 MHz.,True,HF,True,high frequency. high frequency,See high frequency. high frequency (HF) 
 high latitude,"With reference to zones of geomagnetic activity - 50 to 80 degrees geomagnetic latitude. The other zones
                 are equatorial, middle latitude, and polar.",False,,False,,
 high-speed stream,"A feature of the solar wind having velocities exceeding approximately 600 km/s (about double average
@@ -526,7 +526,7 @@ homologous flares,"Solar flares that occur repetitively in an active region with
 Hyder flare,"A filament-associated two-ribbon flare, often occurring in spotless regions. The flare is generally slow
                 (30-60 minutes rise time in Ha and x-ray) and follows the disappearance of a previously quiescent
                 filament.  The Hyder flare is named for Dr. C. Hyder, who published studies of such flares in 1967.",False,,False,,
-IMF,See interplanetary magnetic field.,True,IMF,False,satellite relay. interplanetary magnetic field,An international consortium of magnetic observatories that exchange data in near-real time by satellite relay. interplanetary magnetic field (IMF) 
+IMF,See interplanetary magnetic field.,True,IMF,True,satellite relay. interplanetary magnetic field,An international consortium of magnetic observatories that exchange data in near-real time by satellite relay. interplanetary magnetic field (IMF) 
 inclination of the geomagnetic field,The angle between the local geomagnetic field direction and the horizon. (See geomagnetic elements.),False,,False,,
 integral particle flux,"The integral directional particle flux J(E,w) is literally the mathematical integral, with respect to
                 the energy E, of the differential particle flux j(E,w). It denotes the number of particles of energy
@@ -534,7 +534,7 @@ integral particle flux,"The integral directional particle flux J(E,w) is literal
                 perpendicular to the viewing direction.",False,,False,,
 INTERMAGNET,"An international consortium of magnetic observatories that exchange data in near-real time by satellite
                 relay.",False,,False,,
-interplanetary magnetic field (IMF),The magnetic field carried with the solar wind.,True,IMF,False,satellite relay. interplanetary magnetic field,An international consortium of magnetic observatories that exchange data in near-real time by satellite relay. interplanetary magnetic field (IMF) 
+interplanetary magnetic field (IMF),The magnetic field carried with the solar wind.,True,IMF,True,satellite relay. interplanetary magnetic field,An international consortium of magnetic observatories that exchange data in near-real time by satellite relay. interplanetary magnetic field (IMF) 
 interplanetary medium,"The space between planets and other solid bodies in the heliosphere.  Populated by solar and cosmic
                 particles, magnetic fields, and photons.",False,,False,,
 invariant magnetic latitude,"The geomagnetic latitude at which a particular line of force of the geomagnetic field, characterized by
@@ -584,12 +584,12 @@ LASCO,"Large Angle Spectrometric COronagraph experiment on SOHO capable of imagi
 latchup,"With reference to the effect of energetic particles on spacecraft microcircuits, a serious type of
                 single event upset in which the microcircuit is either permanently stuck or cannot be reset without
                 being turned off and on.",False,,False,,
-LDE,See long duration event.,True,LDE,False,neutral sheet. long duration event,"In the magnetotail, the two regions (north and south) separated by the neutral sheet. long duration event (LDE) "
+LDE,See long duration event.,True,LDE,True,neutral sheet. long duration event,"In the magnetotail, the two regions (north and south) separated by the neutral sheet. long duration event (LDE) "
 leader spot,"In a magnetically bipolar or multipolar sunspot group, the main spot in that portion of the group west
                 of the principal inversion line; also called the preceding or p-spot. Leader and follower describe the
                 positions of spots with respect to apparent motion due to solar rotation.",False,,False,,
 LEO,"Among satellite operators, a common abbreviation for Low Earth Orbit.",True,LEO,False,,
-LF,See low frequency.,True,LF,False,viewing conditions. low frequency,"A system of prominences in the form of loops associated with major flares, bridging the magnetic inversion line. The lifetime of an LPS is a few hours. Loop prominences observed in H-alpha are distinctly brighter than other prominences, and material typically flows downward along both legs from condensation ”knots” near the top of the loop.  Can be observed on the solar disk with good viewing conditions. low frequency (LF) "
+LF,See low frequency.,True,LF,True,viewing conditions. low frequency,"A system of prominences in the form of loops associated with major flares, bridging the magnetic inversion line. The lifetime of an LPS is a few hours. Loop prominences observed in H-alpha are distinctly brighter than other prominences, and material typically flows downward along both legs from condensation ”knots” near the top of the loop.  Can be observed on the solar disk with good viewing conditions. low frequency (LF) "
 light bridge,"Observed in white light, a bright tongue or streaks penetrating or crossing sunspot umbrae. Light
                 bridges typically develop slowly and have lifetimes of several days. The appearance of a light bridge is
                 frequently a sign of impending active region division or dissolution. The more brilliant forms occur
@@ -607,17 +607,17 @@ long duration event (LDE),"With reference to x-ray events, those events that are
                 threshold separating impulsive from long-duration events is not well defined, but operationally, any
                 event requiring 30 minutes or more to decay to one-half peak flux is regarded as an LDE. It has been
                 shown that the likelihood of a coronal mass ejection increases with the duration of an x-ray event, and
-                becomes virtually certain for durations of 6 hours or more.",True,LDE,False,neutral sheet. long duration event,"In the magnetotail, the two regions (north and south) separated by the neutral sheet. long duration event (LDE) "
+                becomes virtually certain for durations of 6 hours or more.",True,LDE,True,neutral sheet. long duration event,"In the magnetotail, the two regions (north and south) separated by the neutral sheet. long duration event (LDE) "
 longitudinal component,"That component of the solar magnetic field vector parallel to the direction of view, radial from the
                 solar surface at disk center.",False,,False,,
 loop prominence system (LPS),"A system of prominences in the form of loops associated with major flares, bridging the magnetic
                 inversion line. The lifetime of an LPS is a few hours. Loop prominences observed in H-alpha are
                 distinctly brighter than other prominences, and material typically flows downward along both legs from
                 condensation ”knots” near the top of the loop.  Can be observed on the solar disk with good viewing
-                conditions.",True,LPS,False,disk center. loop prominence system,"That component of the solar magnetic field vector parallel to the direction of view, radial from the solar surface at disk center. loop prominence system (LPS) "
-low frequency (LF),That portion of the radio frequency spectrum from 30 to 300 kHz.,True,LF,False,viewing conditions. low frequency,"A system of prominences in the form of loops associated with major flares, bridging the magnetic inversion line. The lifetime of an LPS is a few hours. Loop prominences observed in H-alpha are distinctly brighter than other prominences, and material typically flows downward along both legs from condensation ”knots” near the top of the loop.  Can be observed on the solar disk with good viewing conditions. low frequency (LF) "
-lowest usable frequency (LUF),The lowest frequency that allows reliable long-range HF radio communication by ionospheric refraction.,True,LUF,False,300 kHz. lowest usable frequency,That portion of the radio frequency spectrum from 30 to 300 kHz. lowest usable frequency (LUF) 
-LUF,See lowest usable frequency.,True,LUF,False,300 kHz. lowest usable frequency,That portion of the radio frequency spectrum from 30 to 300 kHz. lowest usable frequency (LUF) 
+                conditions.",True,LPS,True,disk center. loop prominence system,"That component of the solar magnetic field vector parallel to the direction of view, radial from the solar surface at disk center. loop prominence system (LPS) "
+low frequency (LF),That portion of the radio frequency spectrum from 30 to 300 kHz.,True,LF,True,viewing conditions. low frequency,"A system of prominences in the form of loops associated with major flares, bridging the magnetic inversion line. The lifetime of an LPS is a few hours. Loop prominences observed in H-alpha are distinctly brighter than other prominences, and material typically flows downward along both legs from condensation ”knots” near the top of the loop.  Can be observed on the solar disk with good viewing conditions. low frequency (LF) "
+lowest usable frequency (LUF),The lowest frequency that allows reliable long-range HF radio communication by ionospheric refraction.,True,LUF,True,300 kHz. lowest usable frequency,That portion of the radio frequency spectrum from 30 to 300 kHz. lowest usable frequency (LUF) 
+LUF,See lowest usable frequency.,True,LUF,True,300 kHz. lowest usable frequency,That portion of the radio frequency spectrum from 30 to 300 kHz. lowest usable frequency (LUF) 
 M(3000),"The ratio of the maximum frequency reflected once from an ionospheric layer over a 3000 km range to the
                 critical frequency of the layer.",False,,False,,
 magnetic bay,"A relatively smooth excursion of the H (horizontal) component (see geomagnetic elements) of the
@@ -630,11 +630,11 @@ magnetic cloud,"In general, any identifiable parcel of solar wind. More specific
 magnetic local time (MLT),"On Earth, analogous to geographic local time.  MLT at a given location is determined by the angle
                 subtended at the geomagnetic axis between the geomagnetic midnight meridian and the meridian that passes
                 through the location. 15 degrees = 1 h. The geomagnetic meridian containing the sub-solar point defines
-                geomagnetic local noon, and the opposite meridian defines geomagnetic midnight. (See geomagnetic field.)",True,MLT,False,interplanetary medium. magnetic local time,"In general, any identifiable parcel of solar wind. More specifically, a region of about 0.25 AU in radial dimension in which the magnetic field strength is high and the direction of one component of the magnetic field changes appreciably by means of a rotation nearly parallel to a plane. Magnetic clouds are one manifestation of coronal mass ejections in the interplanetary medium. magnetic local time (MLT) "
+                geomagnetic local noon, and the opposite meridian defines geomagnetic midnight. (See geomagnetic field.)",True,MLT,True,interplanetary medium. magnetic local time,"In general, any identifiable parcel of solar wind. More specifically, a region of about 0.25 AU in radial dimension in which the magnetic field strength is high and the direction of one component of the magnetic field changes appreciably by means of a rotation nearly parallel to a plane. Magnetic clouds are one manifestation of coronal mass ejections in the interplanetary medium. magnetic local time (MLT) "
 magnetic sunspot classifications,See Mount Wilson magnetic classification.,False,,False,,
 magnetogram,"A plot showing the amplitude of one or more vector components of a magnetic field versus space or time.
                 Solar magnetograms are a graphic representation of solar magnetic field strengths and polarity.",False,,False,,
-magnetohydrodynamics (MHD),The study of the dynamics of an electrically conducting fluid in the presence of a magnetic field.,True,MHD,False,field strengths and polarity. magnetohydrodynamics,A plot showing the amplitude of one or more vector components of a magnetic field versus space or time. Solar magnetograms are a graphic representation of solar magnetic field strengths and polarity. magnetohydrodynamics (MHD) 
+magnetohydrodynamics (MHD),The study of the dynamics of an electrically conducting fluid in the presence of a magnetic field.,True,MHD,True,field strengths and polarity. magnetohydrodynamics,A plot showing the amplitude of one or more vector components of a magnetic field versus space or time. Solar magnetograms are a graphic representation of solar magnetic field strengths and polarity. magnetohydrodynamics (MHD) 
 magnetopause,"The boundary surface between the solar wind and the magnetosphere, where the pressure of the Earth's
                 magnetic field effectively equals the dynamic pressure of the solar wind.",False,,False,,
 magnetopause current sheet,An electric current sheet that more or less coincides with the magnetopause.,False,,False,,
@@ -651,12 +651,12 @@ magnetotail,"The extension of the magnetosphere in the antisunward direction as 
 Maunder minimum,"An approximately 70-year period, centered near 1670, during which practically no sunspots were observed.",False,,False,,
 maximum usable frequency (MUF),"The highest frequency that allows reliable HF radio communication over a given ground range by
                 ionospheric refraction.  Frequencies higher than the MUF penetrate the ionosphere and become useful
-                for extraterrestrial communications.",True,MUF,False,were observed. maximum usable frequency,"An approximately 70-year period, centered near 1670, during which practically no sunspots were observed. maximum usable frequency (MUF) "
-MDP,See mound prominence.,True,MDP,False,H alpha line. mound prominence,"A wave disturbance (also known as a flare blast wave) generated by large flares, which is seen to propagate horizontally across the disk of the Sun at a typical velocity of about 1000 km/s. Its presence is more visible in wings of the H-alpha line. mound prominence (MDP) "
-medium frequency (MF),That portion of the radio frequency spectrum from 0.3 to 3 MHz.,True,MF,False,mound prominence. medium frequency,See mound prominence. medium frequency (MF) 
+                for extraterrestrial communications.",True,MUF,True,were observed. maximum usable frequency,"An approximately 70-year period, centered near 1670, during which practically no sunspots were observed. maximum usable frequency (MUF) "
+MDP,See mound prominence.,True,MDP,True,H alpha line. mound prominence,"A wave disturbance (also known as a flare blast wave) generated by large flares, which is seen to propagate horizontally across the disk of the Sun at a typical velocity of about 1000 km/s. Its presence is more visible in wings of the H-alpha line. mound prominence (MDP) "
+medium frequency (MF),That portion of the radio frequency spectrum from 0.3 to 3 MHz.,True,MF,True,mound prominence. medium frequency,See mound prominence. medium frequency (MF) 
 mesosphere,"The region of the Earth’s atmosphere between the upper limit of the stratosphere (approximately 30 km
                 altitude) and the lower limit of the thermosphere (approximately 80 km altitude).",False,,False,,
-MHD,See magnetohydrodynamics.,True,MHD,False,field strengths and polarity. magnetohydrodynamics,A plot showing the amplitude of one or more vector components of a magnetic field versus space or time. Solar magnetograms are a graphic representation of solar magnetic field strengths and polarity. magnetohydrodynamics (MHD) 
+MHD,See magnetohydrodynamics.,True,MHD,True,field strengths and polarity. magnetohydrodynamics,A plot showing the amplitude of one or more vector components of a magnetic field versus space or time. Solar magnetograms are a graphic representation of solar magnetic field strengths and polarity. magnetohydrodynamics (MHD) 
 micropulsation,See pulsation.,False,,False,,
 microwave burst,"A radiowave signal sometimes associated with optical and/or x-ray flares. Microwave bursts are generally
                 broadband, often extending into the millimeter and decimeter domains. (See also U-burst.)",False,,False,,
@@ -667,7 +667,7 @@ Moreton wave,"A wave disturbance (also known as a flare blast wave) generated by
                 propagate horizontally across the disk of the Sun at a typical velocity of about 1000 km/s. Its presence
                 is more visible in wings of the H-alpha line.",False,,False,,
 mound prominence (MDP),"H-alpha structure at the solar limb that is the elevated top of numerous small surges and/or a dense,
-                low-lying prominence.",True,MDP,False,H alpha line. mound prominence,"A wave disturbance (also known as a flare blast wave) generated by large flares, which is seen to propagate horizontally across the disk of the Sun at a typical velocity of about 1000 km/s. Its presence is more visible in wings of the H-alpha line. mound prominence (MDP) "
+                low-lying prominence.",True,MDP,True,H alpha line. mound prominence,"A wave disturbance (also known as a flare blast wave) generated by large flares, which is seen to propagate horizontally across the disk of the Sun at a typical velocity of about 1000 km/s. Its presence is more visible in wings of the H-alpha line. mound prominence (MDP) "
 Mount Wilson magnetic classification,"Classification of the magnetic character of sunspots according to rules set forth by the Mount Wilson
                     Observatory in California.
 
@@ -749,7 +749,7 @@ non-great-circle propagation,"Describing a degraded condition of radio propagati
 nT,nanotesla = 10-9 Tesla,False,,False,,
 P-angle,See solar coordinates,False,,False,,
 p-spot,See leader spot,False,,False,,
-PCA,See polar cap absorption.,True,PCA,False,the Earth. polar cap absorption,"In the magnetosphere, a region of relatively cool (low energy) and dense plasma that may be considered an outer extension of the ionosphere with which it is coupled. Like the ionosphere, the plasmasphere tends to co-rotate with the Earth. polar cap absorption (PCA) "
+PCA,See polar cap absorption.,True,PCA,True,the Earth. polar cap absorption,"In the magnetosphere, a region of relatively cool (low energy) and dense plasma that may be considered an outer extension of the ionosphere with which it is coupled. Like the ionosphere, the plasmasphere tends to co-rotate with the Earth. polar cap absorption (PCA) "
 partial halo,"A partial halo is a CME spanning greater than 120 degrees of solar latitude at the limb and encompassing
                 at least one of the solar poles.",False,,False,,
 particle flux unit (p.f.u.),1 p cm-2 s-1 sr-1,False,,False,,
@@ -788,7 +788,7 @@ polar cap absorption (PCA),"An anomalous condition of the polar ionosphere where
                 onset. As measured by a riometer, the PCA event threshold is 2 dB of absorption at 30MIlz for daytime
                 and 0.5 dB at night. In practice, the absorption is inferred from the proton flux at energies greater
                 than 10 MeV, so that PCAs and proton events are simultaneous. However, the transpolar radio paths may be
-                disturbed for days, up to weeks, following the end of a proton event.",True,PCA,False,the Earth. polar cap absorption,"In the magnetosphere, a region of relatively cool (low energy) and dense plasma that may be considered an outer extension of the ionosphere with which it is coupled. Like the ionosphere, the plasmasphere tends to co-rotate with the Earth. polar cap absorption (PCA) "
+                disturbed for days, up to weeks, following the end of a proton event.",True,PCA,True,the Earth. polar cap absorption,"In the magnetosphere, a region of relatively cool (low energy) and dense plasma that may be considered an outer extension of the ionosphere with which it is coupled. Like the ionosphere, the plasmasphere tends to co-rotate with the Earth. polar cap absorption (PCA) "
 polar crown,"A nearly continuous ring of filaments occasionally encircling either polar region of the Sun (latitudes
                 higher than 50’).",False,,False,,
 polar plumes,"Fine, ray-like structures of the solar corona and transition region, best observed in the solar polar
@@ -851,7 +851,7 @@ Q = 0
 1500
 2200
 Unlimited",False,,False,,
-QDC,See quiet day curve.,True,QDC,False,< 8. quiet day curve,A descriptive word specifically meaning (1) a probability of less than 50% for a C-class flare (see x-ray flare class) in a sunspot region and (2) geomagnetic activity levels such that Ak < 8. quiet day curve (QDC) 
+QDC,See quiet day curve.,True,QDC,True,< 8. quiet day curve,A descriptive word specifically meaning (1) a probability of less than 50% for a C-class flare (see x-ray flare class) in a sunspot region and (2) geomagnetic activity levels such that Ak < 8. quiet day curve (QDC) 
 quiescent prominence,"A long, sheet-like prominence nearly vertical to the solar surface.  Except in an occasional
                 activated phase, shows little large-scale motion, develops very slowly, and has a lifetime of several
                 solar rotations. Quiescent prominences form within the remnants of decayed active regions, in quiet
@@ -861,7 +861,7 @@ quiet,"A descriptive word specifically meaning (1) a probability of less than 50
                 x-ray flare class) in a sunspot region and (2) geomagnetic activity levels such that Ak < 8.",False,,False,,
 quiet day curve (QDC),"Especially in connection with the components of the geomagnetic field (see geomagnetic elements), the
                 trace expected in the absence of activity. The K index and Q index are measured from deviations relative
-                to a QDC.  Riometer and neutron monitor deviations are also measured relative to a QDC.",True,QDC,False,< 8. quiet day curve,A descriptive word specifically meaning (1) a probability of less than 50% for a C-class flare (see x-ray flare class) in a sunspot region and (2) geomagnetic activity levels such that Ak < 8. quiet day curve (QDC) 
+                to a QDC.  Riometer and neutron monitor deviations are also measured relative to a QDC.",True,QDC,True,< 8. quiet day curve,A descriptive word specifically meaning (1) a probability of less than 50% for a C-class flare (see x-ray flare class) in a sunspot region and (2) geomagnetic activity levels such that Ak < 8. quiet day curve (QDC) 
 R-number,"Radar returns from electron density irregularities in auroral regions. The strength of radar auroral
                 returns is aspect dependent.",False,,False,,
 radar aurora,"Radar returns from electron density irregularities in auroral regions. The strength of radar auroral
@@ -945,7 +945,7 @@ S-band,"Radio frequencies between 1.55 and 5.20 GHz. For satellite communication
                 frequencies used for Earth-space communication near 2.2 GHz.",False,,False,,
 S component,"The slowly varying (weeks or longer) fluctuation observed in solar radio emission at microwave
                 frequencies (wavelengths from 3-100 cm).",False,,False,,
-SC,See sudden commencement.,True,SC,False,Committee (TC) 20 SubCommittee,"Space weather, which is the transfer of energy from the Sun to Earth by photons, particles, and fields, represents a dynamic phenomena affecting our advancing technology and is of interest to agency, academic, and industry users. This glossary is provided as an updating community service to help define many terms in space weather. It is a joint collaborative effort between the University of Colorado-Boulder Space Weather Technology Research and Education Center (SWx TREC) and Space Environment Technologies (SET) in an academic-industry partnership benefitting the space weather enterprise. Our team is helping to standardize this material through the International Standards Organization (ISO) Technical Committee (TC) 20 SubCommittee (SC) 14 Working Group (WG) 4 Space Environment (natural and artificial) activity to develop the ISO Standard 23689 for space weather information for use in space systems operations. "
+SC,See sudden commencement.,True,SC,True,Committee (TC) 20 SubCommittee,"Space weather, which is the transfer of energy from the Sun to Earth by photons, particles, and fields, represents a dynamic phenomena affecting our advancing technology and is of interest to agency, academic, and industry users. This glossary is provided as an updating community service to help define many terms in space weather. It is a joint collaborative effort between the University of Colorado-Boulder Space Weather Technology Research and Education Center (SWx TREC) and Space Environment Technologies (SET) in an academic-industry partnership benefitting the space weather enterprise. Our team is helping to standardize this material through the International Standards Organization (ISO) Technical Committee (TC) 20 SubCommittee (SC) 14 Working Group (WG) 4 Space Environment (natural and artificial) activity to develop the ISO Standard 23689 for space weather information for use in space systems operations. "
 scintillation,"Describing a degraded condition of radio propagation characterized by a rapid variation in amplitude
                 and/or phase of a radio signal (usually on a satellite communication link) caused by abrupt variations
                 in electron density anywhere along the signal path. It is positively correlated with spread F and to a
@@ -957,22 +957,22 @@ sector boundary,"In the solar wind, the area of demarcation between sectors. whi
                 normally narrow, passing the Earth within minutes to hours as opposed to the week or so needed for
                 passage of a typical sector. The solar wind velocities in the boundary region are typically among the
                 lowest observed.",False,,False,,
-SEP,See solar energetic particles,True,SEP,False,of extreme solar energetic particle,"Ground Level Enhancement (GLE) A category of extreme solar energetic particle (SEP) events. During such events there are a sufficient number of energetic ions with energy above ~500 MeV, which interact with the Earth’s atmosphere to create quantities of secondary neutrons and/or muons measurable by ground‐based instrumentation. "
-SEU,See single event upset.,True,SEU,False,distant stars. single event upset,Referring to a coordinate system fixed with respect to the distant stars. single event upset (SEU) 
-SFE,Solar flare effect. (See crochet.),True,SFE,False,the Sun. solar flare effect,"High energy (keV to GeV) protons, electrons and ions which come from the Sun. solar flare effect (SFE) "
+SEP,See solar energetic particles,True,SEP,True,of extreme solar energetic particle,"Ground Level Enhancement (GLE) A category of extreme solar energetic particle (SEP) events. During such events there are a sufficient number of energetic ions with energy above ~500 MeV, which interact with the Earth’s atmosphere to create quantities of secondary neutrons and/or muons measurable by ground‐based instrumentation. "
+SEU,See single event upset.,True,SEU,True,distant stars. single event upset,Referring to a coordinate system fixed with respect to the distant stars. single event upset (SEU) 
+SFE,Solar flare effect. (See crochet.),True,SFE,True,the Sun. solar flare effect,"High energy (keV to GeV) protons, electrons and ions which come from the Sun. solar flare effect (SFE) "
 s.f.u,"Solar flux unit.  1sfu = 10-22 W m-2 Hz-1 = 10,000 Jansky",False,,False,,
-SHF,See super high frequency.,True,SHF,False,sunspot number. super high frequency,"A daily index of sunspot activity (R), defined as R = k(10g + s) where s = number of individual spots, g = number of sunspot groups, and k is an observatory factor (equal to 1 for the Zurich Observatory and adjusted for all other observatories to obtain approximately the same R number). The standard number, RI, once derived at Zurich (see Wolf number), is now being derived at Brussels and is denoted by RI. Often, the term ”sunspot number” is used in reference to the widely distributed smoothed sunspot number. super high frequency (SHF) "
+SHF,See super high frequency.,True,SHF,True,sunspot number. super high frequency,"A daily index of sunspot activity (R), defined as R = k(10g + s) where s = number of individual spots, g = number of sunspot groups, and k is an observatory factor (equal to 1 for the Zurich Observatory and adjusted for all other observatories to obtain approximately the same R number). The standard number, RI, once derived at Zurich (see Wolf number), is now being derived at Brussels and is denoted by RI. Often, the term ”sunspot number” is used in reference to the widely distributed smoothed sunspot number. super high frequency (SHF) "
 shock,"A discontinuity in pressure, density, and particle velocity, propagating through a compressible fluid or
                 plasma.",False,,False,,
 short wave fade (SWF),"An abrupt decrease of HF radio signal strength, lasting from minutes to hours, caused by increased
                 dayside ionization from some solar flares. A SWF is one effect under the broad category of sudden
-                ionospheric disturbances (SIDs).",True,SWF,False,or plasma. short wave fade,"A discontinuity in pressure, density, and particle velocity, propagating through a compressible fluid or plasma. short wave fade (SWF) "
+                ionospheric disturbances (SIDs).",True,SWF,True,or plasma. short wave fade,"A discontinuity in pressure, density, and particle velocity, propagating through a compressible fluid or plasma. short wave fade (SWF) "
 SI,See sudden impulse.,True,SI,False,,
-SID,See sudden ionospheric disturbance.,True,SID,False,storm follows.) sudden ionospheric disturbance,"A sudden perturbation, positive or negative, of several nanotesla in the northward component (see geomagnetic elements) of the low-latitude geomagnetic field, not associated with a following geomagnetic storm. (An SI becomes an SC if a storm follows.) sudden ionospheric disturbance (SID) "
+SID,See sudden ionospheric disturbance.,True,SID,True,storm follows.) sudden ionospheric disturbance,"A sudden perturbation, positive or negative, of several nanotesla in the northward component (see geomagnetic elements) of the low-latitude geomagnetic field, not associated with a following geomagnetic storm. (An SI becomes an SC if a storm follows.) sudden ionospheric disturbance (SID) "
 sidereal,Referring to a coordinate system fixed with respect to the distant stars.,False,,False,,
 single event upset (SEU),"With reference to the effects of energetic particles on spacecraft microcircuits - an unexpected change
                 in the logic state of a single digital bit.  SEUs can be either ”soft” (the microcircuit is not
-                damaged and can be rewritten to either state), or a latch up, which cannot easily be reset.",True,SEU,False,distant stars. single event upset,Referring to a coordinate system fixed with respect to the distant stars. single event upset (SEU) 
+                damaged and can be rewritten to either state), or a latch up, which cannot easily be reset.",True,SEU,True,distant stars. single event upset,Referring to a coordinate system fixed with respect to the distant stars. single event upset (SEU) 
 smoothed sunspot number,"An average of 13 monthly RI numbers, centered on the month of concern. The 1st and 13th months are given
                 a weight of  0.5.",False,,False,,
 solar activity,"Transient perturbations of the solar atmosphere as measured by enhanced x-ray emission (see x-ray flare
@@ -1031,7 +1031,7 @@ Longitude.  The angular distance from a standard meridian (0 degrees heliograph
                     degrees/day).",False,,False,,
 solar cycle,See sunspot cycle.,False,,False,,
 Solar Energetic Particles,"High energy (keV to GeV) protons, electrons and ions which come from the Sun.",False,,False,,
-solar flare effect (SFE),See crochet.,True,SFE,False,the Sun. solar flare effect,"High energy (keV to GeV) protons, electrons and ions which come from the Sun. solar flare effect (SFE) "
+solar flare effect (SFE),See crochet.,True,SFE,True,the Sun. solar flare effect,"High energy (keV to GeV) protons, electrons and ions which come from the Sun. solar flare effect (SFE) "
 solar maximum,The month(s) during a sunspot cycle when the smoothed sunspot number reaches a maximum.,False,,False,,
 solar minimum,The month(s) during a sunspot cycle when the smoothed sunspot number reaches a minimum.,False,,False,,
 Solar Radiation Storms NOAA Space Weather Scales,"A measure of the severity of solar proton events as depicted in the NOAA Space Weather Scales. 
@@ -1042,7 +1042,7 @@ solar rotation rate,"(1) synodic: 13.39 degrees -2.7 degrees sin2 J per day (J =
                 is the Earth orbital motion of 0.985 degrees/day.",False,,False,,
 solar sector boundary (SSB),"The boundary between large-scale unipolar magnetic regions on the Sun’s surface, as determined from
                 inversion lines mapped using filaments and filament channels, or large-scale magnetograms. The supposed
-                solar signature of an interplanetary sector boundary.",True,SSB,False,0.985 degrees/day. solar sector boundary,(1) synodic: 13.39 degrees -2.7 degrees sin2 J per day (J = solar latitude). (2) sidereal: 14.38 degrees -2. 7 degrees sin2 J per day. The difference between sidereal and synodic rates is the Earth orbital motion of 0.985 degrees/day. solar sector boundary (SSB) 
+                solar signature of an interplanetary sector boundary.",True,SSB,True,0.985 degrees/day. solar sector boundary,(1) synodic: 13.39 degrees -2.7 degrees sin2 J per day (J = solar latitude). (2) sidereal: 14.38 degrees -2. 7 degrees sin2 J per day. The difference between sidereal and synodic rates is the Earth orbital motion of 0.985 degrees/day. solar sector boundary (SSB) 
 solar wind,"The outward flow of solar particles and magnetic fields from the Sun. Typically at 1 AU, solar wind
                 velocities are near 375 km/s and proton and electron densities are near 5 cm-3. The total
                 intensity of the interplanetary magnetic field is nominally 5 nT.",False,,False,,
@@ -1054,7 +1054,7 @@ South Atlantic anomaly (SAA),"A region of the Earth centered near 25S and 50W (n
                 the Earth’s surface and can more easily be lost into the atmosphere. The result is that the F region
                 (see ionosphere) is highly variable in this region, and satellites in low Earth orbits suffer greater
                 radiation doses when they pass through the SAA. There is a corresponding location of maximum geomagnetic
-                field intensity in Southeast Asia.",True,SAA,False,South Atlantic anomaly,"A point on the ecliptic where the Sun reaches its greatest absolute declination. There are two of these points, halfway between the equinoxes; they mark the beginning of summer and winter. South Atlantic anomaly (SAA) "
+                field intensity in Southeast Asia.",True,SAA,True,South Atlantic anomaly,"A point on the ecliptic where the Sun reaches its greatest absolute declination. There are two of these points, halfway between the equinoxes; they mark the beginning of summer and winter. South Atlantic anomaly (SAA) "
 spacecraft charging,"A term that encompasses all the charging effects on a spacecraft due to the environment in space.
                 Occasionally this term is used in a more limited sense to mean surface charging.",False,,False,,
 spicules,"Rapidly changing, predominantly vertical, spike-like structures in the solar chromosphere observed above
@@ -1067,18 +1067,18 @@ sporadic E (Es),"Transient, localized patches of relatively high electron densit
                 geomagnetic activity.",False,,False,,
 spray (SPY),"Luminous material ejected from a solar flare with sufficient velocity to escape the Sun (675 km/s).
                 Sprays are usually seen in H-alpha with complex and rapidly changing form. There is little evidence that
-                sprays are focused by magnetic fields.",True,SPY,False,"solar, and geomagnetic activity. spray","Transient, localized patches of relatively high electron density in the E region of the ionosphere, which significantly affect radiowave propagation. Sporadic E can occur during daytime or nighttime, and varies markedly with latitude. Es can be associated with thunderstorms, meteor showers, solar, and geomagnetic activity. spray (SPY) "
+                sprays are focused by magnetic fields.",True,SPY,True,"solar, and geomagnetic activity. spray","Transient, localized patches of relatively high electron density in the E region of the ionosphere, which significantly affect radiowave propagation. Sporadic E can occur during daytime or nighttime, and varies markedly with latitude. Es can be associated with thunderstorms, meteor showers, solar, and geomagnetic activity. spray (SPY) "
 spread F,"A condition of the F region of the ionosphere caused by patches of ionization that scatter or duct radio
                 signals, characterized on ionograms by a wide range of heights of reflected pulses. In equatorial
                 latitudes spread F is most commonly observed at night and may be negatively correlated with geomagnetic
                 activity.  At high latitudes spread F occurs throughout the daytime and is positively correlated
                 with magnetic activity. The latitude of minimum occurrence of spread F is near 30 degrees magnetic
                 latitude.",False,,False,,
-SPY,See spray.,True,SPY,False,"solar, and geomagnetic activity. spray","Transient, localized patches of relatively high electron density in the E region of the ionosphere, which significantly affect radiowave propagation. Sporadic E can occur during daytime or nighttime, and varies markedly with latitude. Es can be associated with thunderstorms, meteor showers, solar, and geomagnetic activity. spray (SPY) "
+SPY,See spray.,True,SPY,True,"solar, and geomagnetic activity. spray","Transient, localized patches of relatively high electron density in the E region of the ionosphere, which significantly affect radiowave propagation. Sporadic E can occur during daytime or nighttime, and varies markedly with latitude. Es can be associated with thunderstorms, meteor showers, solar, and geomagnetic activity. spray (SPY) "
 Sq,"The diurnal variation of the geomagnetic field. The Sq variation is explained in terms of solar tidal
                 motions of the ionosphere and thermally driven ionospheric winds.",False,,False,,
-SSB,See solar sector boundary.,True,SSB,False,0.985 degrees/day. solar sector boundary,(1) synodic: 13.39 degrees -2.7 degrees sin2 J per day (J = solar latitude). (2) sidereal: 14.38 degrees -2. 7 degrees sin2 J per day. The difference between sidereal and synodic rates is the Earth orbital motion of 0.985 degrees/day. solar sector boundary (SSB) 
-SSC,See sudden commencement.,True,SSC,False,Sudden Storm Commencement,Domain: Sudden Storm Commencement (SSC) 
+SSB,See solar sector boundary.,True,SSB,True,0.985 degrees/day. solar sector boundary,(1) synodic: 13.39 degrees -2.7 degrees sin2 J per day (J = solar latitude). (2) sidereal: 14.38 degrees -2. 7 degrees sin2 J per day. The difference between sidereal and synodic rates is the Earth orbital motion of 0.985 degrees/day. solar sector boundary (SSB) 
+SSC,See sudden commencement.,True,SSC,True,Sudden Storm Commencement,Domain: Sudden Storm Commencement (SSC) 
 stratosphere,"That region of the Earth’s atmosphere between the troposphere and the mesosphere. It begins at an
                 altitude of temperature minimum at approximately 13 km and defines a layer of increasing temperature up
                 to about 50 km.",False,,False,,
@@ -1094,13 +1094,13 @@ substorm,"A geomagnetic perturbation lasting 1 to 2 hours, which tends to occur 
 "sudden commencement (SC, or SSC for Storm
                 Sudden Commencement)","An abrupt increase or decrease in the northward component (see geomagnetic elements) of the geomagnetic
                 field, which marks the beginning of a geomagnetic storm. SCs occur almost simultaneously worldwide but
-                with locally varying magnitudes.",True,SSC,False,Sudden Storm Commencement,Domain: Sudden Storm Commencement (SSC) 
+                with locally varying magnitudes.",True,SSC,True,Sudden Storm Commencement,Domain: Sudden Storm Commencement (SSC) 
 sudden impulse (SI + or SI - ),"A sudden perturbation, positive or negative, of several nanotesla in the northward component (see
                 geomagnetic elements) of the low-latitude geomagnetic field, not associated with a following geomagnetic
                 storm. (An SI becomes an SC if a storm follows.)",True,SI,False,,
 sudden ionospheric disturbance (SID),"Any of several radio propagation anomalies due to ionospheric changes resulting from solar or
                 geophysical events. Anomalies include short wave fades, enhancements of atmospherics, phase shifts,
-                cosmic noise absorptions, and signal enhancements.",True,SID,False,storm follows.) sudden ionospheric disturbance,"A sudden perturbation, positive or negative, of several nanotesla in the northward component (see geomagnetic elements) of the low-latitude geomagnetic field, not associated with a following geomagnetic storm. (An SI becomes an SC if a storm follows.) sudden ionospheric disturbance (SID) "
+                cosmic noise absorptions, and signal enhancements.",True,SID,True,storm follows.) sudden ionospheric disturbance,"A sudden perturbation, positive or negative, of several nanotesla in the northward component (see geomagnetic elements) of the low-latitude geomagnetic field, not associated with a following geomagnetic storm. (An SI becomes an SC if a storm follows.) sudden ionospheric disturbance (SID) "
 sunspot,"An area seen as a dark spot, in contrast with its surroundings, on the photosphere of the Sun. Sunspots
                 are concentrations of magnetic flux, typically occurring in bipolar clusters or groups. They appear dark
                 because they are cooler than the surrounding photosphere. Larger and darker sunspots sometimes are
@@ -1202,7 +1202,7 @@ sunspot number,"A daily index of sunspot activity (R), defined as R = k(10g + s)
                 adjusted for all other observatories to obtain approximately the same R number). The standard number,
                 RI, once derived at Zurich (see Wolf number), is now being derived at Brussels and is denoted by RI.
                 Often, the term ”sunspot number” is used in reference to the widely distributed smoothed sunspot number.",False,,False,,
-super high frequency (SHF),That portion of the radio frequency spectrum from 3 to 30 GHz.,True,SHF,False,sunspot number. super high frequency,"A daily index of sunspot activity (R), defined as R = k(10g + s) where s = number of individual spots, g = number of sunspot groups, and k is an observatory factor (equal to 1 for the Zurich Observatory and adjusted for all other observatories to obtain approximately the same R number). The standard number, RI, once derived at Zurich (see Wolf number), is now being derived at Brussels and is denoted by RI. Often, the term ”sunspot number” is used in reference to the widely distributed smoothed sunspot number. super high frequency (SHF) "
+super high frequency (SHF),That portion of the radio frequency spectrum from 3 to 30 GHz.,True,SHF,True,sunspot number. super high frequency,"A daily index of sunspot activity (R), defined as R = k(10g + s) where s = number of individual spots, g = number of sunspot groups, and k is an observatory factor (equal to 1 for the Zurich Observatory and adjusted for all other observatories to obtain approximately the same R number). The standard number, RI, once derived at Zurich (see Wolf number), is now being derived at Brussels and is denoted by RI. Often, the term ”sunspot number” is used in reference to the widely distributed smoothed sunspot number. super high frequency (SHF) "
 supergranulation,"A system of large-scale velocity cells that does not vary significantly over the quiet solar surface or
                 with phase of the solar cycle. The cells are presumably convective in origin with weak upward motions in
                 the center, downward motions at the borders, and horizontal motions of typically 0.3 to 0.4 km/s.
@@ -1211,12 +1211,12 @@ surge,"A jet of material from active regions that reaches coronal heights and th
                 the chromosphere along the trajectory of ascent. Surges typically last 10 to 20 minutes and tend to
                 recur at a rate of approximately 1 per hour. Surges are linear and collimated in form, as if highly
                 directed by magnetic fields.",False,,False,,
-SWF,See short wave fade.,True,SWF,False,or plasma. short wave fade,"A discontinuity in pressure, density, and particle velocity, propagating through a compressible fluid or plasma. short wave fade (SWF) "
-solar x-ray imager (SXI),Full disk soft x-ray (0.6-6 nm) imager flown on many of the GOES geosynchronous weather satellites.,True,SXI,False,fade. solar x ray imager,See short wave fade. solar x-ray imager (SXI) 
+SWF,See short wave fade.,True,SWF,True,or plasma. short wave fade,"A discontinuity in pressure, density, and particle velocity, propagating through a compressible fluid or plasma. short wave fade (SWF) "
+solar x-ray imager (SXI),Full disk soft x-ray (0.6-6 nm) imager flown on many of the GOES geosynchronous weather satellites.,True,SXI,True,fade. solar x ray imager,See short wave fade. solar x-ray imager (SXI) 
 synodic,Referring to a coordinate system fixed on the Earth.,False,,False,,
 synoptic chart,"A map of the whole Sun in absolute heliographic coordinates, displaying an integrated view of solar
                 features observed during a Carrington rotation.",False,,False,,
-TEC,See total electron content.,True,TEC,False,the exosphere. total electron content,That region of the Earth’s atmosphere where the neutral temperature increases with height.  It begins above the mesosphere at about 80-85 km and extends to the exosphere. total electron content (TEC) 
+TEC,See total electron content.,True,TEC,True,the exosphere. total electron content,That region of the Earth’s atmosphere where the neutral temperature increases with height.  It begins above the mesosphere at about 80-85 km and extends to the exosphere. total electron content (TEC) 
 TED Total (particle) Energy Deposition,"The NOAA instrument used to estimate the hemispherical power input. (See estimated hemispherical power
                 input.)",True,TED,False,,
 tenflare,A solar flare accompanied by a 10cm radio burst of intensity greater than 100% of the pre-burst value.,False,,False,,
@@ -1225,7 +1225,7 @@ thermosphere,"That region of the Earth’s atmosphere where the neutral temperat
 total electron content (TEC),"The number of electrons along a ray path between a transmitter and a receiver. Units are electrons per
                 square meter. This number is significant in determining ionospheric effects such as refraction,
                 dispersion, and group delay on radio waves, and can be used to estimate critical frequencies. The TEC is
-                strongly affected by solar and geomagnetic activity.",True,TEC,False,the exosphere. total electron content,That region of the Earth’s atmosphere where the neutral temperature increases with height.  It begins above the mesosphere at about 80-85 km and extends to the exosphere. total electron content (TEC) 
+                strongly affected by solar and geomagnetic activity.",True,TEC,True,the exosphere. total electron content,That region of the Earth’s atmosphere where the neutral temperature increases with height.  It begins above the mesosphere at about 80-85 km and extends to the exosphere. total electron content (TEC) 
 transition region,"That region of the solar atmosphere lying between the chromosphere and the corona where the temperature
                 rises from 104K to 106K. The transition region is only a few thousand kilometers
                 thick.",False,,False,,
@@ -1239,38 +1239,38 @@ troposphere,"The lowest layer of the Earth’s atmosphere, extending from the gr
                 approximately 13 km of altitude.",False,,False,,
 two-ribbon flare,"A flare that has developed as a pair of bright strands (ribbons) on both sides of an inversion line of
                 the solar magnetic field.",False,,False,,
-"Type I, II, III, IV, V",See radio emission.,False,,False,,
+"Type I, II, III, IV, V",See radio emission.,True,"III,",False,,
 U-burst,"A radio noise burst associated with some flares. It has a U-shaped appearance in an intensity vs.
                 frequency plot. The minimum intensity falls roughly between 500 and 2000 MHz. A U-burst is sometimes
                 called a Castelli U.",False,,False,,
-UHF,See ultrahigh frequency.,True,UHF,False,ultrahigh frequency. ultrahigh frequency,See ultrahigh frequency. ultrahigh frequency (UHF) 
-ultrahigh frequency (UHF),That portion of the radio frequency spectrum from 300 MHz - 3 GHz.,True,UHF,False,ultrahigh frequency. ultrahigh frequency,See ultrahigh frequency. ultrahigh frequency (UHF) 
-ultraviolet (UV),That part of the electromagnetic spectrum between 5 - 400nm.,True,UV,False,GHz. ultraviolet,That portion of the radio frequency spectrum from 300 MHz - 3 GHz. ultraviolet (UV) 
+UHF,See ultrahigh frequency.,True,UHF,True,ultrahigh frequency. ultrahigh frequency,See ultrahigh frequency. ultrahigh frequency (UHF) 
+ultrahigh frequency (UHF),That portion of the radio frequency spectrum from 300 MHz - 3 GHz.,True,UHF,True,ultrahigh frequency. ultrahigh frequency,See ultrahigh frequency. ultrahigh frequency (UHF) 
+ultraviolet (UV),That part of the electromagnetic spectrum between 5 - 400nm.,True,UV,True,GHz. ultraviolet,That portion of the radio frequency spectrum from 300 MHz - 3 GHz. ultraviolet (UV) 
 umbra,"The dark core or cores (umbrae) in a sunspot with penumbra, or a sunspot lacking penumbra.",False,,False,,
-unipolar magnetic region (UMR),See unipolar magnetic region.,True,UMR,False,lacking penumbra. unipolar magnetic region,"The dark core or cores (umbrae) in a sunspot with penumbra, or a sunspot lacking penumbra. unipolar magnetic region (UMR) "
+unipolar magnetic region (UMR),See unipolar magnetic region.,True,UMR,True,lacking penumbra. unipolar magnetic region,"The dark core or cores (umbrae) in a sunspot with penumbra, or a sunspot lacking penumbra. unipolar magnetic region (UMR) "
 unipolar magnetic region (UMR),"A large-scale photospheric region where the magnetic elements are predominantly of one polarity (for
-                example, the solar polar regions)",True,UMR,False,lacking penumbra. unipolar magnetic region,"The dark core or cores (umbrae) in a sunspot with penumbra, or a sunspot lacking penumbra. unipolar magnetic region (UMR) "
-Universal Time (UT),A shortened form of the more correct Coordinated Universal Time (UTC).,True,UT,False,Universal Time,"A large-scale photospheric region where the magnetic elements are predominantly of one polarity (for example, the solar polar regions) Universal Time (UT) "
+                example, the solar polar regions)",True,UMR,True,lacking penumbra. unipolar magnetic region,"The dark core or cores (umbrae) in a sunspot with penumbra, or a sunspot lacking penumbra. unipolar magnetic region (UMR) "
+Universal Time (UT),A shortened form of the more correct Coordinated Universal Time (UTC).,True,UT,True,Universal Time,"A large-scale photospheric region where the magnetic elements are predominantly of one polarity (for example, the solar polar regions) Universal Time (UT) "
 unsettled,"With regard to geomagnetic activity, a descriptive word between quiet and active such that the Ak index
                 is between 8 and 15.",False,,False,,
 upsets,See single event upsets.,False,,False,,
-UT or UTC,See Coordinated Universal Time.,True,UT,False,Universal Time,"A large-scale photospheric region where the magnetic elements are predominantly of one polarity (for example, the solar polar regions) Universal Time (UT) "
-UV,See ultraviolet.,True,UV,False,GHz. ultraviolet,That portion of the radio frequency spectrum from 300 MHz - 3 GHz. ultraviolet (UV) 
+UT or UTC,See Coordinated Universal Time.,True,UT,True,Universal Time,"A large-scale photospheric region where the magnetic elements are predominantly of one polarity (for example, the solar polar regions) Universal Time (UT) "
+UV,See ultraviolet.,True,UV,True,GHz. ultraviolet,That portion of the radio frequency spectrum from 300 MHz - 3 GHz. ultraviolet (UV) 
 Van Allen radiation belts,See radiation belts.,False,,False,,
 vernal equinox,The equinox that occurs in March. Compare autumnal equinox.,False,,False,,
-very high frequency (VHF),That portion of the radio frequency spectrum from 30 - 300 MHz.,True,VHF,False,autumnal equinox. very high frequency,The equinox that occurs in March. Compare autumnal equinox. very high frequency (VHF) 
-very low frequency (VLF),That portion of the radio frequency spectrum from 3 - 30 kHz.,True,VLF,False,300 MHz. very low frequency,That portion of the radio frequency spectrum from 30 - 300 MHz. very low frequency (VLF) 
-VHF,See very high frequency.,True,VHF,False,autumnal equinox. very high frequency,The equinox that occurs in March. Compare autumnal equinox. very high frequency (VHF) 
-VLF,See very low frequency.,True,VLF,False,300 MHz. very low frequency,That portion of the radio frequency spectrum from 30 - 300 MHz. very low frequency (VLF) 
+very high frequency (VHF),That portion of the radio frequency spectrum from 30 - 300 MHz.,True,VHF,True,autumnal equinox. very high frequency,The equinox that occurs in March. Compare autumnal equinox. very high frequency (VHF) 
+very low frequency (VLF),That portion of the radio frequency spectrum from 3 - 30 kHz.,True,VLF,True,300 MHz. very low frequency,That portion of the radio frequency spectrum from 30 - 300 MHz. very low frequency (VLF) 
+VHF,See very high frequency.,True,VHF,True,autumnal equinox. very high frequency,The equinox that occurs in March. Compare autumnal equinox. very high frequency (VHF) 
+VLF,See very low frequency.,True,VLF,True,300 MHz. very low frequency,That portion of the radio frequency spectrum from 30 - 300 MHz. very low frequency (VLF) 
 white light (WL),"The sum of all visible wavelengths of light (400-700 nm) so that all colors are blended to appear white
                 to the eye. No pronounced contribution from any one spectral line (or light-emitting element) is
-                implied.",True,WL,False,white light,W white light (WL) 
+                implied.",True,WL,True,white light,W white light (WL) 
 white-light flare,"A major flare in which small parts become visible in white light. This rare continuum emission is caused
                 by energetic particle beams bombarding the lower solar atmosphere. Such flares are usually strong x-ray,
                 radio, and particle emitters.",False,,False,,
 wing,"Portion of a spectroscopic absorption (or emission) line between the core of the line and the continuum
                 adjacent to the line.",False,,False,,
-WL,See white light.,True,WL,False,white light,W white light (WL) 
+WL,See white light.,True,WL,True,white light,W white light (WL) 
 Wolf number,"An historic term for sunspot number. In 1849, R. Wolf of Zurich originated the general procedure for
                 computing the sunspot number. The record of sunspot numbers that he began has continured to this day.",False,,False,,
 WWV,"Call letters of the radio station over which National Institute of Standards and Technology broadcasts

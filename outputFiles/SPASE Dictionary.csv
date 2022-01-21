@@ -259,7 +259,7 @@ CoordinateSystem,"The specification of the orientation of a set of
 CoordinateSystemName,"Identifies the coordinate system in which the position,
 								direction or observation has been expressed.",False,,False,,
 CoPI,"An individual who is peer of a principal investigator and
-								is an administrative and scientific lead for an investigation.",False,,False,,
+								is an administrative and scientific lead for an investigation.",True,CoPI,False,,
 Core,"The central or main part of an object or calculated
 								distribution. For example, the part of a distribution of particles at low energies that
 								is a thermal (Maxwellian) population.",False,,False,,
