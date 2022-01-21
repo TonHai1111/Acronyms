@@ -135,7 +135,7 @@ def checkAcronym_addDescription_v1(dict_in = dict_input_extracted):
             #words = line.split(' ')
             words = re.split(' |\(|\)', line)
             isAcr = False
-            isDes = False
+            isDec = False
             term = ""
             decs = ""
             cont = ""
@@ -154,7 +154,7 @@ def checkAcronym_addDescription_v1(dict_in = dict_input_extracted):
                         cont = ac['Context']
                         break
             row = {'Input Text': line, 'isAcronym': str(isAcr), 
-                'Extracted Term': term, 'isDescription': str(isDes), 
+                'Extracted Term': term, 'isDescription': str(isDec), 
                 'Description': decs, 'Context': cont}
             rows.append(row)
         file.close()
@@ -198,7 +198,7 @@ def checkAcronym_addDescription_v2(dict_in = dict_input_extracted):
                 term_line = line[0]
                 words = re.split(' |\(|\)', term_line)
                 isAcr = False
-                isDes = False
+                isDec = False
                 term = ""
                 decs = ""
                 cont = ""
@@ -224,7 +224,7 @@ def checkAcronym_addDescription_v2(dict_in = dict_input_extracted):
                     t_c += 1
                 row['isAcronym'] = str(isAcr)
                 row['Extracted Term'] = term
-                row['isDescription'] = str(isDes)
+                row['isDescription'] = str(isDec)
                 row['Description'] = decs
                 row['Context'] = cont
                 #row = {'Input Text': line, 'isAcronym': str(isAcr), 
@@ -246,6 +246,68 @@ def checkAcronym_addDescription_v2(dict_in = dict_input_extracted):
             writeRowsToCSV_v2(rows, "outputFiles/" + key, fieldheader)
     return
 
+def writeTextToCSV(file_name):
+    rows = []
+    file = open(file_name, 'r')
+    for line in file:
+        words = re.split(' |\(|\)|"|/', line.strip())
+        for word in words:
+            row = {}
+            if(word == ''):
+                continue
+            row['Input Term'] = str(word)
+            rows.append(row)
+    file.close()
+    fieldheader = ['Input Term']
+    writeRowsToCSV_v2(rows, "Input.csv", fieldheader)
+    return
+
+def checkAcronymFromFile(file_name):
+    rows = []
+    with open(file_name, 'r') as file:
+        csvreader = csv.reader(file)
+        header = next(csvreader)
+        for line in csvreader:
+            #words = line.split(' ')
+            term_line = line[0]
+            words = re.split(' |\(|\)', term_line)
+            isAcr = False
+            term = ""
+            for word in words:
+                if (word == ''):
+                    continue
+                if(checkAcronym(word)):
+                    isAcr = True
+                    term = word
+                    break
+            #Build row
+            t_c = 0
+            row = {}
+            row['Input Term'] = line[0]
+            row['isAcronym'] = str(isAcr)
+            row['Extracted Term'] = term
+            rows.append(row)
+    fieldheader = ["Input Term", "isAcronym", "Extracted Term"]
+    writeRowsToCSV_v2(rows, "temp1.csv", fieldheader)
+    return
+
+def extractAcronymsFromText(file_name):
+    output = findAcronymsFromText(file_name)
+    fieldheader = ["Acronym"]
+    rows = []
+    row = {}
+    for acr in output:
+        row["Acronym"] = acr
+        rows.append(row)
+    writeRowsToCSV_v2(rows, "temp.csv", fieldheader)
+    return
+
 if __name__ == "__main__":
     findAcronymsFromInputLinks(dict_input)
     checkAcronym_addDescription(dict_input_extracted)
+    
+    #extractAcronymsFromText("Input.csv")
+
+    #writeTextToCSV("Text.txt")
+    #checkAcronymFromFile("Input.csv")
+    

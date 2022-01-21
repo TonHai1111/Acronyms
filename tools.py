@@ -167,6 +167,27 @@ def descriptionFromContext(term, context):
             count_term += 1
     return description.strip()
 
+def acronymFromLine_v2(line):
+    output = []
+    words = re.split(' |\(|\)', line)
+    for word in words:
+        if(checkAcronym(word)):
+            output.append(word)
+    return output
+
+def findAcronymsFromText(text_file):
+    output = []
+    file = open(text_file, 'r')
+    for line in file:
+        print(line.strip())
+        words = re.split(' |\(|\)|-|"|,|.', line.strip())
+        for word in words:
+            print(word)
+            if(checkAcronym(word)):
+                output.append(word)
+    file.close()
+    return output
+
 def writeRowsToCSV(rows, csv_file):
     fieldheader = ['Term', 'Description', 'Context']
     with open(csv_file, 'w', encoding='UTF8', newline='') as f:
