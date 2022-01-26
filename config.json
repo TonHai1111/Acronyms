@@ -9,5 +9,13 @@
     "max length": 10,
     "exception":["NASA-IMPACT-MAAP", 
         "mRNA",
-        "CESSNA SINGLE-ENGINE AIRCRAFT"]
+        "CESSNA SINGLE-ENGINE AIRCRAFT",
+        "FinFETs", "AccessURL",
+        "A-340", "CA-OR-WA",
+        "radar", "eV", "X-ray",
+        "CEF1", "CEF2", "CLI", "HDF4", "HDF5",
+        "PDS3", "PDS4", "RORIdentifier",
+        "foF2", "p.f.u",
+        "GPa", "keV", "Nd:YAG"],
+    "exclusion":["STANDARD", "STRATWARM"]
 }
