@@ -5,7 +5,7 @@ Albedo Feature (AL),Geographic area distinguished by amount of reflected light,T
 "Catena, catenae (CA)",Chain of craters,True,CA,True,"Catena, catenae","Radial-patterned features on Venus Catena, catenae (CA) "
 "Cavus, cavi (CB)","Hollows, irregular steep-sided depressions usually in arrays or clusters",True,CB,True,"Cavus, cavi","Chain of craters Cavus, cavi (CB) "
 "Chaos, chaoses (CH)",Distinctive area of broken terrain,True,CH,True,"Chaos, chaoses","Hollows, irregular steep-sided depressions usually in arrays or clusters Chaos, chaoses (CH) "
-"Chasma, chasmata (CM)","A deep, elongated, steep-sided depression",False,,False,,
+"Chasma, chasmata (CM)","A deep, elongated, steep-sided depression",True,CM,True,"Chasma, chasmata","Distinctive area of broken terrain Chasma, chasmata (CM) "
 "Collis, colles (CO)",Small hills or knobs,True,CO,True,"Collis, colles","A deep, elongated, steep-sided depression Collis, colles (CO) "
 "Corona, coronae (CR)",Ovoid-shaped feature,True,CR,True,"Corona, coronae","Small hills or knobs Corona, coronae (CR) "
 "Crater, craters (AA)",A circular depression,True,AA,True,"Crater, craters","Ovoid-shaped feature Crater, craters (AA) "
@@ -25,7 +25,7 @@ Eruptive center (ER),Active volcanic centers on Io,True,ER,True,Eruptive center,
 "Lacus, lacūs (LC)","""Lake"" or small plain; on Titan, a ""lake"" or small, dark plain with discrete, sharp boundaries",True,LC,True,"Lacus, lacūs","Irregularly shaped depression on Titan having the appearance of a dry lake bed Lacus, lacūs (LC) "
 Landing site name (LF),Lunar features at or near Apollo landing sites,True,LF,True,Landing site name,"""Lake"" or small plain; on Titan, a ""lake"" or small, dark plain with discrete, sharp boundaries Landing site name (LF) "
 Large ringed feature (LG),Cryptic ringed features,True,LG,True,Large ringed feature,Lunar features at or near Apollo landing sites Large ringed feature (LG) 
-"Linea, lineae (LI)","A dark or bright elongate marking, may be curved or straight",False,,False,,
+"Linea, lineae (LI)","A dark or bright elongate marking, may be curved or straight",True,LI,True,"Linea, lineae","Cryptic ringed features Linea, lineae (LI) "
 "Lingula, lingulae (LN)",Extension of plateau having rounded lobate or tongue-like boundaries,True,LN,True,"Lingula, lingulae","A dark or bright elongate marking, may be curved or straight Lingula, lingulae (LN) "
 "Macula, maculae (MA)","Dark spot, may be irregular",True,MA,True,"Macula, maculae","Extension of plateau having rounded lobate or tongue-like boundaries Macula, maculae (MA) "
 "Mare, maria (ME)","“Sea”; on the Moon, low albedo, relatively smooth plain, generally of large extent; on  Mars, dark albedo areas of no known geological significance; on Titan, large expanses of dark materials thought to be liquid hydrocarbons",True,ME,True,"Mare, maria","Dark spot, may be irregular Mare, maria (ME) "

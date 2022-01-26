@@ -386,7 +386,7 @@ fmin,"The lowest frequency at which echo traces are observed on an ionogram. It 
 foEs,"The maximum ordinary mode radiowave frequency capable of vertical reflection from the sporadic E layer
                 of the ionosphere.",False,,False,,
 foF2,"The maximum ordinary mode radiowave frequency capable of vertical reflection from the F2 layer of the
-                ionosphere. (See F region.)",False,,False,,
+                ionosphere. (See F region.)",True,foF2,False,,
 follower spot,"In a magnetically bipolar or multipolar sunspot group, the main spot in that portion of the group east
                 of the principal inversion line is called the follower or f-spot. Leader and follower describe the
                 positions of spots with respect to apparent motion due to solar rotation. (Compare leader spot.)",False,,False,,
@@ -759,7 +759,7 @@ perigee,That point on the orbit of an Earth-orbiting satellite nearest to the Ea
 perihelion,That point on the orbit of a Sun-orbiting body nearest to the Sun. Compare aphelion.,False,,False,,
 persistence,"Continuation of existing conditions. When a physical parameter varies slowly, the best prediction is
                 often persistence.",False,,False,,
-p.f.u,See particle flux unit.,False,,False,,
+p.f.u,See particle flux unit.,True,p.f.u,False,,
 phantom command,"An unintended spacecraft command caused by the natural environment. (See single event upset or
                 electrostatic discharge.)",False,,False,,
 photosphere,"The lowest visible layer of the solar atmosphere; corresponds to the solar surface viewed in white
@@ -865,7 +865,7 @@ quiet day curve (QDC),"Especially in connection with the components of the geoma
 R-number,"Radar returns from electron density irregularities in auroral regions. The strength of radar auroral
                 returns is aspect dependent.",False,,False,,
 radar aurora,"Radar returns from electron density irregularities in auroral regions. The strength of radar auroral
-                returns is aspect dependent.",False,,False,,
+                returns is aspect dependent.",True,radar,False,,
 radiation belts,"Regions of the magnetosphere roughly 1.2 to 6 Earth radii above the equator in which charged particles
                 are stably trapped by closed geomagnetic field lines. There are two belts. The inner belt is part of the
                 plasmasphere and corotates with the Earth; its maximum proton density lies near 5000 km. Inner belt
@@ -1085,7 +1085,7 @@ stratosphere,"That region of the Earth’s atmosphere between the troposphere an
 STRATWARM,"A code word designating a major disturbance of the winter, polar, middle atmosphere from the tropopause
                 to the ionosphere, lasting for several days at a time and characterized by a warming of the
                 stratospheric temperature by some tens of degrees. There is no evidence that stratwarms are caused by
-                solar events, or that they affect the lower atmosphere.  The primary effect is upon HF propagation.",True,STRATWARM,False,,
+                solar events, or that they affect the lower atmosphere.  The primary effect is upon HF propagation.",False,,False,,
 subflare,See flare.,False,,False,,
 substorm,"A geomagnetic perturbation lasting 1 to 2 hours, which tends to occur during local post-midnight
                 nighttime. The magnitude of the substorm is largest in the auroral zone, potentially reaching several

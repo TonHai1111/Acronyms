@@ -128,7 +128,7 @@ Geocentric distance:,False,,False,,
 Geologist:,False,,False,,
 Giant impact theory:,False,,False,,
 Geomorphology:,False,,False,,
-Gigapascal (GPa):,False,,False,,
+Gigapascal (GPa):,True,GPa,True,and change over time. Gigapascal,"Geomorphology: The study of the shape and form of the landscape, and how the nature of landforms relates to their origin, development, and change over time. Gigapascal (GPa): Conventional unit of pressure when discussing the deep Earth: 1 GPa = 10 kilobars = 10,000 times air pressure at sea level. "
 Globular clusters:,False,,False,,
 GRAIL Mission:,True,GRAIL,False,,
 Grand Tack model:,False,,False,,

@@ -6,7 +6,7 @@ AccessInformation,"Attributes of the resource which pertain to how to
 AccessRights,"Permissions granted or denied by the host of a product to
 								allow other users to access and use the resource.",False,,False,,
 AccessURL,"Attributes of the method for accessing a resource
-								including a URL, name and description.",False,,False,,
+								including a URL, name and description.",True,AccessURL,False,,
 ACElectricField,Alternating electric field component of a wave.,False,,False,,
 Acknowledgement,"The individual, group or organization which should be
 								acknowledged when the data is used in or contributes to a presentation or publication.",False,,False,,
@@ -181,11 +181,11 @@ CEF,"Cluster Exchange Format (CEF) is a self-documenting ASCII
 								totally compatible.",True,CEF,False,,
 CEF1,"Cluster Exchange Format (CEF), version 1, is a
 								self-documenting ASCII format designed for the exchange of data. The metadata contains
-								information compatible with the ISTP recommendations for CDF.",False,,False,,
+								information compatible with the ISTP recommendations for CDF.",True,CEF1,False,,
 CEF2,"Cluster Exchange Format (CEF), version 2, is a
 								self-documenting ASCII format designed for the exchange of data and introduced for
 								Cluster Active Archive. Compared to version 1, the metadata description of vectors and
-								tensors is different.",False,,False,,
+								tensors is different.",True,CEF2,False,,
 CGM,"Corrected Geomagnetic - A coordinate system from a
 								spatial point with GEO radial distance and geomagnetic latitude and longitude, follow
 								the epoch-appropriate IGRF/DGRF model field vector through to the point where the field
@@ -222,7 +222,7 @@ Circular,"Relative to polarization, right-hand circularly polarized
 ClassificationMethod,"The technique used to determine the characteristics of an
 								object.",False,,False,,
 CLI,"A command-line interface (CLI) is a form of interface
-								where input to an application is provided as lines of text typically within a shell.",False,,False,,
+								where input to an application is provided as lines of text typically within a shell.",True,CLI,False,,
 CodeLanguage,"A formal language, which comprises a set of instructions
 								that produce various kinds of output.",False,,False,,
 Coherence,"The coherence, Cxy, between two signals x(t) and y(t) is
@@ -652,8 +652,8 @@ HCR,"Heliocentric Radial - A 3-D orthonormal coordinate system
 								point's distance rho from the Z axis [Rho = SQRT(x**2 + y**2)] and its phase angle psi
 								measured counterclockwise from the +Y axis [psi = arctan (-y/x)]",True,HCR,False,,
 HDF,Hierarchical Data Format,True,HDF,False,,
-HDF4,"Hierarchical Data Format, Version 4",False,,False,,
-HDF5,"Hierarchical Data Format, Version 5",False,,False,,
+HDF4,"Hierarchical Data Format, Version 4",True,HDF4,False,,
+HDF5,"Hierarchical Data Format, Version 5",True,HDF5,False,,
 He10830,"A spectrum with a wavelength range centered at 1082.9 nm.
 								VSO nickname: He 10830 image with a range of 1082.5 nm to 1083.3 nm.",False,,False,,
 He304,"A spectrum centered around the resonance line of ionised
@@ -1202,7 +1202,7 @@ PDS3,"The. Planetary Data System, version 3 (PDS3) standard
 								the data file itself or detached in a separate 'label' file with the suffix LBL. The
 								PDS3 standard is described at: https://pds.jpl.nasa.gov/datastandards/pds3/standards/
 								Since 2011, PDS3 has superseded by the PDS4 archiving standard. However, many data files
-								still exist that are stored by using the PDS3 standard.",False,,False,,
+								still exist that are stored by using the PDS3 standard.",True,PDS3,False,,
 PDS4,"The Planetary Data System, version 4 (PDS4) standard
 								provides guidelines on how a data producer should construct a data set suitable for
 								long-term archiving. The standard contains a number of requirements in terms of dataset
@@ -1213,7 +1213,7 @@ PDS4,"The Planetary Data System, version 4 (PDS4) standard
 								encoded byte stream with arrays and tables most commonly in use. The PDS4 standard is
 								described at: https://pds.jpl.nasa.gov/datastandards/documents/current-version.shtml.
 								The PDS4 archiving standard has been required for data archives from NASA-funded
-								planetary missions and for small data archives since 2011.",False,,False,,
+								planetary missions and for small data archives since 2011.",True,PDS4,False,,
 Peak,"The maximum value for the quantity in question, over a
 								period of time which is usually equal to the cadence.",False,,False,,
 Per,"The time interval over which a characterization applies.
@@ -1493,7 +1493,7 @@ Riometer,"An instrument which measure the signal strength in
 Role,"The assigned or assumed function or position of an
 								individual.",False,,False,,
 RORIdentifier,"The assigned Research Organization Registry (ROR)
-								identifier. See https://ror.org/",False,,False,,
+								identifier. See https://ror.org/",True,RORIdentifier,False,,
 RotationMatrix,"A tensor that is used to perform vector data
 								transformation from one coordinate system to another.",False,,False,,
 RTN,"Radial Tangential Normal. Typically centered at a
