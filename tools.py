@@ -67,18 +67,23 @@ def checkAcronym_v2(value, config="config.json"):
     min_len = int(data["min length"])
     max_len = int(data["max length"])
     exceptions = data["exception"]
+    exclusions = data["exclusion"]
     file.close()
     value = value.lstrip()
     v_len = len(value)
 
     if(value in exceptions): #an instance in exception list
         return True
+    if(value in exclusions): #an instance in exclusion list
+        return False
     if(value.count(' ') > num_spaces): #number of spaces
         return False
     if ((v_len < min_len) or (v_len > max_len)):# min_len and max_len
         return False
     if(not isRoman):#Roman number
-        if(bool(re.search(r"^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$",value))): # not a Roman number
+        #if(bool(re.search(r"^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$",value))): # not a Roman number
+        #    return False
+        if(bool(re.search(r"^(X{1,3})(I[XV]|V?I{0,3})$|^(I[XV]|V?I{1,3})$|^V$", value))): #Only from 1-39
             return False
     if(value.count('-') > num_minus):#number of minus characters
         return False
