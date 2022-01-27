@@ -1,0 +1,57 @@
+Input Term,isAcronym,Extracted Term,isDescription,Description,Context
+ATP,True,ATP,False,ATP,"From Wikipedia/Google: ['ATP', 'ATP Tour', 'Association of Tennis Professionals', 'ATP Rankings', '2022 ATP Tour']"
+ATP synthase,True,ATP,False,ATP,"From Wikipedia/Google: ['ATP', 'ATP Tour', 'Association of Tennis Professionals', 'ATP Rankings', '2022 ATP Tour']"
+CAM,True,CAM,False,Cam,"From Wikipedia/Google: ['Cam', 'Cam (disambiguation)', 'Cam Newton', 'Calmodulin', 'Cam Akers']"
+CAM plant,True,CAM,False,Cam,"From Wikipedia/Google: ['Cam', 'Cam (disambiguation)', 'Cam Newton', 'Calmodulin', 'Cam Akers']"
+CFU-GEMM,True,CFU-GEMM,False,CFU-GEMM,"From Wikipedia/Google: ['CFU-GEMM', 'GEMM', 'CFU-E', 'CFU-GM', 'Haematopoiesis']"
+CGMP,True,CGMP,False,CGMP,"From Wikipedia/Google: ['CGMP', 'Good manufacturing practice', 'CGMP-specific phosphodiesterase type 5', 'Sildenafil', 'Phosphodiesterase']"
+Chloroplast DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+CMP,True,CMP,False,CMP,"From Wikipedia/Google: ['CMP', 'Cmp (Unix)', '2021 United Nations Climate Change Conference', 'CMP FAT', 'United Nations Climate Change conference']"
+CNS,True,CNS,False,CNS,"From Wikipedia/Google: ['CNS', 'Central nervous system', 'Chief of the Naval Staff (India)', 'LG CNS', 'LG Corporation']"
+Complementary DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+DNA polymerase,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+DNA polymerase I,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+DNA polymerase II,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+DNA replication,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+DNA virus,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+Double stranded DNA virus,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+DsRNA virus,True,DsRNA,False,RNA,"From Wikipedia/Google: ['RNA', 'Baltimore classification', 'RNA virus', 'Double-stranded RNA viruses', 'RNA interference']"
+EPIC,True,EPIC,False,Epic,"From Wikipedia/Google: ['Epic', 'Epic Games', 'Epic Records', 'Epic of Gilgamesh', 'Epic film']"
+Gap 2-M DNA damage checkpoint,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+GERL,True,GERL,False,Gerling,"From Wikipedia/Google: ['Gerling', 'Franz Xaver Gerl', 'Christian Ludwig Gerling', 'Gerling-Konzern', 'Gerling (surname)']"
+HnRNA,True,HnRNA,False,Primary transcript,"From Wikipedia/Google: ['Primary transcript', 'Small nuclear RNA', 'Transcription (biology)', 'Five-prime cap', 'Translation (biology)']"
+Hydrogen-transporting ATP synthase,True,ATP,False,ATP,"From Wikipedia/Google: ['ATP', 'ATP Tour', 'Association of Tennis Professionals', 'ATP Rankings', '2022 ATP Tour']"
+INTERMEDIATE PHENOTYPE,True,PHENOTYPE,False,Phenotype,"From Wikipedia/Google: ['Phenotype', 'Phenotype (disambiguation)', 'Genotype–phenotype distinction', 'Genotype–phenotype map', 'The Extended Phenotype']"
+KD,True,KD,False,KD,"From Wikipedia/Google: ['KD', 'K.d. lang', 'Stasi', 'K.D. (film)', 'Toyota KD engine']"
+Linker DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+Mature mRNA,True,mRNA,False,Messenger Ribonucleic Acid,From Acronym definition config file.
+MDNA,True,MDNA,False,MDNA (album),"From Wikipedia/Google: ['MDNA (album)', 'The MDNA Tour', 'MDNA', 'MDNA World Tour (album)', 'Madonna']"
+Mitochondrial DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+MRNA,True,MRNA,False,Messenger RNA,"From Wikipedia/Google: ['Messenger RNA', 'MRNA vaccine', 'Moderna COVID-19 vaccine', 'Transcription (biology)', 'Translation (biology)']"
+NADH,True,NADH,False,Nicotinamide adenine dinucleotide,"From Wikipedia/Google: ['Nicotinamide adenine dinucleotide', 'Cellular respiration', 'Citric acid cycle', 'NADH dehydrogenase', 'Oxidative phosphorylation']"
+PBI test,True,PBI,False,PBI,"From Wikipedia/Google: ['PBI', 'Palm Beach International Airport', 'INVEST (mnemonic)', 'Polybenzimidazole fiber', 'Police Bureau of Investigation']"
+PEP carboxylase,True,PEP,False,Pep,"From Wikipedia/Google: ['Pep', 'PEP', 'Pep Guardiola', 'Pep Boys', 'Pep (film)']"
+PEPC,True,PEPC,False,Phosphoenolpyruvate carboxylase,"From Wikipedia/Google: ['Phosphoenolpyruvate carboxylase', 'Glyceroneogenesis', 'List of Export Promotion Organisations in India', 'C4 carbon fixation', 'Pertamina']"
+PGA,True,PGA,False,PGA Tour,"From Wikipedia/Google: ['PGA Tour', 'PGA', 'PGA Championship', ""Professional Golfers' Association of America"", 'PGA Tour (video game series)']"
+PH Scale,True,PH,False,PH,"From Wikipedia/Google: ['PH', 'Aspirated consonant', 'PH meter', '.ph', 'PH (disambiguation)']"
+PH scale,True,PH,False,PH,"From Wikipedia/Google: ['PH', 'Aspirated consonant', 'PH meter', '.ph', 'PH (disambiguation)']"
+PHA,True,PHA,False,PHA,"From Wikipedia/Google: ['PHA', 'Traditional Thai clothing', 'Jazze Pha', 'Ko Pha-ngan', 'PHA training']"
+PPP,True,PPP,False,Purchasing power parity,"From Wikipedia/Google: ['Purchasing power parity', 'PPP', 'List of countries by GDP (PPP)', 'List of countries by GDP (PPP) per capita', 'List of African countries by GDP (PPP) per capita']"
+Precursor mRNA,True,mRNA,False,Messenger Ribonucleic Acid,From Acronym definition config file.
+RDNA,True,RDNA,False,RDNA (microarchitecture),"From Wikipedia/Google: ['RDNA (microarchitecture)', 'RDNA', 'Radeon', 'Ribosomal DNA', 'Radeon RX 5000 series']"
+Recombinant DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+Recombination DNA repair,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+Repetitive DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+Ribosomal DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+RNA virus,True,RNA,False,Ribonucleic Acid,From Acronym definition config file.
+RNA-dependent DNA polymerase,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+ROY G. BIV,True,ROY,False,Roy,"From Wikipedia/Google: ['Roy', 'Siegfried & Roy', 'Death of Conrad Roy', 'Roy Jones Jr.', 'Royal Aviation']"
+Satellite DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+Single stranded DNA virus,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+Single-stranded DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+SsRNA-RT virus,True,SsRNA-RT,False,Baltimore classification,"From Wikipedia/Google: ['Baltimore classification', 'Retrovirus', 'Riboviria', 'Virus classification', 'Revtraviricetes']"
+TAB vaccine,True,TAB,False,Tab,"From Wikipedia/Google: ['Tab', 'Tab (drink)', 'TAB', 'Samsung Galaxy Tab series', 'Tab Hunter']"
+TMP,True,TMP,False,Steyr TMP,"From Wikipedia/Google: ['Steyr TMP', 'TMP', 'Brügger & Thomet MP9', 'Tmpfs', 'Radancy']"
+VFA,True,VFA,False,VFA,"From Wikipedia/Google: ['VFA', 'Victorian Football League', 'VFA-106', 'VFA-11', 'VFA-103']"
+X-ray,True,X-ray,False,X-ray,"From Wikipedia/Google: ['X-ray', 'X-ray crystallography', 'Battle of Ia Drang', 'X-ray fluorescence', 'X-ray generator']"

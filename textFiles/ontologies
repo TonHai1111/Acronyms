@@ -1,0 +1,19 @@
+All Ontologies (14)
+All Ontologies (14) can be found in OWL format,
+click here.
+astronomy (c:1677, op:34, dp:9, i:88)
+chemistry (c:325, op:1, dp:1, i:0)
+geometry (c:164, op:46, dp:1, i:6)
+instruments (c:511, op:0, dp:0, i:0)
+IVOAO (c:578, op:34, dp:19, i:7)
+IVOAO_root (c:0, op:0, dp:0, i:0)
+operation (c:54, op:42, dp:12, i:1)
+physicalTheory (c:99, op:8, dp:0, i:0)
+physics (c:691, op:26, dp:13, i:44)
+quantity (c:31, op:10, dp:26, i:0)
+skos-core (c:8, op:13, dp:0, i:0)
+statistics (c:21, op:0, dp:0, i:0)
+units (c:11, op:4, dp:6, i:22)
+unitsInstances (c:68, op:3, dp:5, i:96)
+created with
+OWLDoc

@@ -1,0 +1,5 @@
+Term,Description,Context
+FRM,Feature Recognition Method,req Contact information of Feature Recognition Method (FRM) 
+FRM,Feature Recognition Method,req Date when Feature Recognition Method (FRM) was run (e.g. 2004-02-15T02:00:01) 
+FRM,Feature Recognition Method,req Institute where the Feature Recognition Method (FRM) orginates 
+SAVNCPP,the Absolute Value of the Net Currents Per Polarity,--- Sum of the Absolute Value of the Net Currents Per Polarity (SAVNCPP) 

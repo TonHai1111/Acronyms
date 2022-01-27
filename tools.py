@@ -6,6 +6,7 @@
 import csv
 import re
 import json
+import wikipedia
 
 def processFileName(filename):
     if(filename.rfind('/') == len(filename) - 1):
@@ -83,7 +84,15 @@ def checkAcronym_v2(value, config="config.json"):
     if(not isRoman):#Roman number
         #if(bool(re.search(r"^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$",value))): # not a Roman number
         #    return False
-        if(bool(re.search(r"^(X{1,3})(I[XV]|V?I{0,3})$|^(I[XV]|V?I{1,3})$|^V$", value))): #Only from 1-39
+        #if(bool(re.search(r"^(X{1,3})(I[XV]|V?I{0,3})$|^(I[XV]|V?I{1,3})$|^V$", value))): #Only from 1-39
+        #    return False
+        #thousand = 'M{0,3}'
+        #hundred = '(C[MD]|D?C{0,3})'
+        ten = '(X[CL]|L?X{0,3})'
+        digit = '(I[VX]|V?I{0,3})'
+        #regex_thousand = r"^%s%s%s$" % (thousand, hundred, ten, digit) # thousands
+        regex_ten = r"^%s%s$" % (ten, digit)
+        if(bool(re.search(regex_ten, value))): #Only from 1-99
             return False
     if(value.count('-') > num_minus):#number of minus characters
         return False
@@ -206,4 +215,81 @@ def writeRowsToCSV_v2(rows, csv_file, fieldheader):
         writer = csv.DictWriter(f, fieldnames=fieldheader)
         writer.writeheader()
         writer.writerows(rows)
+    return
+
+def getAcronymDefinition(Acronym, res_file="AcronymDefinition.json"):
+    file = open(res_file, 'r')
+    data = json.load(file)
+    output = ""
+    if(Acronym in data):
+        output = data[Acronym]
+    return output
+
+def loadAcronymDefinition(ref_file="AcronymDefinition.json"):
+    file = open(ref_file, 'r')
+    data = json.load(file)
+    return data
+
+
+def getAcronymDefinitionWiki(Acronym, length=5):
+    if(Acronym == ''):
+        return Acronym
+    return wikipedia.search(Acronym, results=length)
+
+
+#Some other tools
+def writeTextToCSV(file_name):
+    rows = []
+    file = open(file_name, 'r')
+    for line in file:
+        words = re.split(' |\(|\)|"|/', line.strip())
+        for word in words:
+            row = {}
+            if(word == ''):
+                continue
+            row['Input Term'] = str(word)
+            rows.append(row)
+    file.close()
+    fieldheader = ['Input Term']
+    writeRowsToCSV_v2(rows, "Input.csv", fieldheader)
+    return
+
+def checkAcronymFromFile(file_name):
+    rows = []
+    with open(file_name, 'r') as file:
+        csvreader = csv.reader(file)
+        header = next(csvreader)
+        for line in csvreader:
+            #words = line.split(' ')
+            term_line = line[0]
+            words = re.split(' |\(|\)', term_line)
+            isAcr = False
+            term = ""
+            for word in words:
+                if (word == ''):
+                    continue
+                if(checkAcronym(word)):
+                    isAcr = True
+                    term = word
+                    break
+            #Build row
+            t_c = 0
+            row = {}
+            row['Input Term'] = line[0]
+            row['isAcronym'] = str(isAcr)
+            row['Extracted Term'] = term
+            rows.append(row)
+    fieldheader = ["Input Term", "isAcronym", "Extracted Term"]
+    writeRowsToCSV_v2(rows, "temp1.csv", fieldheader)
+    return
+
+def extractAcronymsFromText(file_name):
+    output = findAcronymsFromText(file_name)
+    fieldheader = ["Acronym"]
+    rows = []
+    row = {}
+    for acr in output:
+        row["Acronym"] = acr
+        rows.append(row)
+    writeRowsToCSV_v2(rows, "temp.csv", fieldheader)
     return

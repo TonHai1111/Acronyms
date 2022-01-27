@@ -1,0 +1,11 @@
+{
+    "PDS": "Planetary Data System",
+    "PDS4": "Planetary Data System Data Standards version 4",
+    "PDS3": "Planetary Data System Data Standards version 3",
+    "HDF4": "Hierarchical Data Format version 4",
+    "HDF5": "Hierarchical Data Format version 5",
+    "CLI": "Command-Line Interface",
+    "DNA": "Deoxyribonucleic Acid",
+    "RNA": "Ribonucleic Acid",
+    "mRNA": "Messenger Ribonucleic Acid"
+}

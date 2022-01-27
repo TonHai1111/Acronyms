@@ -1,0 +1,8 @@
+Input Term,isAcronym,Extracted Term,isDescription,Description,Context
+RR Lyrae,True,RR,False,RR,"From Wikipedia/Google: ['RR', 'Rr (debugging)', 'RR Donnelley', 'George R. R. Martin', 'RR Lyrae']"
+HII regions,True,HII,False,Remy Hii,"From Wikipedia/Google: ['Remy Hii', 'HII', 'HII galaxy', 'Huntington Ingalls Industries', 'Hii King Chiong']"
+BL Lacertae objects,True,BL,False,BL,"From Wikipedia/Google: ['BL', 'Yaoi', 'A Man Who Defies the World of BL', '.bl', 'BL Lacertae object']"
+UV radiation,True,UV,False,Ultraviolet,"From Wikipedia/Google: ['Ultraviolet', 'Ultraviolet–visible spectroscopy', 'Ultraviolet index', 'UV mapping', 'UV filter']"
+ISM,True,ISM,False,ISM,"From Wikipedia/Google: ['ISM', '-ism', 'Ism (film)', 'ISM radio band', 'ISMS']"
+radar astronomy,True,radar,False,Radar,"From Wikipedia/Google: ['Radar', 'Radar altimeter', 'Radar chart', 'Doppler radar', 'Radar picket']"
+AGB and post-AGB,True,AGB,False,AGB,"From Wikipedia/Google: ['AGB', 'Asymptotic giant branch', 'AGB Nielsen Philippines', 'List of Stranger episodes', 'Vincenzo (TV series)']"

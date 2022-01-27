@@ -1,0 +1,35 @@
+Unified Astronomy Thesaurus – a community supported, open source project from the American Astronomical Society
+Skip to content
+Unified Astronomy Thesaurus
+a community supported, open source project from the American Astronomical Society
+Menu
+Select Concepts
+Explore
+Alphabetical Browse
+Hierarchical Browse
+Search the UAT
+UAT API
+UAT on GitHub
+Autocomplete Widget
+Contribute
+Raise Issue on GitHub
+Sorting Tool
+Updates
+About
+Steering Committee
+Publications, Presentations, Posters
+Curation Process
+Release Cycle
+Versioning
+Other Thesauri & Resources
+Acknowledgements
+Contact
+Scroll down to content
+Welcome to the Unified Astronomy Thesaurus!
+Current Release: Version 4.0.1 (03/31/2021)
+The Unified Astronomy Thesaurus (UAT) is an open, interoperable and community-supported thesaurus which unifies the existing divergent and isolated Astronomy & Astrophysics thesauri into a single high-quality, freely-available open thesaurus formalizing astronomical concepts and their inter-relationships.  The UAT builds upon the existing IAU Thesaurus with major contributions from the Astronomy portions of the thesauri developed by the Institute of Physics Publishing and the American Institute of Physics.  We expect that the Unified Astronomy Thesaurus will be further enhanced and updated through a collaborative effort involving broad community participation.
+While the AAS has assumed formal ownership of the UAT, the work will be available under a Creative Commons License, ensuring its widest use while protecting the intellectual property of the contributors. We envision that development and maintenance will be stewarded by a broad group of parties having a direct stake in it.  This includes professional associations (IVOA, IAU), learned societies (AAS, RAS), publishers (IOP, AIP), librarians and other curators working for major astronomy institutes and data archives.
+The main impetus behind the creation of a single thesaurus has been the wish to support semantic enrichment of the literature, but we expect that use of the UAT (along with other vocabularies and ontologies currently being developed in our community) will be much broader and will have a positive impact on the discovery of a wide range of astronomy resources, including data products and services.
+Partner Institutions
+Unified Astronomy Thesaurus by https://astrothesaurus.org/ is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Proudly powered by WordPress

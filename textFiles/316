@@ -1,0 +1,96 @@
+Australian and New Zealand Standard Research Classification 2020: Fields of Research - Research Vocabularies Australia
+About
+Widget Explorer
+Get Involved
+Publish a vocabulary
+Use a vocabulary
+Give feedback on vocabularies
+My Vocabs Login
+Search
+Using search
+Feedback
+Help
+widgetable
+subscribe
+Australian and New Zealand Standard Research Classification 2020: Fields of Research
+Acronym: ANZSRC-2020-FoR
+Publisher
+Australian Bureau of Statistics
+Created:
+30 Jun 2020
+2020
+current
+Download (TTL)
+Access Linked Data API
+Show SPARQL Endpoint
+SPARQL Endpoint:
+https://vocabs.ardc.edu.au/repository/api/sparql/anzsrc-2020-for
+Learn More
+released:
+29 Apr 2021
+TTL
+The Australian and New Zealand Standard Research Classification (ANZSRC) 2020 is the collective name for a set of three related classifications developed for use in the measurement and analysis of research and experimental development (R&D) undertaken in Australia and New Zealand. The ANZSRC is jointly produced by the Australian Bureau of Statistics (ABS) and Statistics New Zealand (Statistics NZ). The use of the three constituent classifications in the ANZSRC ensures that R&D statistics collected are useful to governments, educational institutions, international organisations, scientific, professional or business organisations, business enterprises, community groups and private individuals in Australia and New Zealand. The three constituent classifications included in the ANZSRC are: Type of Activity (TOA), Fields of Research (FoR), and Socio-economic Objectives (SEO). This vocabulary record covers only the FoR Classification.
+The FoR classification allows research and development (R&D) activity to be categorised according to the methodology used in the R&D, rather than the activity of the unit performing the R&D or the purpose of the R&D. The categories in the classification include major fields and related sub-fields of research and emerging areas of study investigated by businesses, universities, tertiary institutions, national research institutions and other organisations. This classification allows the categorisation of fields of research activity within Australia and New Zealand.
+For more information, visit
+https://www.abs.gov.au/statistics/classifications/australian-and-new-zealand-standard-research-classification-anzsrc/2020
+Languages
+English
+Notes
+Please refer to
+https://documentation.ardc.edu.au/display/DOC/ANZSRC+2020 for information about the encoding of the vocabulary into RDF and SKOS.
+Using browse
+Due to the size of this vocabulary, you may experience
+degraded browsing performance.
+Sort by
+Show notations
+Concept
+Concept scheme
+Unordered collection
+Ordered collection
+Use this code snippet to describe or
+discover resources with
+Australian and New Zealand Standard Research Classification 2020: Fields of Research in your system
+Example: Search for and select concepts
+in this vocabulary
+Show
+codeLearn more
+<input type="text" id="anzsrc-2020-for" name="anzsrc-2020-for" value="" size="80" autocomplete="off">
+<script>
+$("#anzsrc-2020-for").vocab_widget({
+mode: 'search',
+cache: false,
+repository: 'https://vocabs.ardc.edu.au/repository/api/lda/anzsrc-2020-for',
+target_field: 'label',
+endpoint: 'https://vocabs.ardc.edu.au/apps/vocab_widget/proxy/'
+});
+</script>
+Subjects
+Organisation of Information and Knowledge Resources
+Related
+Related people and organisations
+Implemented by
+Australian Research Data Commons
+Related vocabularies
+Has association with
+Australian and New Zealand Standard Research Classification 2008: Fields of Research
+Has association with
+Australian and New Zealand Standard Research Classification 2020: Socio-Economic Objectives
+Quick Links
+Home
+About
+Explore Widgetable Vocabularies
+My Vocabs
+Contact us
+Disclaimer
+Privacy Policy
+Get Involved
+Publish a vocabulary
+Use a vocabulary
+Give feedback on vocabularies
+Share
+Facebook
+Twitter
+External Resources
+ARDC Website
+Developers
+The Australian Research Data Commons (ARDC) is enabled by NCRIS.

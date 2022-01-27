@@ -1,0 +1,24 @@
+Input Term,isAcronym,Extracted Term,isDescription,Description,Context
+Adenosine  Triphosphate  (ATP),True,ATP,True,environmental niches Adenosine Triphosphate,"available, creates new challenges and opens environmental niches  Adenosine Triphosphate (ATP)  "
+ATP (adenosine triphosphate),True,ATP,True,environmental niches Adenosine Triphosphate,"available, creates new challenges and opens environmental niches  Adenosine Triphosphate (ATP)  "
+ATP synthase,True,ATP,True,environmental niches Adenosine Triphosphate,"available, creates new challenges and opens environmental niches  Adenosine Triphosphate (ATP)  "
+Deoxyribonucleic Acid (DNA),True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+DNA (deoxyribonucleic acid),True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+DNA Fingerprinting,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+DNA Replication,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+Electron Transport Chain (ETC),True,ETC,False,ETC,"From Wikipedia/Google: ['ETC', 'Guitars, Cadillacs, Etc., Etc.', 'Et cetera', 'Selena Etc.', 'Love Etc.']"
+Endoplasmic Reticulum (ER),True,ER,False,ER,"From Wikipedia/Google: ['ER', 'ER (TV series)', '.er', 'Er (Cyrillic)', '-er']"
+Last Universal Common Ancestor (LUCA),True,LUCA,False,Luca,"From Wikipedia/Google: ['Luca', 'Last universal common ancestor', 'Luca (2021 film)', 'Luca$', 'Luca Zidane']"
+messenger RNA (mRNA),True,RNA,False,Ribonucleic Acid,From Acronym definition config file.
+Polymerase Chain Reaction (PCR),True,PCR,False,Polymerase chain reaction,"From Wikipedia/Google: ['Polymerase chain reaction', 'Reverse transcription polymerase chain reaction', 'Real-time polymerase chain reaction', 'Phosphocreatine', 'Variants of PCR']"
+Recombinant DNA,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+Ribonucleic Acid (RNA),True,RNA,False,Ribonucleic Acid,From Acronym definition config file.
+ribosomal RNA,True,RNA,False,Ribonucleic Acid,From Acronym definition config file.
+RNA (Ribonucleic acid),True,RNA,False,Ribonucleic Acid,From Acronym definition config file.
+RNA Polymerase,True,RNA,False,Ribonucleic Acid,From Acronym definition config file.
+RNA World Hypothesis,True,RNA,False,Ribonucleic Acid,From Acronym definition config file.
+Scanning Electron Microscope (SEM),True,SEM,False,SEM,"From Wikipedia/Google: ['SEM', 'Scanning electron microscope', 'Sem (given name)', 'Structural equation modeling', 'Shem']"
+Semiconservative DNA Replication,True,DNA,False,Deoxyribonucleic Acid,From Acronym definition config file.
+TATA box,True,TATA,False,Tata Motors,"From Wikipedia/Google: ['Tata Motors', 'Tata Group', 'Tata', 'Ratan Tata', 'Jamsetji Tata']"
+transfer RNA (tRNA),True,RNA,False,Ribonucleic Acid,From Acronym definition config file.
+Transmission Electron Microscope (TEM),True,TEM,False,Tem,"From Wikipedia/Google: ['Tem', 'Transmission electron microscopy', 'TEMS', 'Tem Lukabu', 'Pro tempore']"

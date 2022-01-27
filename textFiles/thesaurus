@@ -1,0 +1,224 @@
+USGS Thesaurus
+USGS Thesaurus
+Explore
+Outline
+Web Services
+Check terms
+Common Geographic Areas
+FAQ
+Suggest a term
+Purpose
+The USGS Thesaurus provides a controlled vocabulary of scientific concepts relevant to the mission and work of the USGS. This controlled vocabulary helps to categorize USGS information and allows people and computers to find collections of information resources that have common characteristics.
+Content
+The USGS Thesaurus is structured as a hierarchy of terms because relationships between concepts are represented.
+For example, Sciences is broad and general concept. A more specific type of Sciences is Earth Sciences. In the USGS Thesaurus, Sciences is a broader or parent term to Earth Sciences.
+The USGS Thesaurus has the following top-level categories that are used to group scientific concepts.
+Sciences
+Major educational fields, fields of study, and professional groupings within USGS.
+Methods
+Techniques, methods, procedures, or strategies for research, management, collection, or analysis of scientific information in USGS.
+Topics
+Themes, subjects, and concerns for which USGS information resources are relevant.
+Product types
+General representation of the information in a resource, such as a map or dataset.
+Time periods
+Geologic time periods and seasons of the year.
+Institutional structures and activities
+Activities, processes, and organizational concepts.
+Recent terms added to the USGS Thesaurus
+2021
+acid-base accounting,
+acid neutralizing potential,
+bioenergetics,
+biological soil crusts,
+carbon flux,
+coal ash,
+ecosystem resilience,
+environmental proxies,
+fluid migration,
+ground failure,
+induced seismicity,
+microplastic contamination,
+Mesoproterozoic,
+Paleoproterozoic,
+PFAS,
+platinum-group elements,
+produced water,
+protected areas,
+slag,
+solid industrial waste material,
+structure from motion,
+and
+thermal maturation.
+2020
+water column reflectivity,
+adaptive management.
+2019
+critical minerals.
+2018
+study areas,
+contouring,
+lakebed acoustic reflectivity,
+lakebed characteristics,
+stratigraphic thickness,
+laboratory experiments,
+electrical resistivity imaging,
+continuous resitivity profiling,
+magnetotelluric surveying, and
+ground penetrating radar.
+2017
+LORAN-C navigation,
+subsampling, and
+field activity logs.
+2016
+coastal infrastructure relocation,
+soft shoreline stabilization,
+hard shoreline stabilization,
+mitigation of coastal hazards,
+shoreline accretion,
+coastal submergence,
+coastal emergence,
+barrier island migration,
+tidal currents,
+grab sampling,
+vibracoring,
+rotary drilling,
+push coring,
+augering,
+piston coring,
+gravity coring,
+box coring,
+El Nino-Southern Oscillation,
+ocean acidification,
+materials flow (commodities),
+resource supply and demand, and
+environmental DNA.
+2015
+sub-bottom profiling,
+sea-floor acoustic reflectivity,
+survey flight lines, and
+digitization.
+2014
+aquaculture water use,
+public supply water use,
+survey ship tracklines,
+beach nourishment,
+image mosaics,
+application programming interfaces,
+soil horizons, and
+mineral deposits.
+2013
+anatomical deformities,
+sidescan sonar,
+interferometric sonar,
+multibeam sonar,
+single-beam echo sounder,
+hydraulic fracturing,
+habitat fragmentation,
+dredge sampling,
+karst,
+ecosystem services, and
+citizen science programs.
+2012
+soil temperature,
+soil moisture,
+White-Nose Syndrome, and
+population (human).
+2011
+statistical surveying,
+recycling,
+alteration,
+enhanced oil recovery,
+data management,
+information system administration,
+data communication,
+data integration,
+social network development,
+web interface development,
+web service development,
+markup and query language development,
+data packaging,
+information architecture,
+knowledge organization system development,
+improvement of scientific data usability,
+data preservation,
+metadata management,
+data rescue,
+database administration,
+network administration,
+information system security,
+software development,
+x-ray fluorescence,
+dissolved organic compounds,
+dissolved metals,
+mine waste, and
+wind energy.
+Technical guide
+Detailed technical information is available in Frequently Asked Questions list.
+See also:
+Keywords in metadata: what to expect from them, what not to expect; how to choose them; how to get the most value from them.
+The thesaurus is limited in depth and specificity of coverage. It does not
+attempt to replicate existing controlled vocabularies such as AGI's GeoRef.
+The intention is to provide sufficient contextual cues for the information
+seeker to determine the relevance of a resource for his or her concern, not
+to locate precisely the answer to a specific user question.
+History
+Science Topics, a component of the USGS home page from 2005 to 2015,
+was a browsable index of web resources intended for the public.
+It
+augmented traditional search and site-specific browse interfaces in
+concert with a "USGS by State" and "About USGS" sites, and was
+specifically intended to work alongside those facilities.
+This infrastructure was specifically intended to help people outside
+USGS find information on USGS web sites without specific knowledge of
+the organizational structure and operations of the USGS.
+The interface
+design was based on the idea that finding information cannot be
+separated from understanding, so in the process of browsing or
+searching a user is assisted by seeing relationships among scientific
+concepts, and learns while searching.
+Underpinning this interface were several controlled vocabularies
+structured as formal thesauri and authority lists, a catalog of web
+resources appropriate for the intended audience, and software used to
+create, review, and modify both the controlled vocabularies and the
+catalog records.
+The system served as an example of the reapplication
+of classic library methodologies in the web setting.
+Each information resource in the Science Topics catalog was categorized
+using several index terms.
+Consequently a document would be listed
+under each category for which it would be considered a relevant
+resource.
+Approximately 2000 web resources were listed in the catalog.
+Download
+File or package
+Format
+Size
+Contents
+update-usgs-thesaurus.sql
+SQL
+417 kB
+SQL code to update your copy of the USGS Thesaurus
+thesauri.zip
+SQLite
+8 MB
+USGS Thesaurus and other public thesauri
+USGSThesaurus.rdf
+RDF-XML
+963 kB
+SKOS for USGS Thesaurus only (lacks Use-With terms)
+CommonGeographicAreas.rdf
+RDF-XML
+73 MB
+SKOS or Common Geographic Areas thesaurus
+CMECS.rdf
+RDF-XML
+575 kB
+SKOS for Coastal and Marine Ecological Classification System
+MarinePlanningData.rdf
+RDF-XML
+99 kB
+SKOS for Data Categories for Marine Planning
+Questions and comments about the thesaurus or the USGS implementation of it
+can be sent to GS-CDI-ControlledVocabulary@usgs.gov.
+DOI Privacy PolicyLegalAccessibilitySite MapContact USGSU.S. Department of the InteriorDOI Inspector GeneralWhite HouseE-govNo Fear ActFOIAFollowTwitterFacebookGoogle+GitHubFlickrYouTubeInstagram

@@ -1,0 +1,4 @@
+Input Term,isAcronym,Extracted Term,isDescription,Description,Context
+CNO cycle,True,CNO,False,CNO cycle,"From Wikipedia/Google: ['CNO cycle', 'Chief of Naval Operations', 'CNO', 'CNO Financial Group', 'Mercury(II) fulminate']"
+colour index CI = B – V,True,CI,False,CI,"From Wikipedia/Google: ['CI', '.ci', 'K-Ci', 'CI/CD', 'CiCi Bellis']"
+X-ray,True,X-ray,False,X-ray,"From Wikipedia/Google: ['X-ray', 'X-ray crystallography', 'Battle of Ia Drang', 'X-ray fluorescence', 'X-ray generator']"
