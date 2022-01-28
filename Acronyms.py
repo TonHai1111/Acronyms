@@ -198,7 +198,7 @@ def checkAcronym_addDescription_v3(dict_in = dict_input_extracted_json):
         file = open("InputFiles_v2/" + key, 'r')
         json_data = json.load(file)
         for item in json_data["Terms"]:
-            words = re.split(' |\(|\)', item["Term"])
+            words = re.split(' |\(|\)', str(item["Term"]))
             isAcr = False
             isDec = False
             term = ""
@@ -248,6 +248,7 @@ def buildRow(GivenDescriptions, header, line, term, isAcr, isDec, decs, cont):
         else:
             row['isDescription'] = str(isDec)
             wiki_data = getAcronymDefinitionWiki(term)
+            #wiki_data = "" #For testing
             if(wiki_data):
                 row['Description'] = wiki_data[0]
                 row['Context'] = "From Wikipedia/Google: " + str(wiki_data)
@@ -257,7 +258,7 @@ def buildRow(GivenDescriptions, header, line, term, isAcr, isDec, decs, cont):
     return row
 
 if __name__ == "__main__":
-    findAcronymsFromInputLinks(dict_input_json)
+    #findAcronymsFromInputLinks(dict_input_json)
     checkAcronym_addDescription(dict_input_extracted_json)
     
     #extractAcronymsFromText("Input.csv")
