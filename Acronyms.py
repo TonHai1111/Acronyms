@@ -171,28 +171,49 @@ def checkAcronym_addDescription_v2(dict_in = dict_input_extracted):
 def checkAcronym_addDescription_v3(dict_in = dict_input_extracted_json):
     #Load AcronymDefinition from file...
     GivenDescriptions = loadAcronymDefinition()
-
+    all_acronyms = {}
     for key,value in dict_in.items():
         if(value == ''):
             continue
-        rows = []
-        acronyms = []
         print ('Loading extracted acronyms...')
         if(isinstance(value, str)): #single file
             with open("extractedAcronyms/" + value, 'r') as f:
                 csvreader = csv.reader(f)
                 header = next(csvreader)
                 for r in csvreader:
-                    ro = {'Term': r[0], 'Description': r[1], 'Context': r[2]}
-                    acronyms.append(ro)
+                    ro = { 'Description': r[1], 'Context': r[2]}
+                    all_acronyms[r[0]] = ro
+                    #all_acronyms.append(ro)
         else: # many files
             for item in value:
                 with open("extractedAcronyms/" + item, 'r') as f:
                     csvreader = csv.reader(f)
                     header = next(csvreader)
                     for r in csvreader:
-                        ro = {'Term': r[0], 'Description': r[1], 'Context': r[2]}
-                        acronyms.append(ro)
+                        ro = { 'Description': r[1], 'Context': r[2]}
+                        all_acronyms[r[0]] = ro
+
+    for key,value in dict_in.items():
+        if(value == ''):
+            continue
+        rows = []
+        acronyms = {}
+        print ('Loading extracted acronyms...')
+        if(isinstance(value, str)): #single file
+            with open("extractedAcronyms/" + value, 'r') as f:
+                csvreader = csv.reader(f)
+                header = next(csvreader)
+                for r in csvreader:
+                    ro = {'Description': r[1], 'Context': r[2]}
+                    acronyms[r[0]]=ro
+        else: # many files
+            for item in value:
+                with open("extractedAcronyms/" + item, 'r') as f:
+                    csvreader = csv.reader(f)
+                    header = next(csvreader)
+                    for r in csvreader:
+                        ro = {'Description': r[1], 'Context': r[2]}
+                        acronyms[r[0]]=ro
 
         print('Reading input from file: ' + str(key))
         file = open("InputFiles_v2/" + key, 'r')
@@ -212,19 +233,23 @@ def checkAcronym_addDescription_v3(dict_in = dict_input_extracted_json):
                     term = word
                     break
             if(isAcr): #Find description
-                for ac in acronyms:
-                    if(ac['Term'] == term):
+                if(term in acronyms):
+                    isDec = True
+                    decs = acronyms[term]['Description']
+                    cont = acronyms[term]['Context']
+                else:
+                    if(term in all_acronyms):
                         isDec = True
-                        decs = ac['Description']
-                        cont = ac['Context']
-                        break
+                        decs = all_acronyms[term]['Description']
+                        cont = all_acronyms[term]['Context'] 
+                   
                 #Build row
                 row = buildRow(GivenDescriptions, ["Term"], [item["Term"]], term, isAcr, isDec, decs, cont)
                 rows.append(row)
         file.close()
         fieldheader = ["Input Term", "isAcronym", "Extracted Term", "isDescription", "Description", "Context"]
-        print("Writing output to file: " + "outputFiles/" + key)
-        writeRowsToCSV_v2(rows, "outputFiles/" + key, fieldheader)
+        print("Writing output to file: " + "outputFiles/" + key[:key.find('.json')] + ".csv")
+        writeRowsToCSV_v2(rows, "outputFiles/" + key[:key.find('.json')] + ".csv", fieldheader)
 
     return
 
